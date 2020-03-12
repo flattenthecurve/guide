@@ -5,10 +5,6 @@
 layout: home
 ---
 
-# Coronavirus (COVID-19)
-
-## Update and Thorough Guidance
-
 {% for item in site.data.sections %}
   {% capture my_include %}{% include_relative {{ item }} %}{% endcapture %}
   {{ my_include | markdownify }}
