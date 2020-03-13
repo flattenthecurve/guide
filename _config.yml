@@ -30,6 +30,7 @@ destination: build # required for github publish workflow
 markdown: kramdown
 theme: minima
 plugins:
+  - jekyll-toc
   # - jekyll-feed
 
 # Exclude from processing.
