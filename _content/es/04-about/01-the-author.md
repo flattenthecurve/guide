@@ -1,6 +1,6 @@
 ## Acerca de la autora
 
-![Retrato de Julie McMurry](https://flattenthecurve.com/wp-content/uploads/2020/03/Julie-McMurry.png)
+![Retrato de Julie McMurry](images/en/Julie-McMurry.png)
 
 Tengo una maestría en Salud Pública, otorgada en la [Escuela de Higiene y Medicina Tropical de la Universidad de Londres](http://lshtm.ac.uk) y he trabajado en enfermedades infecciosas y desarrollo de vacunas. El impacto de esta pandemia va a ser innecesariamente ampliado por la desinformación, así que permanece atento. He tratado de ser tan precisa como me ha sido posible sin tratar de causar pánico. No he recibido pagos por preparar esta información, sino que dado mi entrenamiento, siento que es mi responsabilidad. Éste es un esfuerzo voluntario y todos los que estén calificados en la materia son bienvenidos a contribuír. Honestamente, la única razón por la que no es anónimo es porque eso dificultaría que los demás lo tomen en serio, y necesitamos toda la seriedad que podamos darle en este momento.
 

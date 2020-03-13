@@ -1,8 +1,10 @@
-## Si quieres colaborar con la operación de este sitio
+## Cómo colaborar con el sitio
 
 Primero que nada, ¡gracias! Estamos poniendo mucho trabajo voluntario en este sitio para tratar de hacerlo el mejor y más útil recurso en estos tiempos de incertidumbre sobre el COVID-19. Hay, sin embargo, algunos costos asociados a ello, como los costos de los servidores, o potencialmente contratar a alguien que ayude a administrar el trabajo a medida que el sitio crezca.
 
-**Si quieres colaborar**, vamos a agradecer cualquier monto, y [lo puedes hacer a través de este enlace de PayPal](https://paypal.me/markey).
+**Si quieres colaborar económicamente**, vamos a agradecer cualquier monto, y [lo puedes hacer aquí](https://opencollective.com/flattenthecurve).
+
+**Si quieres contribuir con contenido, revisiones o traducciones**, mira [aquí](https://github.com/flattenthecurve/guide/#how-to-contribute).
 
 No te sientas en la obligación de contribuir - esta información es libre y gratuita para acceder y compartir.
 

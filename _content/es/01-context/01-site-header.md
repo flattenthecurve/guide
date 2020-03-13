@@ -5,7 +5,7 @@
 # Últimos datos y Orientación Detallada
 
 {:.no_toc.text-center}
-## Recopilación hecha por [Julie McMurry, MPH](https://twitter.com/figgyjam)
+## Recopilación hecha por [Julie McMurry, MPH](https://twitter.com/flattencurve)
 
 {:.no_toc.text-center}
 ## Traducido al Español por [Mónica Muñoz Torres, PhD](https://twitter.com/monimunozto)
