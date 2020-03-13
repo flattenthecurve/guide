@@ -25,5 +25,5 @@ jobs:
         uses: manastech/lokalise-file-push@ftc
         with:
           api-token: ${{ secrets.LOCALIZE_TOKEN }}
-          project-id: 163342805e6ac0fd30a795.32454747
+          project-id: 423383895e6b8c4b081a89.98184174
           file-path: build/i18n-en.json
