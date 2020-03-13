@@ -12,7 +12,7 @@ end
 Jekyll::Hooks.register :site, :post_write do |site|
   texts = {}
 
-  site.data['sections'].each do |file|
+  site.data['sections']['en'].each do |file|
     key = key_from_filename(file)
     content = File.open(file, 'r:UTF-8') { |f| f.read }
     texts[key] = content
@@ -22,4 +22,3 @@ Jekyll::Hooks.register :site, :post_write do |site|
     file.puts JSON.pretty_generate(texts)
   end
 end
-
