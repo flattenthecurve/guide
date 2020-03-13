@@ -1,3 +1,4 @@
+{:.do}
 ## LOOK BEYOND YOURSELF
 
 At all times, be kind to each other and be mindful of other people's worries. [You may be in a low risk group and feel this is nothing to

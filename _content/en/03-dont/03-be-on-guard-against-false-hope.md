@@ -1,3 +1,4 @@
+{:.dont}
 ## BE ON GUARD AGAINST FALSE HOPE OF "REMEDIES"
 
 Be good to your body. Expect companies to capitalize on your fear. Don't buy products that claim to protect or heal you at this point. Currently

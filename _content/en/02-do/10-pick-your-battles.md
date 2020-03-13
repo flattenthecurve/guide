@@ -1,3 +1,4 @@
+{:.do}
 ## PICK YOUR BATTLES; REDUCE NON-ESSENTIAL SOCIAL INTERACTIONS
 
 On a lighter note, go ahead and use the pandemic excuse to beg out of any in-person meeting / party / wedding you would attend only out of

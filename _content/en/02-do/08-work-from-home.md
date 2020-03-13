@@ -1,4 +1,5 @@
-## IF YOU CAN WORK FROM HOME, DO SO AS MUCH                      
+{:.do}
+## IF YOU CAN WORK FROM HOME, DO SO AS MUCH
 
 Not everyone can work from home (WFH) 100% of the time; that is ok. Part time WFH is better than none. Don't wait for your employer to mandate
 WFH for everyone. Ask your manager if it would be permissible for you personally. Encourage your colleagues.

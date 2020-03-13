@@ -1,4 +1,4 @@
-
+{:.dont}
 ## DO NOT TOUCH YOUR FACE
 
 [That is the most common way the virus enters the body.](https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html)

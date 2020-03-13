@@ -1,3 +1,4 @@
+{:.do}
 ## STAY CONNECTED, BUT AVOID CROWDS
 
 It is best to stand at a distance from people. 6 feet or more is safest from infectious droplet spread. The higher your underlying risk factors
