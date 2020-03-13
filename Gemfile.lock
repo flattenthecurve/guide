@@ -39,6 +39,7 @@ GEM
     jekyll-toc (0.13.1)
       jekyll (>= 3.7)
       nokogiri (~> 1.9)
+    jekyll-twitter-plugin (2.1.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (1.17.0)
@@ -77,6 +78,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-polyglot
   jekyll-toc
+  jekyll-twitter-plugin
   minima (~> 2.0)
   tzinfo-data
 

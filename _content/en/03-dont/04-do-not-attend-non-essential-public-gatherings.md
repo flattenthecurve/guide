@@ -5,15 +5,7 @@ There is overwhelming historical evidence for cancellation as an effective publi
 [here](https://twitter.com/joshmich/status/1235906489921007616), you can use that thread alone to help convince decisionmakers to cancel events.
 Here's the money shot:
 
-> There is a reason for canceling public gatherings. In a pandemic,
-> don't be Philadelphia (held a parade in 1918 when cases started to
-> come up, downplayed cases), be St. Louis (canceled gatherings). More
-> here: <https://t.co/KE7RYbxDGM>
-> [\@mlipsitch](https://twitter.com/mlipsitch?ref_src=twsrc%5Etfw)
-> [pic.twitter.com/wyrHx0nOLA](https://t.co/wyrHx0nOLA)
->
-> --- Florian Krammer (\@florian\_krammer) [March 6,
-> 2020](https://twitter.com/florian_krammer/status/1235761684431724550?ref_src=twsrc%5Etfw)
+{% twitter https://twitter.com/florian_krammer/status/1235761684431724550 align=center %}
 
 Don't wait to cancel until things are demonstrably really bad; this leaves available only the most socially disruptive interventions (like closing schools). Measures as extreme as closing schools tend to [burden vulnerable populations the most. (E.g., because the poorest kids only
 eat at school).](https://twitter.com/AWhitTwit/status/1236010269605687296) If you're in a position to help kids in these scenarios, try to [give money directly](https://twitter.com/ClintSmithIII/status/1237004025331167233); the case for this is well established. When elementary schools close, it also makes it harder for health workers, teachers, city officials, etc. to get to work and keep things on track. Kids may have [nowhere to go
