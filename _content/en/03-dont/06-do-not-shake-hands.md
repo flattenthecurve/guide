@@ -1,3 +1,4 @@
+{:.dont}
 ## DO NOT SHAKE HANDS. GET CREATIVE WITH ZERO-CONTACT GREETINGS
 
 [Some fun alternatives

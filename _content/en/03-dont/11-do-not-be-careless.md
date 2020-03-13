@@ -1,3 +1,4 @@
+{:.dont}
 ## DO NOT BE CARELESS 
 
 Don't be that person. It might not be about you but it is everyone's problem. Don't be careless in the hopes you get sick when you can "avoid

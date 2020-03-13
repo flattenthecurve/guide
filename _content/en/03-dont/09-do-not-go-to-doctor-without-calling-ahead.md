@@ -1,3 +1,4 @@
+{:.dont}
 ## DO NOT GO TO THE DOCTOR WITHOUT CALLING AHEAD 
 
 Do NOT go directly to the hospital. More guidance from CDC [here](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html).
