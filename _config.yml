@@ -24,6 +24,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+destination: build # required for github publish workflow
+
 # Build settings
 markdown: kramdown
 theme: minima
