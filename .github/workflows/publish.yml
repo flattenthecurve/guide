@@ -22,7 +22,7 @@ jobs:
           name: i18n-en.json
           path: build/i18n-en.json
       - name: Push english content to lokalise
-        uses: igorDolzh/lokalise-file-push@v0.0.6
+        uses: igorDolzh/lokalise-file-push@0.0.6
         with:
           api-token: ${{ secrets.LOCALIZE_TOKEN }}
           project-id: 163342805e6ac0fd30a795.32454747
