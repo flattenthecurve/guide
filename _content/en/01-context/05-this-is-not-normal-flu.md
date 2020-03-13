@@ -1,4 +1,4 @@
-# This is Not Normal Flu — Not Even in the Best Case.
+# This is not normal flu, not even in the best case
 
 The World Health Organization estimate of 3.5% is an average across age groups, and they have provided large surveillance data as evidence against high numbers of asymptomatic cases. There is very strong consensus that those aged 60+ and those with underlying conditions are the most impacted.
 

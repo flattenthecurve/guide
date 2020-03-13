@@ -1,5 +1,5 @@
 {:.dont}
-## DO NOT ATTEND NON-ESSENTIAL PUBLIC GATHERINGS
+## Do not attend non-essential public gatherings
 
 There is overwhelming historical evidence for cancellation as an effective public health measure. I've retweeted some good resources
 [here](https://twitter.com/joshmich/status/1235906489921007616), you can use that thread alone to help convince decisionmakers to cancel events.

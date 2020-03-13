@@ -1,5 +1,5 @@
 {:.do}
-## GET A FLU BUDDY (AKA 'PANDEMIC PAL' AND MAKE BACK-UP PLANS FOR CARE OF CHILDREN, PETS, AND THOSE IN NEED OF SPECIAL ASSISTANCE
+## Get a flu buddy (aka 'pandemic pal') and make back-up plans for care of children, pets, and those in need of special assistance
 
 Especially if you live by yourself. In the event of local transmission call each other daily. If anyone is sick, call them twice daily and have an agreed-upon contactless plan for delivering food, pain relief, and prescribed medications as well as for back up care of dependents.
 
