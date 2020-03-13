@@ -1,4 +1,4 @@
-module Reading
+module SectionsGenerator
   class Generator < Jekyll::Generator
     def generate(site)
       site.data['sections'] = {}
