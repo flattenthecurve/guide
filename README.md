@@ -3,6 +3,18 @@ This content is work in progress, please check back often as it will likely chan
 
 If you want to help, we need these roles:
 
+# Request or suggest an update or change
+
+English content is here: https://github.com/flattenthecurve/guide/tree/master/_content/en
+
+There is a folder for each topic and a file for each section. Instructions on how to edit content and request the change can be found here: https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-another-users-repository.
+
+Before submitting a change request, please check here to make sure that the same request has not yet been done: https://github.com/flattenthecurve/guide/pulls
+
+When changing the content significantly, please include a comment with a link to a trusted source or a justification for the change request.
+
+The reviewers team will do their best to take a look, confirm that the updated content is ok and push it to the live site.
+
 # Scientific reviewers
 All languages are needed here, but english will be needed for coordination. Domain expertise is key: public health, MD, virology, immunology, epidemiology, etc. 
 
