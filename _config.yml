@@ -31,6 +31,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-toc
+  - jekyll-polyglot
   # - jekyll-feed
 
 # Exclude from processing.
@@ -41,3 +42,8 @@ exclude:
   - Gemfile.lock
   - docker-compose.yml
   - README.md
+
+languages: ['en', 'es']
+default_lang: 'en'
+exclude_from_localization: ['assets', 'css', 'build']
+parallel_localization: false
