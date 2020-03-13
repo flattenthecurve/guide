@@ -5,7 +5,7 @@
 # Update and Thorough Guidance
 
 {:.no_toc.text-center}
-## Compiled by [Julie McMurry, MPH](https://twitter.com/flatterncurve)
+## Compiled by [Julie McMurry, MPH](https://twitter.com/flattencurve)
 
 {:.no_toc.text-center}
 ### Updated March 11, 2020 5:30 PM (US PT)
