@@ -23,7 +23,4 @@ consequences](https://www.bloomberg.com/news/articles/2020-03-06/biogen-employee
 
 I've put out the call for tooling that would help event planners model go/no-go decisions more appropriately. If you are a scientist interested in collaborating on this, let me know. In meantime, here is this:
 
-![](https://flattenthecurve.com/wp-content/uploads/2020/03/risk-of-allowing-death-1024x574.png){.aligncenter
-.size-large .wp-image-28 width="1024" height="574"
-sizes="(max-width: 1024px) 100vw, 1024px"
-srcset="https://www.flattenthecurve.com/wp-content/uploads/2020/03/risk-of-allowing-death-1024x574.png 1024w, https://www.flattenthecurve.com/wp-content/uploads/2020/03/risk-of-allowing-death-300x168.png 300w, https://www.flattenthecurve.com/wp-content/uploads/2020/03/risk-of-allowing-death-768x430.png 768w, https://www.flattenthecurve.com/wp-content/uploads/2020/03/risk-of-allowing-death.png 1314w"}
+![](images/en/risk-of-allowing-death.png)
