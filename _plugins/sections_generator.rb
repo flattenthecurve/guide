@@ -1,7 +1,7 @@
 module Reading
   class Generator < Jekyll::Generator
     def generate(site)
-      dir = "en"
+      dir = "_include/en"
       site.data['sections'] = Dir["#{dir}/**/*.md"].sort!
 
       full_md_content = StringIO.new
