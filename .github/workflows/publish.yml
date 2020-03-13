@@ -16,3 +16,13 @@ jobs:
           GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
           GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
         uses: manastech/jekyll-deploy-gh-pages@ftc
+      - name: Upload english content
+        uses: actions/upload-artifact@v1
+        with:
+          name: i18n-en.json
+          path: build/i18n-en.json
+      - name: Push english content to lokalise
+        uses: igorDolzh/lokalise-file-push@v0.0.6
+        api-token: ${{ secrets.LOCALIZE_TOKEN }}
+        project-id: 163342805e6ac0fd30a795.32454747
+        file-path: build/i18n-en.json
