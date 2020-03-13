@@ -5,7 +5,7 @@ module SectionsGenerator
       site.data['toc'] = {}
 
       site.languages.each do |lang|
-        dir = "_include/#{lang}"
+        dir = "_content/#{lang}"
         site.data['sections'][lang] = Dir["#{dir}/**/*.md"].sort!
 
         full_md_content = StringIO.new
