@@ -1,0 +1,5 @@
+# Primero lo primero: Aplanar la curva de crecimiento en el número de casos. En Inglés, [**\#FlattenTheCurve**](https://twitter.com/hashtag/FlattenTheCurve?src=hashtag_click)
+
+Se ha _derramado mucha tinta_ con especulaciones acerca de la “verdadera” tasa [de mortalidad causada por el brote]; pero aún estamos en la fase inicial de la pandemia, y podría tomar años determinar con precisión cuál es la tasa. PERO, sabemos que está **entre .5% y 4 por ciento de mortalidad; este rango provee evidencia más que adecuada para ordenar acciones preventivas que sean decisivas, inmediatas, y a larga escala**. Sin duda, es posible ver que lo más importante que podemos hacer es [aplanar la curva de la epidemia](https://www.economist.com/briefing/2020/02/29/covid-19-is-now-in-50-countries-and-things-will-get-worse) para que nuestros sistemas de salud puedan sobrellevar este reto, y para darle tiempo a los científicos para investigar posibles vacunas y tratamientos.
+
+![](images/en/flatten-the-curve.jpg)
