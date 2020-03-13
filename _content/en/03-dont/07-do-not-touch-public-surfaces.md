@@ -1,0 +1,3 @@
+## DO NOT TOUCH PUBLIC SURFACES WITH YOUR FINGERS; GET CREATIVE
+
+Where possible, use knuckles rather than finger tips (e.g., for elevator buttons, light switches, etc.). Open doors with your hips rather than your hands. You may use your elbows to open door handles, if it's an option. Use a sleeve to open a doorknob if needed.
