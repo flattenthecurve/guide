@@ -3,7 +3,7 @@ require 'json'
 require 'fileutils'
 
 def usage
-  puts "ruby ${ARGV[0]} es path/to/site.es.json"
+  puts "ruby ./import_language es path/to/site.es.json"
   exit 1
 end
 
@@ -30,6 +30,8 @@ Dir["#{source_dir}/**/*.md"].sort!.each { |filename|
 }
 
 translations = JSON.parse(File.open(translations_file, 'r:UTF-8') { |f| f.read })
+
+FileUtils.rm_r(language_dir(translations_lang))
 
 sections_to_files.each do |section, source_file|
   translated_file = source_file.sub(source_dir, language_dir(translations_lang))
