@@ -5,13 +5,14 @@
     prolonged illness.
 -   Zero guaranteed paid family leave to care for sick members
 -   Zero guaranteed financial or operational support for people who should self-quarantine. [People are therefore ignoring quarantine
-    because they need to eat.](https://twitter.com/iKaylaReed/status/1237006777474060294)
+    because they need to eat.](https://twitter.com/abcnews/status/1236462655012917249)
 -   Many people are uninsured. Given where things are right now (cryptic transmission and no available vaccine), the insurance companies have
     a moral obligation but have no financial incentive to improve testing and ensure access to care.
 -   In the USA insurance is tied to their employment, so when they get sick they are also vulnerable to bankruptcy. In a pandemic year this is devastating for an economy.
 
-Never has there been a clearer case for single-payer health care as a public good. The voting public in the US need to care as much about
-"keeping their doctor" as they do about keeping their doctor alive. Doctors worldwide are getting pummeled on the frontlines of this crisis,
+The fact that these safety nets do not exist in the US will complicate the behaviors required to #flattenthecurve compared to most other countries affected so far.
+
+Doctors worldwide are getting pummeled on the frontlines of this crisis,
 the lack of protective equipment is causing them to get infected, and themselves unable to get the care they need. For a personal lens on
 this, have a look [here](https://twitter.com/stuff_so/status/1236467114933813248), but this is by no means unique; the accounts are flooding in.
 
