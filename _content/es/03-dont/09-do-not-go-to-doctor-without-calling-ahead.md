@@ -5,4 +5,4 @@ NO vayas directamente al hospital. Aquí hay [recomendaciones de los CDC en Espa
  
 Los centros de llamadas están por supuesto abrumados en este momento con todas las “personas sanas que están preocupadas,” así que trata de dejar esas líneas abiertas para los que realmente lo necesitan. 
 
-![](images/en/covid19-symptoms.png)
+![](images/es/Sintomas-COVID19.png)

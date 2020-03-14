@@ -8,7 +8,7 @@
 ## Recopilación hecha por [Julie McMurry, MPH](https://twitter.com/flattencurve)
 
 {:.no_toc.text-center}
-## Traducido al Español por [Mónica Muñoz Torres, PhD](https://twitter.com/monimunozto)
+## Traducido al Español por [Mónica Muñoz Torres, PhD](https://www.linkedin.com/in/monimunozto/)
 
 {:.no_toc.text-center}
-### Actualizado el 11 de Marzo, 2020 - 5:30 PM (US Zona Pacífico)
+### Actualizado el 13 de Marzo, 2020 - 9:00 AM (EEUU Hora del Pacífico)
