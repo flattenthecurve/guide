@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   These guidelines are intended to help Flatten the Curve with the COVID19 outbreak,
   to help limit spread and reduce the load on hospitals and other healthcare.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://www.flattenthecurve.com/
+url: https://www.flattenthecurve.com
 twitter_username: FlattenCurve
 github_username:  flattenthecurve
 
