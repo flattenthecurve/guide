@@ -1,10 +1,8 @@
 ![](https://github.com/flattenthecurve/guide/workflows/Publish/badge.svg)
 
-# Source code and information related to FlattenTheCurve
-Update and thorough guidance related to the coronavirus (COVID-19) pandemic.
+# Coronavirus (COVID-19) pandemic: Update and thorough guidance
 
-### Where is the content being posted?
-See www.flattenthecurve.com.
+Content posted at https://www.flattenthecurve.com.
 
-### Want to contribute? 
-See our [contribution guide](CONTRIBUTING.md).
+## Want to contribute? 
+We need help from English content contributors, scientific reviewers, and translators alike. See our [contribution guide](CONTRIBUTING.md) for more information about how to help.

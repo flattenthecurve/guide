@@ -1,4 +1,5 @@
-# Keep the main thing the main thing: [**\#FlattenTheCurve**](https://twitter.com/hashtag/FlattenTheCurve?src=hashtag_click)
+# Keep the main thing the main thing 
+[**\#FlattenTheCurve**](https://twitter.com/hashtag/FlattenTheCurve?src=hashtag_click)
 
 A lot of ink has been spilled on speculation about the "true" rate; however we are still in the early phase of the pandemic and it could
 take years to precisely determine the rate. BUT we know that it is somewhere **between .5% and 4 percent mortality; this range is more than

@@ -39,3 +39,20 @@ More information to come.
 ## Translators
 We need to translate and adapt this content to as many languages as possible as soon as we can. Please [register here](https://forms.gle/HrrTiAt32RhfKU2NA) and we’ll start reaching out to onboard folks while we finalize self-serve instructions.
 
+### Update English text to lokalise
+
+On every commit on the `master` branch, we upload the English texts automatically to lokalise.
+
+### Update translations from lokalise
+
+To import all the translations from lokalise, run the following command in the root directory of this repository.
+
+```console
+$ ./import-translation.sh <LOKALISE_TOKEN>
+```
+
+You can get the `LOKALISE_TOKEN` from https://app.lokalise.com/profile, API tokens.
+
+This command will generate the `_translations/<LANG>.json` files and the `_content/<LANG>`. Then you will need to commit the desired changes.
+
+**NOTE:** All the changes to translations files should be done in lokalise and then imported by the described method.

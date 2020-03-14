@@ -24,3 +24,22 @@
   background-color: red;
   color: white;
 }
+
+.home {
+  display: grid;
+  grid-template-areas: "nav main";
+
+  @include media-query($on-laptop) {
+    grid-template-areas:
+      "main"
+      "nav";
+  }
+}
+
+.main{
+  grid-area: main;
+}
+.toc {
+  grid-area: nav;
+}
+

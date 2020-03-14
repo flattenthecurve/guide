@@ -11,4 +11,4 @@ No esperen a cancelar cuando las cosas ya estén terriblemente mal; ésto envía
 
 Hice un llamado para producir una herramienta que pueda ayudar a las personas encargadas de planear eventos, para que puedan estudiar la decisión de si hay / o no hay evento de una forma más apropiada. Si eres un científico interesado en colaborar con ésto, por favor avísame. Mientras tanto, aquí esta ésto: 
 
-![](images/en/risk-of-allowing-death.png)
+![](images/es/Riesgo-permitir-muerte.png)

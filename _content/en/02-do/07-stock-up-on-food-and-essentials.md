@@ -1,5 +1,6 @@
 {:.do}
-## Stock up on food and essentials - Early, gradually, and responsibly
+## Stock up 
+**on food and essentials - Early, gradually, and responsibly**
 
 Thread:
 

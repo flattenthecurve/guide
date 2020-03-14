@@ -8,4 +8,4 @@
 ## Compiled by [Julie McMurry, MPH](https://twitter.com/flattencurve)
 
 {:.no_toc.text-center}
-### Updated March 11, 2020 5:30 PM (US PT)
+### Updated {{site.data.last_updated[site.active_lang]}}
