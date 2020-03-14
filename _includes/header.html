@@ -23,6 +23,9 @@
         <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
         {%- endif -%}
         {%- endfor -%}
+        <div class="toc-mobile page-link">
+          {{site.data.toc[site.active_lang]}}
+        </div>
       </div>
     </nav>
     {%- endif -%}
