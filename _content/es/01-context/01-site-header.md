@@ -11,4 +11,4 @@
 ## Traducido al Español por [Mónica Muñoz Torres, PhD](https://www.linkedin.com/in/monimunozto/)
 
 {:.no_toc.text-center}
-### Actualizado el 13 de Marzo, 2020 - 9:00 AM (EEUU Hora del Pacífico)
+### Actualizado el {{site.data.last_updated[site.active_lang]}}
