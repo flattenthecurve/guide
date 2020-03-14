@@ -1,3 +1,3 @@
-![Chart showing that proactive measures flatten the number-of-cases curve to avoid overflowing healthcare systems](images/en/flatten-the-curve.jpg)
+![Diagrama que demustra que las medidas preventivas ayudan a aplanar la curva en el número de casos, evitando sobecargar los sistemas de salud](images/es/Aplanar-La-Curva.png)
 
 {{site.data.toc[site.active_lang]}}
