@@ -32,3 +32,6 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "i18n_data"
+
+gem "ruby-lokalise-api"
+gem "rubyzip"

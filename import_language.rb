@@ -1,43 +1,57 @@
 # Run as `ruby import_language.rb es path/to/site.es.json`
 require 'json'
 require 'fileutils'
-
-def usage
-  puts "ruby ./import_language es path/to/site.es.json"
-  exit 1
-end
-
-translations_lang = ARGV[0] || usage()
-translations_file = File.open(ARGV[1], 'r').path || usage()
-
-def key_from_filename(name)
-  basename = File.basename(name)
-  if basename =~ /\d\d-(.*)\.md/
-      return $1
-  else
-      raise "#{basename} doesn't match the \"99-some-file-name.md\" name format (in #{name})"
-  end
-end
+require 'ruby-lokalise-api'
+require 'open-uri'
+require 'zip'
+require_relative '_plugins/common'
 
 def language_dir(lang)
   "_content/#{lang}"
 end
-source_lang = "en"
-source_dir = language_dir(source_lang)
-sections_to_files = {}
-Dir["#{source_dir}/**/*.md"].sort!.each { |filename|
-  sections_to_files[key_from_filename(filename)] = filename
+
+SOURCE_LANG = "en"
+SOURCE_DIR = language_dir(SOURCE_LANG)
+
+SECTIONS_TO_FILES = {}
+Dir["#{SOURCE_DIR}/**/*.md"].sort!.each { |filename|
+  SECTIONS_TO_FILES[key_from_filename(filename)] = filename
 }
 
-translations = JSON.parse(File.open(translations_file, 'r:UTF-8') { |f| f.read })
+def generate_content(translations_lang, translations_file)
+  translations = JSON.parse(File.open(translations_file, 'r:UTF-8') { |f| f.read })
 
-FileUtils.rm_r(language_dir(translations_lang))
+  FileUtils.rm_r(language_dir(translations_lang), force: true)
 
-sections_to_files.each do |section, source_file|
-  translated_file = source_file.sub(source_dir, language_dir(translations_lang))
-  translated_dir = File.dirname(translated_file)
-  FileUtils.mkdir_p(translated_dir)
-  File.open(translated_file, "w:UTF-8") { |file|
-    file.puts translations[section]
-  }
+  SECTIONS_TO_FILES.each do |section, source_file|
+    translated_file = source_file.sub(SOURCE_DIR, language_dir(translations_lang))
+    translated_dir = File.dirname(translated_file)
+    FileUtils.mkdir_p(translated_dir)
+    File.open(translated_file, "w:UTF-8") { |file|
+      file.puts translations[section]
+    }
+  end
+end
+
+LOKALISE_TOKEN = ARGV[0]
+PROJECT_ID = "423383895e6b8c4b081a89.98184174"
+client = Lokalise.client LOKALISE_TOKEN
+
+puts "Building files from Lokalise"
+response = client.download_files(PROJECT_ID, {format: "json", filter_filenames: ["pasted.json"], replace_breaks: false})
+
+puts "Downloading #{response["bundle_url"]} ..."
+content = open(response["bundle_url"])
+Zip::File.open_buffer(content) do |zip|
+  zip.each do |entry|
+    next unless entry.name.end_with?("pasted.json")
+    next if entry.name.end_with?("#{SOURCE_LANG}/pasted.json")
+    lang = entry.name.split("/")[0]
+    dest = "_translations/#{lang}.json"
+    puts "Saving #{dest}"
+    entry.extract(dest) { true }
+
+    puts "Expanding .md"
+    generate_content(lang, dest)
+  end
 end
