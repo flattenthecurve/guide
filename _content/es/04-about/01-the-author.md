@@ -1,4 +1,4 @@
-## Acerca de la autora
+# Acerca de la autora
 
 ![Retrato de Julie McMurry](images/en/Julie-McMurry.png)
 
