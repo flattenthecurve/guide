@@ -1,4 +1,4 @@
-# About the author
+## About the author
 
 ![Headshot of Julie McMurry](images/en/Julie-McMurry.png)
 
