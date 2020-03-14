@@ -6,7 +6,7 @@ someone to help manage the work as the site grows.
 
 **If you'd like to contribute finantially**, we're very grateful for any amount, and [you can do that here](https://opencollective.com/flattenthecurve).
 
-**For contributing with content, reviews and translations** please go [here](https://github.com/flattenthecurve/guide/#how-to-contribute)
+**For contributing with content, reviews and translations** please go [here](https://github.com/flattenthecurve/guide/blob/master/CONTRIBUTING.md)
 
 Don't feel obligated to contribute--this information is free to access and share.
 
