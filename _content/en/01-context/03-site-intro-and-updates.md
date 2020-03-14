@@ -5,3 +5,5 @@ You can share this as widely as you like using the URL: [www.flattenthecurve.com
 **If you’d like to contribute to the site, whether adding to this page or writing a new, specific post, [click here](https://www.flattenthecurve.com/#how-to-help-and-contribute) or [please reach out here](/contact/).**
 
 Hyperlinks are provided to the original sources both for attribution and for referencing.
+
+{{site.data.toc[site.active_lang]}}
