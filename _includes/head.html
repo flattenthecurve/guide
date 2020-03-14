@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   {%- I18n_Headers -%}
-  <link rel="alternate" hreflang="x-default" href="https://www.flattenthecurve.com/" />
+  <link rel="alternate" hreflang="x-default" href="{{ site.url | absolute_url }}" />
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
