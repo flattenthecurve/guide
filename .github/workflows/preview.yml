@@ -1,0 +1,21 @@
+name: Preview
+
+on:
+  push:
+    branches:
+      - preview/**
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Build Jekyll site
+        run: |
+          docker-compose run --rm web /bin/bash -c "(bundle check || bundle install --jobs=3) && bundle exec jekyll build"
+      - uses: amondnet/now-deployment@v2
+        with:
+          zeit-token: ${{ secrets.ZEIT_TOKEN }}
+          now-org-id: ${{ secrets.NOW_ORG_ID }}
+          now-project-id: ${{ secrets.NOW_PROJECT_ID }}
+          working-directory: ./build
