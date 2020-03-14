@@ -5,7 +5,8 @@
 #lang-bar {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 15px 0;
+  text-align: right;
 
   li::before { content: ' | '; }
   li:first-of-type::before { content: none; }
