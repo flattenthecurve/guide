@@ -2,6 +2,8 @@ You can share this as widely as you like using the URL: [www.flattenthecurve.com
 
 **Update**: we’ve created an email newsletter to help you stay up to date with COVID19 and everyone’s efforts to #FlattenTheCurve. [You can click through and sign up here](https://flattenthecurve.substack.com/) (no spam, no marketing use, etc. Free!)
 
+**Disclaimer**: The dot com may suggest that this website is a for-profit organization, but that is not the case. It was created by and is contributed to by scientists and citizens trying to coordinate to do the right thing.
+
 **If you’d like to contribute to the site, whether adding to this page or writing a new, specific post, [please reach out here](/contact/).**
 
 Hyperlinks are provided to the original sources both for attribution and for referencing.
