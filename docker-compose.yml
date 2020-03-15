@@ -5,6 +5,10 @@ services:
     image: ruby:2.6
     working_dir: /src
     command: /bin/bash -c "(bundle check || bundle install --jobs=3) && bundle exec jekyll serve --host=0.0.0.0 --livereload"
+    environment:
+      - LC_ALL=C.UTF-8
+      - LANG=en_US.UTF-8
+      - LANGUAGE=en_US.UTF-8
     ports:
       - 4000:4000
       - 35729:35729

@@ -109,10 +109,10 @@ DEPENDENCIES
   jekyll-toc
   jekyll-twitter-plugin
   minima (~> 2.0)
-  minimal-mistakes-jekyll
+  minimal-mistakes-jekyll (~> 4.19.0)
   ruby-lokalise-api
   rubyzip
   tzinfo-data
 
 BUNDLED WITH
-   2.1.4
+   1.17.2
