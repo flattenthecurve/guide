@@ -2,7 +2,7 @@
 
 # To import all the translations from lokalise, run the following command
 #
-# $ ./import-translation.sh <LOKALISE_TOKEN>
+# $ ./import-translations.sh <LOKALISE_TOKEN>
 #
 # you can get the LOKALISE_TOKEN from https://app.lokalise.com/profile, API tokens
 #
