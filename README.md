@@ -1,9 +1,9 @@
 # How to contribute
 This content is work in progress, please check back often as it will likely change.
 
-If you want to help, we need these roles:
+If you want to help, here is how:
 
-# Request or suggest an update or change
+# I want to suggest an update or change
 
 English content is here: https://github.com/flattenthecurve/guide/tree/master/_content/en
 
@@ -15,17 +15,13 @@ When changing the content significantly, please include a comment with a link to
 
 The reviewers team will do their best to take a look, confirm that the updated content is ok and push it to the live site.
 
-# Scientific reviewers
-All languages are needed here, but english will be needed for coordination. Domain expertise is key: public health, MD, virology, immunology, epidemiology, etc.
+# I am a scientist with relevant bakcground
+We are using english as the master source of content. Domain expertise is key: public health, MD, virology, immunology, epidemiology, etc.
 
-Your job here is to review updates and changes made by the community and confirm they are accurate and appropriate.
+Your job here is to review updates and changes made by the community and confirm they are accurate and appropriate. Or to initiate your own changes.
 
-# English content contributors and editors
-We need to keep the information updated with recent developments and recommendations. In this role you can edit any portion of content and create a pull request to have a reviewer confirm and approve your editing.
+If you also speak another language, we need your help reviewing translations, please check this: https://github.com/flattenthecurve/guide/wiki/Content-verification-(for-translations)
 
-# Translators
-We need to translate and adapt this content to as many languages as possible as soon as we can.
-
-Please register here and we’ll start reaching out to onboard folks while we finalize self-serve instructions:
-
-https://forms.gle/HrrTiAt32RhfKU2NA
+# I can read English and translate to another language
+We need to keep the information updated in all languages with recent developments and recommendations. 
+For instructions, go here: https://github.com/flattenthecurve/guide/wiki/Content-translation
