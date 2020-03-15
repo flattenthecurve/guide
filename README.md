@@ -37,7 +37,7 @@ On every commit on the `master` branch, we upload the English texts automaticall
 To import all the translations from lokalise, run the following command in the root directory of this repository.
 
 ```console
-$ ./import-translation.sh <LOKALISE_TOKEN>
+$ ./import-translations.sh <LOKALISE_TOKEN>
 ```
 
 You can get the `LOKALISE_TOKEN` from https://app.lokalise.com/profile, API tokens.
