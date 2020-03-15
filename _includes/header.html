@@ -31,3 +31,13 @@
     {%- endif -%}
   </div>
 </header>
+
+<script>
+  const check = document.getElementById('nav-trigger')
+  const links = Array.from(document.querySelectorAll('.toc-entry a'))
+
+  links.forEach( (link) => {
+    link.addEventListener('click', () => { check.checked = false })
+  })
+
+</script>

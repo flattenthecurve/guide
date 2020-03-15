@@ -7,7 +7,9 @@
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
 }
 
 .site-title {
