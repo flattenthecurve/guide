@@ -18,11 +18,13 @@
 .do {
   background-color: green;
   color: white;
+  padding: 0.3em;
 }
 
 .dont {
   background-color: red;
   color: white;
+  padding: 0.3em;
 }
 
 .home {
@@ -40,6 +42,8 @@
   grid-area: main;
 }
 .toc {
+  font-weight: 400;
   grid-area: nav;
+  padding-right: 1.2em;
 }
 
