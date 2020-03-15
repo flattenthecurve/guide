@@ -1,43 +1,34 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+<div class="page__footer-follow">
+  <ul class="contact-list">
+    <li class="p-name">
+      {%- if site.author -%}
+      {{ site.author | escape }}
+      {%- else -%}
+      {{ site.title | escape }}
+      {%- endif -%}
+    </li>
+    {%- if site.email -%}
+    <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+    {%- endif -%}
+  </ul>
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+    <!-- <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li> -->
+  </ul>
+</div>
 
-  <div class="wrapper">
+<div class="page__footer-copyright">
+  <p>{{- site.description | escape -}}</p>
 
-    <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-            {{ site.author | escape }}
-            {%- else -%}
-            {{ site.title | escape }}
-            {%- endif -%}
-          </li>
-          {%- if site.email -%}
-          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-      </div>
-    </div>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        Text &copy; 2020 FlattenTheCurve.com
-      </div>
-      <div class="footer-col footer-col-3">
-        Site by <a href="https://www.twitter.com/seanmarkey">@SeanMarkey</a>, <a href="https://twitter.com/instedd">@InSTEDD</a>
-      </div>
-    </div>
-  </div>
-
-</footer>
+  Text &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Site by <a href="https://www.twitter.com/seanmarkey">@SeanMarkey</a>, <a href="https://twitter.com/instedd">@InSTEDD</a>
+  <br>
+  {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
