@@ -209,6 +209,7 @@
  */
 .page-content {
   padding: $spacing-unit 0;
+  padding-top: calc(#{$spacing-unit} * 3);
   flex: 1;
 }
 
