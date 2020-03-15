@@ -3,9 +3,13 @@ This content is work in progress, please check back often as it will likely chan
 
 If you want to help, here is how:
 
-# I want to suggest an update or change
+# There's something wrong, I want to suggest a fix or improvement
+Please go here and fiil out an issue:
+https://github.com/flattenthecurve/guide/issues/new/choose
 
-English content is here: https://github.com/flattenthecurve/guide/tree/master/_content/en
+# I want to make an update or change something (and I know how)
+
+English content in markdown is here: https://github.com/flattenthecurve/guide/tree/master/_content/en
 
 There is a folder for each topic and a file for each section. Instructions on how to edit content and request the change can be found here: https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-another-users-repository.
 
