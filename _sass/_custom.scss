@@ -5,7 +5,8 @@
 #lang-bar {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 15px 0;
+  text-align: right;
 
   li::before { content: ' | '; }
   li:first-of-type::before { content: none; }
@@ -25,25 +26,5 @@
   background-color: red;
   color: white;
   padding: 0.3em;
-}
-
-.home {
-  display: grid;
-  grid-template-areas: "nav main";
-
-  @include media-query($on-laptop) {
-    grid-template-areas:
-      "main"
-      "nav";
-  }
-}
-
-.main{
-  grid-area: main;
-}
-.toc {
-  font-weight: 400;
-  grid-area: nav;
-  padding-right: 1.2em;
 }
 
