@@ -7,9 +7,7 @@
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
-  position: fixed;
-  width: 100%;
-  z-index: 10;
+  position: relative;
 }
 
 .site-title {
@@ -56,7 +54,6 @@
     top: 9px;
     right: $spacing-unit / 2;
     background-color: $text-color;
-    text-align: right;
 
     label[for="nav-trigger"] {
       display: block;
@@ -209,7 +206,6 @@
  */
 .page-content {
   padding: $spacing-unit 0;
-  padding-top: calc(#{$spacing-unit} * 3);
   flex: 1;
 }
 
