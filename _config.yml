@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Flatten the curve - COVID-19
+title: Flatten the Curve - COVID-19
+name: FlattenTheCurve.com
 email: hello@flattenthecurve.com
 description: >- # this means to ignore newlines until "baseurl:"
   These guidelines are intended to help Flatten the Curve with the COVID19 outbreak,
@@ -27,7 +28,28 @@ destination: build # required for github publish workflow
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: "single"
+      toc: true
+      toc_sticky: true
+footer:
+  links:
+    - label: "FlattenCurve"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/flattencurve"
+    - label: "flattenthecurve"
+      icon: "fab fa-fw fa-github"
+      url: "https:/github.com/flattenthecurve"
+
+
 plugins:
   - jekyll-toc
   - jekyll-polyglot
