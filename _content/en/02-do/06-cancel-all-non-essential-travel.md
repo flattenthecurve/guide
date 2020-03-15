@@ -1,5 +1,5 @@
 {:.do}
-## Travel
+## Canccel Travel
 **Cancel all non-essential travel anywhere**
 
 This illness can [start slow and accelerate suddenly](https://www.nejm.org/doi/full/10.1056/NEJMoa2001191). If you are away from home when it does, you're away from the systems that could keep you fed and cared for even if you turn out not to have a bad case. Even if you remain healthy, you could end up being quarantined. It is atbest boring, at worst [terrible conditions](https://twitter.com/alankilbourne2/status/1236541651692204033),
