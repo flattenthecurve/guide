@@ -8,21 +8,22 @@ assignees:
 ---
 Please report the issue under the apppriate header below.
 
-**Content to be added or changed**
+**Content to be added or changed:**
 
 
-**Typo to be fixed**
+**Typo to be fixed:**
 
 Typo: 
 
-Fix: 
+Proposed fix: 
 
 
-**Grammar error**
+**Grammar error:**
 
 Error:
 
-Fix:
+Proposed fix:
 
 
 **Stylistic update and layout suggestion**
+Proposed fix:
