@@ -19,7 +19,7 @@ When changing the content significantly, please include a comment with a link to
 
 The reviewers team will do their best to take a look, confirm that the updated content is ok and push it to the live site.
 
-# I am a scientist with relevant bakcground
+# I am a scientist with relevant background
 We are using english as the master source of content. Domain expertise is key: public health, MD, virology, immunology, epidemiology, etc.
 
 Your job here is to review updates and changes made by the community and confirm they are accurate and appropriate. Or to initiate your own changes.
