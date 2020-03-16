@@ -1,4 +1,7 @@
-{:.do}
+{:.only_toc}
+## Social interactions
+
+{:.do.no_toc}
 ## Pick your battles; reduce non-essential social interactions
 
 On a lighter note, go ahead and use the pandemic excuse to beg out of any in-person meeting / party / wedding you would attend only out of

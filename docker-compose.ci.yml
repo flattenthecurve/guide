@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  web:
+    volumes:
+      - ~/cache/bundle:/usr/local/bundle

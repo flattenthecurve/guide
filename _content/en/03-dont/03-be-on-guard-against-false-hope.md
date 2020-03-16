@@ -1,4 +1,7 @@
-{:.dont}
+{:.only_toc}
+## Be on guard
+
+{:.dont.no_toc}
 ## Be on guard against false hope of "remedies"
 
 Be good to your body. Expect companies to capitalize on your fear. Don't buy products that claim to protect or heal you at this point. Currently

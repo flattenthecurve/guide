@@ -1,4 +1,7 @@
-{:.do}
+{:.only_toc}
+## Spread the word
+
+{:.do.no_toc}
 ## Spread the word and lobby your reps for vital research
 
 If it is any indication, the link tracking for this very guidance document (stats can be viewed at [bit.ly/corona-guidance+](https://bit.ly/corona-guidance+)) shows that the word is getting out on twitter, where scientists have a larger usership; however it is lagging on facebook and on direct shares where the general public need it most. Call a friend. Call your family. You will have the most influence on people you personally know. While there are certainly reasons not to panic, most people should be more concerned than they are. Raise the floor of awareness, not the ceiling; this will be much more effective in the long run.

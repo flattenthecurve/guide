@@ -1,3 +1,7 @@
+{:.only_toc}
+# Healthcare system
+
+{:.no_toc}
 # The US healthcare system is not well enough prepared. No one is
 
 In the USA, our health care capacity is under 1 million staffed beds; this is not adequate to accommodate the number of [hospitalizations we
