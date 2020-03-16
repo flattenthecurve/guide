@@ -8,7 +8,7 @@ time](https://twitter.com/AdamJKucharski/status/1236004937529798659). Cryptic tr
 was detected in Seattle](https://twitter.com/trvrb/status/1236096904678633472). Seattle and Stanford are doing an amazing job of getting up to speed with their own testing kits; [about 5-7% of tests in Seattle are positive](https://twitter.com/UWVirology/status/1236017803162873856) and
 anyone (with a doctor's indication) can be tested.
 
-![](images/en/seattle-flu-research.png)
+![](/images/en/seattle-flu-research.png)
 
 (For the sake of public health, University of Washington are publishing these results). So far only UW and Stanford have been moving ahead with
 their own (non-CDC) testing; both of these institutions have mandated that in-person classes be moved to distance learning alternatives. That

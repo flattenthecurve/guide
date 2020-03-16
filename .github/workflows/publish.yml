@@ -10,20 +10,39 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Build & Deploy to GitHub Pages
+      - uses: actions/cache@v1
+        with:
+          path: ~/cache/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - name: Build Jekyll site
+        run: |
+          mv docker-compose.ci.yml docker-compose.override.yml
+          docker-compose run --rm web /bin/bash -c "(bundle check || bundle install --jobs=3) && JEKYLL_ENV=production bundle exec jekyll build"
+      - name: Publish to gh-pages branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
           GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
-        uses: manastech/jekyll-deploy-gh-pages@ftc
-      - name: Upload english content
+        run: ./_scripts/push-to-gh-pages.sh
+      - name: Upload English content
         uses: actions/upload-artifact@v1
         with:
-          name: i18n-en.json
+          name: english-content
           path: build/i18n-en.json
-      - name: Push english content to lokalise
+
+  publish_to_lokalise:
+    runs-on: ubuntu-latest
+    needs: build_and_deploy
+    steps:
+      - name: Download English content
+        uses: actions/download-artifact@v1
+        with:
+          name: english-content
+      - name: Push English content to Lokalise
         uses: manastech/lokalise-file-push@ftc
         with:
           api-token: ${{ secrets.LOCALIZE_TOKEN }}
           project-id: 423383895e6b8c4b081a89.98184174
-          file-path: build/i18n-en.json
+          file-path: english-content/i18n-en.json

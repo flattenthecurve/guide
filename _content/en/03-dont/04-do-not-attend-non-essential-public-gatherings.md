@@ -1,6 +1,8 @@
-{:.dont}
+{:.only_toc}
 ## Public gatherings
-**Do not attend non-essential public gatherings**
+
+{:.dont.no_toc}
+## Do not attend non-essential public gatherings
 
 There is overwhelming historical evidence for cancellation as an effective public health measure. I've retweeted some good resources
 [here](https://twitter.com/joshmich/status/1235906489921007616), you can use that thread alone to help convince decisionmakers to cancel events.
@@ -17,4 +19,4 @@ consequences](https://www.bloomberg.com/news/articles/2020-03-06/biogen-employee
 
 I've put out the call for tooling that would help event planners model go/no-go decisions more appropriately. If you are a scientist interested in collaborating on this, let me know. In meantime, here is this:
 
-![](images/en/risk-of-allowing-death.png)
+![](/images/en/risk-of-allowing-death.png)

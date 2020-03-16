@@ -41,9 +41,11 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - docker-compose.yml
+  - docker-compose.*.yml
   - README.md
   - import-translations.sh
   - import_language.rb
+  - build
 
 languages: ['en', 'es']
 default_lang: 'en'

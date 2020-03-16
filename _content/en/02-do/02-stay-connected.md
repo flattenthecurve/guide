@@ -1,6 +1,8 @@
-{:.do}
+{:.only_toc}
 ## Stay connected
-**but avoid crowds**
+
+{:.do.no_toc}
+## Stay connected, but avoid crowds
 
 It is best to stand at a distance from people. 6 feet or more is safest from infectious droplet spread. The higher your underlying risk factors
 (age, recent major surgery, cancer, immunocompromised, asthma, diabetes, etc), the more you should avoid crowds.

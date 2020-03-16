@@ -1,16 +1,20 @@
 @charset "utf-8";
 
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,400i,500i,700,700i,900i,900i');
+
 // Define defaults for each variable.
 
-$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-family: "Lato", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 $base-font-size:   16px !default;
-$base-font-weight: 400 !default;
+$base-font-weight: 300 !default;
+$bold-font-weight: 700 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
+$light-text-color: #fff !default;
 $background-color: #efefef !default;
 $brand-color:      #2a7ae2 !default;
 
@@ -21,10 +25,10 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    1200px !default;
+$content-width:    1100px !default;
 
-$on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-palm:          768px !default;
+$on-laptop:        1440px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -51,14 +55,14 @@ $on-laptop:        800px !default;
 ;
 
 .page-content .wrapper {
-  background-color: #fff;
+  background-color: $light-text-color;
   padding-top: 2em;
 }
 
 .site-header {
   background-color: $text-color;
   .site-title {
-    color: #fff;
+    color: $light-text-color;
   }
 }
 
