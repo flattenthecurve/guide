@@ -14,3 +14,4 @@ Other contributors, curators, reviewers and translators include:
 - **Monica Munoz-Torres, PhD** ([ORCID](https://orcid.org/0000-0001-8430-6039))
 - **Scott Teesdale, MPH & Epidemiologist**, ([Health and Technology Consultant](https://www.linkedin.com/in/scottteesdale/))
 - **Dr. Melissa Haendel, Director of the Center for Data to Health, Oregon Health & Science University**, ([Director of Translational Data Science, Oregon State University](https://tislab.org/))
+- **Benjamin F. E. Lange, PhD**, [LinkedIn](https://www.linkedin.com/in/dr-benjamin-f-e-lange-a609b838)
