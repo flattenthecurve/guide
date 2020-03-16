@@ -10,8 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+      - uses: actions/cache@v1
+        with:
+          path: ~/cache/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
       - name: Build Jekyll site
         run: |
+          mv docker-compose.ci.yml docker-compose.override.yml
           docker-compose run --rm web /bin/bash -c "(bundle check || bundle install --jobs=3) && bundle exec jekyll build"
       - uses: amondnet/now-deployment@v2
         with:
