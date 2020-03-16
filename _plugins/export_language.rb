@@ -1,6 +1,7 @@
 require 'json'
 
 Jekyll::Hooks.register :site, :post_write do |site|
+  next unless site.config['active_lang'] == 'en'
   texts = {}
 
   site.data['sections']['en'].each do |file|

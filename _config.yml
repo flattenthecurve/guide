@@ -48,6 +48,6 @@ exclude:
 
 languages: ['en', 'es']
 default_lang: 'en'
-exclude_from_localization: ['assets', 'css', 'build']
+exclude_from_localization: ['assets', 'css', 'build', 'images', 'CNAME', 'favicon.ico']
 parallel_localization: false
 google_analytics: UA-160096348-1
