@@ -39,7 +39,7 @@ PROJECT_ID = "423383895e6b8c4b081a89.98184174"
 client = Lokalise.client LOKALISE_TOKEN
 
 puts "Building files from Lokalise"
-response = client.download_files(PROJECT_ID, {format: "json", filter_filenames: ["pasted.json"], replace_breaks: false})
+response = client.download_files(PROJECT_ID, {format: "json", filter_filenames: ["pasted.json"], replace_breaks: false, placeholder_format: :icu})
 
 puts "Downloading #{response["bundle_url"]} ..."
 content = open(response["bundle_url"])
