@@ -3,7 +3,7 @@ This content is work in progress, please check back often as it will likely chan
 
 If you want to help, here is how:
 
-# There's something wrong, I want to suggest a fix or improvement
+# I want to suggest a fix, improvement or additional content
 Please go here and fiil out an issue:
 https://github.com/flattenthecurve/guide/issues/new/choose
 
