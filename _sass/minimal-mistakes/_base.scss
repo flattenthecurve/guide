@@ -13,7 +13,7 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: $doc-line-height;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -27,10 +27,11 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 2em 0 0.5em;
-  line-height: 1.2;
+  // margin: 2em 0 0.5em;
+  margin-bottom: $spacing-unit / 2;
+  line-height: $header-line-height;
   font-family: $header-font-family;
-  font-weight: bold;
+  font-weight: $header-font-weight;
 }
 
 h1 {
@@ -40,6 +41,7 @@ h1 {
 
 h2 {
   font-size: $h-size-2;
+  font-style: italic;
 }
 
 h3 {

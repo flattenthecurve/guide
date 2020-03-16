@@ -505,7 +505,7 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    color: $background-color;
     font-size: $type-size-6;
     background: $primary-color;
     border-top-left-radius: $border-radius;
@@ -515,7 +515,7 @@
   // Scrollspy marks toc items as .active when they are in focus
   .active a {
     @include yiq-contrasted($active-color);
-    font-weight: 700;
+    font-weight: $bold-font-weight;
   }
 }
 
@@ -532,8 +532,8 @@
     display: block;
     padding: 0.25rem 0.75rem;
     color: $muted-text-color;
-    font-weight: 500;
-    line-height: 1.5;
+    font-weight: $semibold-font-weight;
+    line-height: $doc-line-height;
     border-bottom: 1px solid $border-color;
 
     &:hover {
@@ -553,7 +553,7 @@
   padding-bottom: 1px;
   padding-left: 2.0em;
   font-size: $type-size-5;
-  font-weight: 400;
+  font-weight: $regular-font-weight;
   background-color: #fff;
 }
 
