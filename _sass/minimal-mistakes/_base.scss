@@ -13,6 +13,7 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
+  font-weight: $global-font-weight;
   line-height: $doc-line-height;
 
   &.overflow--hidden {
@@ -129,6 +130,7 @@ blockquote {
 
 a {
   text-decoration: none;
+  font-weight: $semibold-font-weight;
   &:focus {
     @extend %tab-focus;
   }
