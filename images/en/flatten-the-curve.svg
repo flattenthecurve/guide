@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210.88907mm"
+   height="80.840332mm"
+   viewBox="0 0 210.88907 80.840332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="flatten_the_curve.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="268.5735"
+     inkscape:cy="96.155343"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="background_image"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(21.15512,-93.100768)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="red_curve"
+     style="display:inline"
+     transform="translate(21.15512,-93.100768)">
+    <path
+       style="display:inline;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3.2072344,155.61442 C 27.487019,134.65268 22.896089,95.835136 40.357698,95.211507 61.050904,94.102839 52.028467,129.68928 90.604368,155.34715"
+       id="path918"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="blue_curve"
+     style="display:inline"
+     transform="translate(21.15512,-93.100768)">
+    <path
+       style="display:inline;fill:#0000ff;fill-opacity:0.49578413;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.8198944,155.61442 C 70.609326,142.07795 55.502972,133.78741 82.853553,126.74931 c 19.332497,-2.522 33.052337,1.24065 49.979407,6.41447 18.79795,7.30537 30.66601,17.20945 56.39386,21.9161"
+       id="path920"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="axes"
+     style="display:inline"
+     transform="translate(21.15512,-93.100768)">
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2.9399648,93.607889 3.2072344,155.61442 189.22682,155.07988"
+       id="path897"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000003, 4.00000011;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 3.4745038,124.87842 H 187.89048 v 0"
+       id="path928"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="labels"
+     style="display:inline"
+     transform="translate(21.15512,-93.100768)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:Carlito;-inkscape-font-specification:Carlito;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="75.102737"
+       y="121.40393"
+       id="text933"><tspan
+         sodipodi:role="line"
+         id="tspan931"
+         x="75.102737"
+         y="121.40393"
+         style="font-size:7.76111221px;stroke-width:0.26458332px">Healthcare system capacity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:Carlito;-inkscape-font-specification:Carlito;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-21.370094"
+       y="116.52311"
+       id="text933-3"><tspan
+         sodipodi:role="line"
+         id="tspan931-6"
+         x="-21.370094"
+         y="116.52311"
+         style="font-size:9.17222309px;stroke-width:0.26458332px"># of</tspan><tspan
+         sodipodi:role="line"
+         x="-21.370094"
+         y="120.05089"
+         style="font-size:9.17222309px;stroke-width:0.26458332px"
+         id="tspan955" /><tspan
+         sodipodi:role="line"
+         x="-21.370094"
+         y="125.16617"
+         style="font-size:9.17222309px;stroke-width:0.26458332px"
+         id="tspan953">cases</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:Carlito;-inkscape-font-specification:Carlito;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="62.018002"
+       y="164.36435"
+       id="text933-7"><tspan
+         sodipodi:role="line"
+         id="tspan931-5"
+         x="62.018002"
+         y="164.36435"
+         style="font-size:9.17222309px;stroke-width:0.26458332px">Time since first case</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:Carlito;-inkscape-font-specification:Carlito;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.6512744"
+       y="172.91791"
+       id="text933-35"><tspan
+         sodipodi:role="line"
+         id="tspan931-62"
+         x="2.6512744"
+         y="172.91791"
+         style="font-size:6.35000134px;stroke-width:0.26458332px">Adapted from CDC/The Economist</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:Carlito;-inkscape-font-specification:Carlito;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="124.46265"
+       y="138.70648"
+       id="text933-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan931-5-1"
+         x="124.46265"
+         y="138.70648"
+         style="font-size:7.76111221px;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.26458332px">With Protective</tspan><tspan
+         sodipodi:role="line"
+         x="124.46265"
+         y="142.23425"
+         style="font-size:7.76111221px;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.26458332px"
+         id="tspan1013" /><tspan
+         sodipodi:role="line"
+         x="124.46265"
+         y="146.99677"
+         style="font-size:7.76111221px;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.26458332px"
+         id="tspan1011">Measures</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:Carlito;-inkscape-font-specification:Carlito;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="41.396152"
+       y="115.11391"
+       id="text933-7-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan931-5-1-7"
+         x="41.396152"
+         y="115.11391"
+         style="font-size:7.76111221px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px">Without</tspan><tspan
+         sodipodi:role="line"
+         x="41.396152"
+         y="118.64169"
+         style="font-size:7.76111221px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px"
+         id="tspan1041" /><tspan
+         sodipodi:role="line"
+         x="41.396152"
+         y="123.40418"
+         style="font-size:7.76111221px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px"
+         id="tspan1039">Protective</tspan><tspan
+         sodipodi:role="line"
+         x="41.396152"
+         y="126.93196"
+         style="font-size:7.76111221px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px"
+         id="tspan1013-0" /><tspan
+         sodipodi:role="line"
+         x="41.396152"
+         y="131.69446"
+         style="font-size:7.76111221px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px"
+         id="tspan1011-9">Measures</tspan></text>
+  </g>
+</svg>
