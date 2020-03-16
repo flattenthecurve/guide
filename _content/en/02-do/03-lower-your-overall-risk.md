@@ -1,6 +1,8 @@
-{:.do}
-## Lower your overall risk 
-**with everyday choices**
+{:.only_toc}
+## Lower your overall risk
+
+{:.do.no_toc}
+## Lower your overall risk with everyday choices
 
 Taken together, making safer every-day choices on average --- not just this week but for the next several months --- can flatten the curve. Continue to support your local economy, but go off peak; staggering by even 15 minutes can reduce crowding. Everything from restaurants to art museums to public transport will be less risky (and more pleasant!) off peak.
 

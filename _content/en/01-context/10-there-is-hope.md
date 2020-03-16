@@ -1,5 +1,8 @@
-# There is hope. 
-**You're it. That's the work**
+{:.only_toc}
+# There is hope.
+
+{:.no_toc}
+# There is hope. You're it. That's the work
 
 You can help by following as much as possible of the following guidance. The earlier the precautions are taken, the more precautions are taken, the more lives are saved. It is that simple. Expect yesterday's under responders to be today's over-responders. Resist the urge to ricochet or give up hope. The key is to stay calm and do the steady work of infection control and urge others to follow suit.
 
