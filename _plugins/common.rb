@@ -12,3 +12,12 @@ def key_from_page_filename(name)
     return $1
   end
 end
+
+def key_from_top_level_file(name)
+  basename = File.basename(name)
+  if basename =~ /(.+)-(\w\w).md/
+    return $1
+  else
+    raise "#{basename} doesn't match the \"some-page-en.md\" name format (in #{name})"
+  end
+end

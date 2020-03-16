@@ -18,6 +18,11 @@ Dir["#{SOURCE_DIR}/**/*.md"].sort!.each { |filename|
   SECTIONS_TO_FILES[key_from_filename(filename)] = filename
 }
 
+TOP_LEVEL_PAGES = {}
+Dir["*-en.md"].sort!.each { |filename|
+  TOP_LEVEL_PAGES[key_from_top_level_file(filename)] = filename
+}
+
 def generate_content(translations_lang, translations_file)
   translations = JSON.parse(File.open(translations_file, 'r:UTF-8') { |f| f.read })
 
@@ -29,6 +34,17 @@ def generate_content(translations_lang, translations_file)
     FileUtils.mkdir_p(translated_dir)
     File.open(translated_file, "w:UTF-8") { |file|
       file.puts translations[section]
+    }
+  end
+
+  TOP_LEVEL_PAGES.each do |page, source_file|
+    puts "source_file: #{source_file}"
+    puts "page: #{page}"
+    puts "tranlsations_lang: #{translations_lang}"
+    translated_file = source_file.sub(/-en.md$/, "-#{translations_lang}.md")
+    puts "Translated_file: #{translated_file}"
+    File.open(translated_file, "w:UTF-8") { |file|
+      file.puts translations[page]
     }
   end
 end
