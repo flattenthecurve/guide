@@ -29,3 +29,12 @@ If you also speak another language, we need your help reviewing translations, pl
 # I can read English and translate to another language
 We need to keep the information updated in all languages with recent developments and recommendations. 
 For instructions, go here: https://github.com/flattenthecurve/guide/wiki/Content-translation
+
+# I am a developer and I want to help with the code
+The site is built on Jekyll, which is a static site generator. That documentation is found here: https://jekyllrb.com/docs/
+
+You can get a local copy of the site running quickly:
+
+1. Clone the repository
+2. From inside the project directory, run: `docker-compose up`. (You will need [docker](https://www.docker.com/) installed)
+3. You should then be able to point your browser to: `http://0.0.0.0:4000/`
