@@ -1,5 +1,5 @@
 {:.only_toc}
-## Travel
+## Cancel Travel
 
 {:.do.no_toc}
 ## Cancel all non-essential travel anywhere
