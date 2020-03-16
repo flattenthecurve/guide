@@ -1,7 +1,7 @@
-# This is not normal flu
+# This is not a normal flu
 **Not even in the best case**
 
-The World Health Organization estimate of 3.5% is an average across age groups, and they have provided large surveillance data as evidence against high numbers of asymptomatic cases. There is very strong consensus that those aged 60+ and those with underlying conditions are the most impacted.
+The World Health Organization estimate of 3.5% mortality rate is an average across age groups, and they have provided large surveillance data as evidence against high numbers of asymptomatic cases. There is very strong consensus that those aged 60+ and those with underlying conditions are the most impacted.
 
 ![Chart showing COVID-19's mortality rate tops at 14.8% on adults over 80 years old, and is less than 1% on people under 50](images/en/mortality.png)
 
