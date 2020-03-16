@@ -44,6 +44,7 @@ exclude:
   - README.md
   - import-translations.sh
   - import_language.rb
+  - build
 
 languages: ['en', 'es']
 default_lang: 'en'
