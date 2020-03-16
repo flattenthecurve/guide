@@ -34,7 +34,7 @@ All languages are needed here, but english will be needed for coordination. Doma
 
 Your job here is to review updates and changes made by the community and confirm they are accurate and appropriate. If you have 30 minutes per day or more to help with this, please fill out our [onboarding form](https://forms.gle/aPtMHFstGb5Dpod99)
 
-If you are profficient in a language other than English, your help with be great with [translation verifications] (https://github.com/flattenthecurve/guide/wiki/Translation-Verification)
+If you are profficient in a language other than English, your help with be great with [translation verifications](https://github.com/flattenthecurve/guide/wiki/Translation-Verification)
 
 -----
 
