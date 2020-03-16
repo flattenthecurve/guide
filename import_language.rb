@@ -34,6 +34,7 @@ def generate_content(translations_lang, translations_file)
 end
 
 LOKALISE_TOKEN = ARGV[0]
+SINGLE_LANG = ARGV[1]
 PROJECT_ID = "423383895e6b8c4b081a89.98184174"
 client = Lokalise.client LOKALISE_TOKEN
 
@@ -47,6 +48,7 @@ Zip::File.open_buffer(content) do |zip|
     next unless entry.name.end_with?("pasted.json")
     next if entry.name.end_with?("#{SOURCE_LANG}/pasted.json")
     lang = entry.name.split("/")[0]
+    next if SINGLE_LANG != nil && lang != SINGLE_LANG
     dest = "_translations/#{lang}.json"
     puts "Saving #{dest}"
     entry.extract(dest) { true }
