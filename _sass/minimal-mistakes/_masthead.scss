@@ -53,6 +53,7 @@
   align-self: center;
   font-weight: bold;
   // z-index: 20;
+
 }
 
 .site-subtitle {
@@ -87,6 +88,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-size: $type-size-6;
 
   &--lg {
     padding-right: 2em;
