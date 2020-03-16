@@ -26,14 +26,23 @@ jobs:
           GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
           GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
         run: ./_scripts/push-to-gh-pages.sh
-      - name: Upload english content
+      - name: Upload English content
         uses: actions/upload-artifact@v1
         with:
-          name: i18n-en.json
+          name: english-content
           path: build/i18n-en.json
-      - name: Push english content to lokalise
+
+  publish_to_lokalise:
+    runs-on: ubuntu-latest
+    needs: build_and_deploy
+    steps:
+      - name: Download English content
+        uses: actions/download-artifact@v1
+        with:
+          name: english-content
+      - name: Push English content to Lokalise
         uses: manastech/lokalise-file-push@ftc
         with:
           api-token: ${{ secrets.LOCALIZE_TOKEN }}
           project-id: 423383895e6b8c4b081a89.98184174
-          file-path: build/i18n-en.json
+          file-path: english-content/i18n-en.json
