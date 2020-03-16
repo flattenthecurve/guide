@@ -10,12 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Build & Deploy to GitHub Pages
+      - name: Build Jekyll site
+        run: |
+          docker-compose run --rm web /bin/bash -c "(bundle check || bundle install --jobs=3) && JEKYLL_ENV=production bundle exec jekyll build"
+      - name: Publish to gh-pages branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
           GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
-        uses: manastech/jekyll-deploy-gh-pages@ftc
+        run: ./_scripts/push-to-gh-pages.sh
       - name: Upload english content
         uses: actions/upload-artifact@v1
         with:
