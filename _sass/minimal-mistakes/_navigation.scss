@@ -553,7 +553,7 @@
   padding-top: 1px;
   padding-bottom: 1px;
   padding-left: 2.0em;
-  font-size: $type-size-5;
+  font-size: $type-size-4;
   font-weight: $regular-font-weight;
   background-color: #fff;
 }
@@ -562,7 +562,7 @@
 .toc__menu li > ul > li.active:hover > a,
 .toc__menu li > ul > li.active:focus > a {
   display: block;
-  font-weight: 700;
+  font-weight: $bold-font-weight;
   @include yiq-contrasted($active-color);
 }
 
