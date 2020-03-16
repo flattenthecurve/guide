@@ -1,11 +1,15 @@
 # How to contribute
 This content is work in progress, please check back often as it will likely change.
 
-If you want to help, we need these roles:
+If you want to help, here is how:
 
-# Request or suggest an update or change
+# There's something wrong, I want to suggest a fix or improvement
+Please go here and fiil out an issue:
+https://github.com/flattenthecurve/guide/issues/new/choose
 
-English content is here: https://github.com/flattenthecurve/guide/tree/master/_content/en
+# I want to make an update or change something (and I know how)
+
+English content in markdown is here: https://github.com/flattenthecurve/guide/tree/master/_content/en
 
 There is a folder for each topic and a file for each section. Instructions on how to edit content and request the change can be found here: https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-another-users-repository.
 
@@ -15,33 +19,22 @@ When changing the content significantly, please include a comment with a link to
 
 The reviewers team will do their best to take a look, confirm that the updated content is ok and push it to the live site.
 
-# Scientific reviewers
-All languages are needed here, but english will be needed for coordination. Domain expertise is key: public health, MD, virology, immunology, epidemiology, etc.
+# I am a scientist with relevant bakcground
+We are using english as the master source of content. Domain expertise is key: public health, MD, virology, immunology, epidemiology, etc.
 
-Your job here is to review updates and changes made by the community and confirm they are accurate and appropriate.
+Your job here is to review updates and changes made by the community and confirm they are accurate and appropriate. Or to initiate your own changes.
 
-# English content contributors and editors
-We need to keep the information updated with recent developments and recommendations. In this role you can edit any portion of content and create a pull request to have a reviewer confirm and approve your editing.
+If you also speak another language, we need your help reviewing translations, please check this: https://github.com/flattenthecurve/guide/wiki/Content-verification-(for-translations)
 
-# Translators
-We need to translate and adapt this content to as many languages as possible as soon as we can.
+# I can read English and translate to another language
+We need to keep the information updated in all languages with recent developments and recommendations. 
+For instructions, go here: https://github.com/flattenthecurve/guide/wiki/Content-translation
 
-Please register here and we’ll start reaching out to onboard folks while we finalize self-serve instructions:
+# I am a developer and I want to help with the code
+The site is built on Jekyll, which is a static site generator. That documentation is found here: https://jekyllrb.com/docs/
 
-https://forms.gle/HrrTiAt32RhfKU2NA
+You can get a local copy of the site running quickly:
 
-## Update English text to lokalise
-On every commit on the `master` branch, we upload the English texts automatically to lokalise.
-
-## Update translations from lokalise
-To import all the translations from lokalise, run the following command in the root directory of this repository.
-
-```console
-$ ./import-translation.sh <LOKALISE_TOKEN>
-```
-
-You can get the `LOKALISE_TOKEN` from https://app.lokalise.com/profile, API tokens.
-
-This command will generate the `_translations/<LANG>.json` files and the `_content/<LANG>`. Then you will need to commit the desired changes.
-
-**NOTE:** All the changes to translations files should be done in lokalise and then imported by the described method.
+1. Clone the repository
+2. From inside the project directory, run: `docker-compose up`. (You will need [docker](https://www.docker.com/) installed)
+3. You should then be able to point your browser to: `http://0.0.0.0:4000/`

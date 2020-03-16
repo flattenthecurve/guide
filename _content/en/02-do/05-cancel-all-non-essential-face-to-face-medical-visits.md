@@ -1,6 +1,5 @@
 {:.do}
-## Medic visits 
-**Cancel all non-essential face-to-face medic**
+## Cancel all non-essential face-to-face medic
 
 Hospitals are hot spots for transmission; get your vaccinations at a pharmacy rather than at the doctor. Find ways to do your physical therapy at home if possible.
 

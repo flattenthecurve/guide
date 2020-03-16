@@ -1,4 +1,3 @@
-## Affiliations
 **Please note, I'm not speaking on behalf of any institution**.
 I'm just applying what I know and listening to the evidence as it rapidly emerges. It isn't perfect. Please let me know if there are issues with
 the veracity or currency of this summary; if you are a virologist / public health professional, etc., and wish to contribute to it, please se the [contact page](/contact/) to get in touch.

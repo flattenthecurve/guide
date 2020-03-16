@@ -17,13 +17,13 @@
 }
 
 .do {
-  background-color: green;
+  background-color: #4dac26;
   color: white;
   padding: 0.3em;
 }
 
 .dont {
-  background-color: red;
+  background-color: #d01c8b;
   color: white;
   padding: 0.3em;
 }
@@ -31,4 +31,17 @@
 .toc-desktop, .toc-mobile {
   font-weight: 400;
   padding-right: 1.2em;
+}
+
+.section-nav {
+  margin-left: 0;
+}
+
+.toc-h1 {
+  list-style: none;
+}
+
+.toc-h1, .toc-h2 {
+  padding-top: 1em;
+  line-height: 1.2em;
 }
