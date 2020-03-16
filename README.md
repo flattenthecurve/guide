@@ -24,7 +24,7 @@ We are using english as the master source of content. Domain expertise is key: p
 
 Your job here is to review updates and changes made by the community and confirm they are accurate and appropriate. Or to initiate your own changes.
 
-If you also speak another language, we need your help reviewing translations, please check this: https://github.com/flattenthecurve/guide/wiki/Content-verification-(for-translations)
+If you also speak another language, we need your help reviewing translations, please check this: https://github.com/flattenthecurve/guide/wiki/Translation-Verification
 
 # I can read English and translate to another language
 We need to keep the information updated in all languages with recent developments and recommendations. 
