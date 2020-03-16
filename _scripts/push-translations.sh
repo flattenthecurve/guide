@@ -3,7 +3,7 @@
 set -e
 
 remote_repo="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" && \
-remote_branch="preview/translation-$IMPORT_LANG" && \
+remote_branch="preview-translation/$IMPORT_LANG" && \
 git remote add github $remote_repo && \
 git config user.name "${GITHUB_ACTOR}" && \
 git config user.email "${GITHUB_ACTOR}@users.noreply.github.com" && \
