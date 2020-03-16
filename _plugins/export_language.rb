@@ -2,7 +2,7 @@ require 'json'
 
 texts = {}
 
-Jekyll::Hooks.register :site, :pre_render do |site|
+Jekyll::Hooks.register :site, :after_reset do |site|
   texts = {}
 end
 
