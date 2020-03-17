@@ -54,3 +54,4 @@ parallel_localization: false
 google_analytics: UA-160096348-1
 collections: 
   - act_and_prepare
+  - resources
