@@ -3,6 +3,7 @@ layout: home
 title: Act & Prepare
 permalink: /act-and-prepare/
 lang: en
+order: 1
 ---
 
 <ul id="lang-bar">

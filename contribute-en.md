@@ -3,6 +3,7 @@ layout: page
 title: Contribute
 permalink: /contribute/
 lang: en
+order: 3
 ---
 
 # How to help and contribute
