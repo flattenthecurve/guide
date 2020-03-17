@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Act & Prepare
 permalink: /act-and-prepare/
 lang: en
@@ -13,3 +13,4 @@ lang: en
 {% for item in site.act-and-prepare[site.active_lang] %}
   {{ resource.content | markdownify }}
 {% endfor %}
+
