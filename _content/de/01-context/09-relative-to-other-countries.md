@@ -1,5 +1,3 @@
-# Meta-Talk über Gesundheitspolitik
+# Beschreibung der amerikanischen Gesundheitspolitik
 
-Kommt, wenn es ansteht…
-
-[translation missing]
+Momentan ist die Beschreibung der amerikanischen Gesundheitspolitik nur auf Englisch verfügbar.
