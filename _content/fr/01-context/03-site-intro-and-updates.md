@@ -1,0 +1,7 @@
+Vous pouvez partager cette information autant que vous voulez en utilisant l'URL : [www.flattenthecurve.com](https://www.flattenthecurve.com), via [facebook](https://www.facebook.com/photo.php?fbid=10158003174454431et=a.10150142889684431ype=3heater), ou via [twitter](https://twitter.com/flattencurve/status/1239568385832296450). Sachez tout de même, que le site est en constante évolution. La rapidité est d'une importance primordiale, il vaut mieux avoir un plan bien maintenant qu'un plan parfait plus tard. Si vous souhaitez nous aider à traduire vers une langue, vous pouvez nous contacter via la [page de contact](/contact/). Des travaux sont en cours pour traduire le site en italien, français, allemand et espagnol.
+
+**Mise à jour** : nous avons créé un bulletin d'information par courriel pour vous aider à rester au courant des actualités liées au COVID19 et des efforts de tous  #AplatirlaCourbe #FlattenTheCurve. [Vous pouvez cliquer et vous abonner ici](https://flattenthecurve.substack.com/) (pas de spam, pas d'utilisation marketing, etc. C'est gratuit !)
+
+**Si vous souhaitez contribuer au site, que ce soit en ajoutant des informations à cette page ou en écrivant un nouveau texte sur un question concrète, [cliquez ici](https://www.flattenthecurve.com/#how-to-help-and-contribute) ou [contactez-nous ici](/contact/).**
+
+Des hyperliens sont fournis vers les sources originales, tant pour l'attribution que pour le référencement.
