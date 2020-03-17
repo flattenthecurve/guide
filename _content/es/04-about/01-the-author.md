@@ -1,7 +1,3 @@
-# Acerca de la autora
+# Acerca de los autores
 
-![Retrato de Julie McMurry](images/en/Julie-McMurry.png)
-
-Tengo una maestría en Salud Pública, otorgada en la [Escuela de Higiene y Medicina Tropical de la Universidad de Londres](http://lshtm.ac.uk) y he trabajado en enfermedades infecciosas y desarrollo de vacunas. El impacto de esta pandemia va a ser innecesariamente ampliado por la desinformación, así que permanece atento. He tratado de ser tan precisa como me ha sido posible sin tratar de causar pánico. No he recibido pagos por preparar esta información, sino que dado mi entrenamiento, siento que es mi responsabilidad. Éste es un esfuerzo voluntario y todos los que estén calificados en la materia son bienvenidos a contribuír. Honestamente, la única razón por la que no es anónimo es porque eso dificultaría que los demás lo tomen en serio, y necesitamos toda la seriedad que podamos darle en este momento.
-
-Que quede claro que yo trabajé en el campo de las vacunas de la tuberculosis y del HIV por diez años, del 2000 al 2010, pero desde entonces y hasta ahora, me cambié a trabajar en el campo de las enfermedades poco comunes. En este momento soy Profesora Asistente (investigadora) en la Universidad Estatal de Oregon (Oregon State University), en la Facultad de Salud Pública. Para aprender más acerca del trabajo de nuestro equipo, que se enfoca en generar modelos de computador para el estudio de enfermedades poco comunes, visita [tislab.org](http://tislab.org/).
+Puedes leer más acerca de los autores en [esta página](https://www.flattenthecurve.com/about).
