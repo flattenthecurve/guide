@@ -1,5 +1,8 @@
 ---
 layout: page
+title: Act & Prepare
+permalink: /act-and-prepare/
+lang: en
 ---
 
 <ul id="lang-bar">
