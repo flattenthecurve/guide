@@ -1,1 +1,1 @@
-![Diese Grafik demonstriert, wie Eigeninitiative hilft, die Kurve der Krankheitsfälle flach zu halten und damit eine Überlastung des Gesundheitssystems verhindert.](images/en/flatten-the-curve.jpg)
+![Diese Grafik demonstriert, wie Eigeninitiative hilft, die Kurve der Krankheitsfälle flach zu halten und damit eine Überlastung des Gesundheitssystems zu verhindern.](https://media1.faz.net/ppmedia/aktuell/2356042323/1.6670645/default/hq/infografik-corona-verzoegerter.jpg)

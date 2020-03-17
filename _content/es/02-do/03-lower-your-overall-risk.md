@@ -1,5 +1,8 @@
-{:.do}
-## Disminuye el riesgo mediante las cosas que eliges hacer a diario.
+{:.only_toc}
+## Disminuye tu riesgo
+
+{:.do.no_toc}
+## Disminuye tu riesgo mediante las cosas que eliges hacer a diario.
 
 La acumulación de todas las cosas que elijamos hacer para llevar una vida más sana y segura todos los días, no solamente esta semana sino en los siguientes meses, pueden aplanar la curva. Continúen apoyando la economía local, pero eviten ir en horas pico; distribuir el acceso unos 15 minutos (antes/después de las horas pico) puede ayudar a reducir las multitudes. Lugares como restaurantes museos de arte y transporte público van a ser mucho menos riesgosos (y más agradables) si se visitan por fuera de las horas pico. 
 
@@ -11,4 +14,4 @@ La acumulación de todas las cosas que elijamos hacer para llevar una vida más 
 - Cumplir desde lejos \> atender servicios religiosos
 - Pastelitos / ponquecitos de cumpleaños \> pasteles (si alguien sopla las velitas)
 - Toma tu café / cerveza / cóctel en la mesa en lugar de tomarlos en el bar del lugar
-- A los artistas que actúan en vivo les va a afectar ésto económicamente. Consideren apoyarlos usando Pateron, PayPal, o yendo a eventos más pequeños. Promuévanlos en medios sociales. Compren sus productos artísticos directamente.
+- A los artistas que actúan en vivo les va a afectar ésto económicamente. Consideren apoyarlos usando Patreon, PayPal, o yendo a eventos más pequeños. Promuévanlos en medios sociales. Compren sus productos artísticos directamente.

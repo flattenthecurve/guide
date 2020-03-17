@@ -1,13 +1,10 @@
-name: Preview
+name: Preview translations
 
 on:
-  push:
-    branches:
-      - preview/**
-  pull_request:
+  repository_dispatch:
 
 jobs:
-  build_and_deploy:
+  pull_push_preview:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
@@ -17,6 +14,21 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
+      - name: Pull Lokalize translations
+        env:
+          LOCALIZE_TOKEN: ${{ secrets.LOCALIZE_TOKEN }}
+          IMPORT_LANG: ${{ github.event.client_payload.lang }}
+        run: |
+          mv docker-compose.ci.yml docker-compose.override.yml
+          ./import-translations.sh $LOCALIZE_TOKEN $IMPORT_LANG
+          mv docker-compose.override.yml docker-compose.ci.yml
+      - name: Commit changes to Branch
+        env:
+          IMPORT_LANG: ${{ github.event.client_payload.lang }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+          GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
+        run: ./_scripts/push-translations.sh
       - name: Build Jekyll site
         run: |
           mv docker-compose.ci.yml docker-compose.override.yml

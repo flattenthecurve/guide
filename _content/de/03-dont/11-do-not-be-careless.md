@@ -1,7 +1,7 @@
 {:.dont}
-## Sei nicht unvorsichtig
+## Sei nicht unachtsam
 
-Sei nicht diese eine Person. Es geht nicht nur um Dich, sondern um alle. Sei nicht achtlos in der Hoffnung krank zu werden, um „den Ansturm zu vermeiden“. Es gibt überhaupt keinen Vorteil weder für Einzelpersonen noch für die Gesamtbevölkerung, wenn Leute in einem Frühstadium der Pandemie krank werden. Du würdest das Leben der Anderen gefährden. Es ist nicht nur so, dass Menschen sterben. Es geht auch darum wie sie sterben. Ganz zu schweigen vom körperlichen Trauma, emotional gesehen ist dies das Gegenteil eines „guten Todes“. Menschen sterben alleine, unter Quarantäne von denen die sie lieben.
+Es geht nicht nur um Dich, sondern um alle. Sei nicht achtlos in der Hoffnung krank zu werden, um „den Ansturm zu vermeiden“. Es gibt überhaupt keinen Vorteil weder für Einzelpersonen noch für die Gesamtbevölkerung, wenn Leute in einem Frühstadium der Pandemie krank werden. Du würdest das Leben der Anderen gefährden. Es ist nicht nur so, dass Menschen sterben. Es geht auch darum wie sie sterben. Ganz zu schweigen vom körperlichen Trauma, emotional gesehen ist dies das Gegenteil eines „guten Todes“. Menschen sterben alleine, unter Quarantäne von denen die sie lieben.
 
 Frühe Berichte besagen, dass wieder gesund werdende Menschen Antikörper entwickeln. Diese Antikörper bieten Immunität bei weiteren Infektionen mit demselben Virenstamm. Dies ist jedoch eine großartige Neuigkeit für die Impfstoffentwicklung. Verflache also die Kurve und warte ab.
 
