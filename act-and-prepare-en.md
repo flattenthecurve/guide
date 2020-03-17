@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Act & Prepare
 permalink: /act-and-prepare/
 lang: en
