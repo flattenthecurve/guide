@@ -22,7 +22,7 @@ permalink: /images/mortality-rate.svg
 	<text class="label" y="10">{{ site.data.strings['top-range'] | newline_to_br }}</text>
 	<text class="label" y="30">{{ site.data.strings['so-far'] | newline_to_br }}</text>
 	<text class="label" y="50">{{ site.data.strings['estimate'] | newline_to_br }}</text>
-	<text class="label" y="70">{{ site.data.strings['bottom-estimate'] | newline_to_br }})</text>
+	<text class="label" y="70">{{ site.data.strings['bottom-estimate'] | newline_to_br }}</text>
 	<text class="label" y="90">{{ site.data.strings['seasonal-flu'] | newline_to_br }}</text>
 	<!-- to here -->
 
