@@ -6,7 +6,9 @@ description: >-
 health-care: Capacidad del sistema sanitario
 time-since: Tiempo desde el primer caso
 quantity-of: Número de casos
-without-prot: Sin medidas de protección
+without-prot: |-
+  Sin medidas
+  de protección
 with-prot: Con medidas de protección
 
 mort-rate-age: Tasa de mortalidad por COVID-19 por edad
