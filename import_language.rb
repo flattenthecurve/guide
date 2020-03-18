@@ -4,6 +4,7 @@ require 'fileutils'
 require 'ruby-lokalise-api'
 require 'open-uri'
 require 'zip'
+require 'metadown'
 require_relative '_plugins/common'
 
 def language_dir(lang)
@@ -18,6 +19,11 @@ Dir["#{SOURCE_DIR}/**/*.md"].sort!.each { |filename|
   SECTIONS_TO_FILES[key_from_filename(filename)] = filename
 }
 
+TOP_LEVEL_PAGES = {}
+Dir["*-en.md"].sort!.each { |filename|
+  TOP_LEVEL_PAGES[key_from_top_level_file(filename)] = filename
+}
+
 def generate_content(translations_lang, translations_file)
   translations = JSON.parse(File.open(translations_file, 'r:UTF-8') { |f| f.read })
 
@@ -29,6 +35,20 @@ def generate_content(translations_lang, translations_file)
     FileUtils.mkdir_p(translated_dir)
     File.open(translated_file, "w:UTF-8") { |file|
       file.puts translations[section]
+    }
+  end
+
+  TOP_LEVEL_PAGES.each do |page, source_file|
+    puts "source_file: #{source_file}"
+    source_content = File.open(source_file, 'r:UTF-8') { |f| f.read }
+    metadata = Metadown.render(source_content).metadata
+    metadata["lang"] = translations_lang
+    metadata["title"] = translations["#{page}-title"] if translations["#{page}-title"]
+    translated_file = source_file.sub(/-en.md$/, "-#{translations_lang}.md")
+    File.open(translated_file, "w:UTF-8") { |file|
+      file.puts metadata.to_yaml
+      file.puts "---\n"
+      file.puts metadata["translate_content"] == false ? content_without_frontmatter(source_content) : translations[page]
     }
   end
 end
