@@ -5,7 +5,7 @@ class Generator < Jekyll::Generator
   def generate(site)
     site.data['last_updated'] = {}
 
-    #pack_content(site, lang, "content")
+    pack_content(site, "home_sections")
     pack_content(site, "act_and_prepare")
   end
   
