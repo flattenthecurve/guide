@@ -6,7 +6,7 @@ labels: content
 assignees: 
 
 ---
-Please report the issue under the apppriate header below.
+Please report the issue under the appropriate header below.
 
 **Content to be added or changed:**
 
