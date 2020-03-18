@@ -40,17 +40,15 @@ def generate_content(translations_lang, translations_file)
 
   TOP_LEVEL_PAGES.each do |page, source_file|
     puts "source_file: #{source_file}"
-    puts "page: #{page}"
-    puts "tranlsations_lang: #{translations_lang}"
-    metadata = Metadown.render(File.open(source_file, 'r:UTF-8') { |f| f.read }).metadata
+    source_content = File.open(source_file, 'r:UTF-8') { |f| f.read }
+    metadata = Metadown.render(source_content).metadata
     metadata["lang"] = translations_lang
     metadata["title"] = translations["#{page}-title"] if translations["#{page}-title"]
     translated_file = source_file.sub(/-en.md$/, "-#{translations_lang}.md")
-    puts "Translated_file: #{translated_file}"
     File.open(translated_file, "w:UTF-8") { |file|
       file.puts metadata.to_yaml
-      file.puts "---\n" # Not sure why `#to_yaml` doesn't output the separator at the end
-      file.puts translations[page]
+      file.puts "---\n"
+      file.puts metadata["translate_content"] == false ? content_without_frontmatter(source_content) : translations[page]
     }
   end
 end

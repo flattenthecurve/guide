@@ -21,3 +21,7 @@ def key_from_top_level_file(name)
     raise "#{basename} doesn't match the \"some-page-en.md\" name format (in #{name})"
   end
 end
+
+def content_without_frontmatter(content)
+  content.gsub /\A---(.|\n)*?---/, ''
+end
