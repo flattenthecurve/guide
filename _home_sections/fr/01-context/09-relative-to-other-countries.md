@@ -1,7 +1,7 @@
 {:.only_toc}
 # Politiques
 
-{ :.no_toc}
+{:.no_toc}
 # Par rapport à d'autres pays, les politiques américaines en matière de travail et de santé créent un terrain idéal pour une pandémie :
 
 - Il n'y a pas de système universel et obligatoire [d'arrêt maladié indemnisé](https://www.worldpolicycenter.org/policies/for-how-long-are-workers-guaranteed-paid-sick-leave)
