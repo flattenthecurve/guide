@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 lang: en
+order: 4
 ---
 
 # About the authors

@@ -7,14 +7,14 @@
 {:.no_toc.text-center}
 #### Updated {{site.data.last_updated[site.active_lang]}}
 
-{:.highlight-box}
+{:.no_toc.highlight-box}
 ## Prepared not Panicked
 Responding to an exponential growth of COVID-19 proactively & with mutual support. 
 
-{:.highlight-box}
+{:.no_toc.highlight-box}
 ## Verified Collective Intelligence
 Medically verified information via easy to understand summaries written by people like you, and doctors. 
 
-{:.highlight-box}
+{:.no_toc.highlight-box}
 ## Global, Inclusive, Realtime
 Updated with emerging information, and open sourced in as many languages as possible.
