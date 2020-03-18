@@ -4,7 +4,7 @@ Partez du principe, que le virus est déjà présent dans votre ville / village 
 au début de l'épidémie, le nombre d'infections réelles était [quatre fois supérieur au nombre de cas qu'il était possible de confirmer à ce moment](https://twitter.com/AdamJKucharski/status/1236004937529798659). La transmission invisible entre voisins et proches avait lieu à Seattle [pendant des semaines avant qu'elle été ne soit détectée](https://twitter.com/trvrb/status/1236096904678633472). Seattle et Stanford font un travail remarquable pour rattraper la situation avec leurs propres kits de dépistage ; [environ 5-7% des tests à Seattle sont positifs](https://twitter.com/UWVirology/status/1236017803162873856) et
 n'importe qui peut faire le dépistage, sur ordonnance du médecin.
 
-![](/images/fr/seattle-flu-research.png)
+![](/images/en/seattle-flu-research.png)
 
 (Dans l'intérêt de la santé publique, l'Université de Washington publie ces résultats). Jusqu'à présent, seules l'UW et Stanford ont poursuivi leurs travaux sur la fabrication de leurs propres kits de dépistage (pas ceux fournis par les autorités sanitaures) ; ces deux institutions ont exigé parmi les premières de remplacer les cours en présentiel par des solutions d'enseignement à distance. C'est une décision qui parle d'elle-même.  D'autres universités devraient suivre prochainement. Cela dit, [les professeurs ont besoin d'équipements et d'assistance nécessaires pour effectuer cette transition](https://twitter.com/ryanaboyd/status/1236009378295103488).
 
