@@ -1,5 +1,6 @@
 ---
 layout: page_with_toc
+toc: true
 title: Act & Prepare
 permalink: /act-and-prepare/
 lang: en
@@ -10,4 +11,3 @@ order: 1
   {% capture my_include %}{% include_relative {{ item }} %}{% endcapture %}
   {{ my_include | markdownify }}
 {% endfor %}
-
