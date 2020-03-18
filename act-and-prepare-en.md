@@ -8,7 +8,4 @@ order: 1
 translate_content: false
 ---
 
-{% for item in site.data.act_and_prepare[site.active_lang] %}
-  {% capture my_include %}{% include_relative {{ item }} %}{% endcapture %}
-  {{ my_include | markdownify }}
-{% endfor %}
+{% render_section act_and_prepare %}
