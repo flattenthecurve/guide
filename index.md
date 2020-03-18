@@ -6,7 +6,4 @@ layout: home
 translate_content: false
 ---
 
-{% for item in site.data.home_sections[site.active_lang] %}
-  {% capture my_include %}{% include_relative {{ item }} %}{% endcapture %}
-  {{ my_include | markdownify }}
-{% endfor %}
+{% render_section home %}
