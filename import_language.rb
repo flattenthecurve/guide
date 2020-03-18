@@ -7,7 +7,7 @@ require 'zip'
 require_relative '_plugins/common'
 
 def language_dir(lang)
-  "_content/#{lang}"
+  "_act_and_prepare/#{lang}"
 end
 
 SOURCE_LANG = "en"

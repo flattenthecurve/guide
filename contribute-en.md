@@ -1,3 +1,11 @@
+---
+layout: page
+title: Contribute
+permalink: /contribute/
+lang: en
+order: 3
+---
+
 # How to help and contribute
 
 First of all, thank you! A lot of unpaid work is going into this site to try and make it one of the best and most helpful resources in this
