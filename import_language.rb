@@ -44,6 +44,7 @@ def generate_content(translations_lang, translations_file)
     puts "tranlsations_lang: #{translations_lang}"
     metadata = Metadown.render(File.open(source_file, 'r:UTF-8') { |f| f.read }).metadata
     metadata["lang"] = translations_lang
+    metadata["title"] = translations["#{page}-title"] if translations["#{page}-title"]
     translated_file = source_file.sub(/-en.md$/, "-#{translations_lang}.md")
     puts "Translated_file: #{translated_file}"
     File.open(translated_file, "w:UTF-8") { |file|
