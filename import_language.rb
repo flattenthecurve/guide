@@ -4,6 +4,7 @@ require 'fileutils'
 require 'ruby-lokalise-api'
 require 'open-uri'
 require 'zip'
+require 'metadown'
 require_relative '_plugins/common'
 
 def language_dir(lang)
@@ -41,9 +42,13 @@ def generate_content(translations_lang, translations_file)
     puts "source_file: #{source_file}"
     puts "page: #{page}"
     puts "tranlsations_lang: #{translations_lang}"
+    metadata = Metadown.render(File.open(source_file, 'r:UTF-8') { |f| f.read }).metadata
+    metadata["lang"] = translations_lang
     translated_file = source_file.sub(/-en.md$/, "-#{translations_lang}.md")
     puts "Translated_file: #{translated_file}"
     File.open(translated_file, "w:UTF-8") { |file|
+      file.puts metadata.to_yaml
+      file.puts "---\n" # Not sure why `#to_yaml` doesn't output the separator at the end
       file.puts translations[page]
     }
   end
