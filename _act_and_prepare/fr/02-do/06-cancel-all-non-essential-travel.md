@@ -1,7 +1,7 @@
-{ :.only_toc}
+{:.only_toc}
 ## Annuler les voyages
 
-{ :.do.no_toc}
+{:.do.no_toc}
 ## Annuler tout voyage non-indispensable, quelque soit la destination
 
 Cette maladie peut [démarrer lentement et s'accélérer brusquement ensuite](https://www.nejm.org/doi/full/10.1056/NEJMoa2001191). Si vous êtes loin de chez vous lorsque cela se produit, vous êtes loin des systèmes qui pourraient vous nourrir et vous soigner même si votre cas n'est pas particulièrement grave. Même si vous êtes en bonne santé, vous risquez de vous retrouver en quarantaine. C'est au mieux ennuyeux, et au pire [se passe dans des conditions terribles](https://twitter.com/alankilbourne2/status/1236541651692204033),

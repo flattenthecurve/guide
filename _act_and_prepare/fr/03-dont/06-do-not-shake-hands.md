@@ -1,7 +1,7 @@
-{ :.only_toc}
+{:.only_toc}
 ## Ne serrez pas la main aux autres.
 
-{ :.dont.no_toc}
+{:.dont.no_toc}
 ## Ne vous serrez pas les mains, soyez créatifs pour saluer les gens sans contact
 
 [Quelques alternatives amusantes

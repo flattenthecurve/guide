@@ -1,7 +1,7 @@
-{ :.only_toc}
+{:.only_toc}
 ## Passez un coup de fil d'abord
 
-{ :.dont.no_toc}
+{:.dont.no_toc}
 ## N'allez pas chez le médecin sans avoir téléphoné au préalable
 
 NE vous rendez PAS directement à l'hôpital. Pour plus d'informations, consultez le site du CDC [ici](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html).

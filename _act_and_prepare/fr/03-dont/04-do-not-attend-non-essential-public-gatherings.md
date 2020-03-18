@@ -1,7 +1,7 @@
-{ :.only_toc}
+{:.only_toc}
 ## Rassemblements publics
 
-{ :.dont.no_toc}
+{:.dont.no_toc}
 ## Ne participez pas à des rassemblements qui ne sont pas indispensables
 
 Il existe dans l'histoire des nombreuses preuves de l'efficacité de l'annulation d'évènements comme mesure de santé publique. J'ai retweeté quelques liens vers de bonnes ressources

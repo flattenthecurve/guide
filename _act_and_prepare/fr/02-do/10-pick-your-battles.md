@@ -1,7 +1,7 @@
-{ :.only_toc}
+{:.only_toc}
 ## Interactions sociales
 
-{ :.do.no_toc}
+{:.do.no_toc}
 ## Choisissez vos batailles ; réduisez les interactions sociales non-indispensables
 
 Sur une autre note, utilisez l'excuse de la pandémie pour éviter toute réunion, fête ou mariage auquel vous n'assisteriez qu'en raison d'un vague sens du devoir. Si vous n'êtes pas vraiment certain d'en profiter vous-même ou d'apporter de la joie à quelqu'un que vous aimez vraiment, alors passez votre chemin.

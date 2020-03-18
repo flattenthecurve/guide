@@ -1,7 +1,7 @@
-{ :.only_toc}
+{:.only_toc}
 ## Restez connecté
 
-{ :.do.no_toc}
+{:.do.no_toc}
 ## Restez en contact, tout en évitant la foule
 
 Il est préférable de se tenir à distance des gens. Deux mètres ou plus est une distance sûre, car permet d'éviter la propagation de gouttelettes infectieuses. Plus les facteurs de risque qui vous concernent sont nombreux (âge, chirurgie majeure récente, cancer, immunodéficience, asthme, diabète, etc.), plus vous devez éviter les foules.

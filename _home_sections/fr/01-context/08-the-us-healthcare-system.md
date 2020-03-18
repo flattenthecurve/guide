@@ -1,4 +1,4 @@
-{ :.only_toc}
+{:.only_toc}
 # Système de santé
 
 { :.no_toc}

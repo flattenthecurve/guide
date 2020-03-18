@@ -1,7 +1,7 @@
-{ :.only_toc}
+{:.only_toc}
 ## Réduisez votre risque de manière générale
 
-{ :.do.no_toc}
+{:.do.no_toc}
 ## Réduisez votre risque général grâce à vos choix au quotidien
 
 Dans leur rnsemble, le fait de faire en moyenne des choix plus sûrs au quotidien  - pas seulement pendant cette semaine mais pendant plusieurs mois à venir - peut aplatir la courbe. Continuez à soutenir l'économie locale, mais n'allez pas au magasin aux heures de pointe - un décalage même de 15 minutes peut réduire l'encombrement. Tout, des restaurants aux musées d'art en passant par les transports publics, sera moins risqué (et plus agréable !) en dehors des heures de pointe.

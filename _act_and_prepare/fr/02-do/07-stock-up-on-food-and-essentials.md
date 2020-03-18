@@ -1,7 +1,7 @@
-{ :.only_toc}
+{:.only_toc}
 ## Faites vos provisions
 
-{ :.do.no_toc}
+{:.do.no_toc}
 ## Faire des provisions de nourriture et de produits de première nécessité - en avance, progressivement et de manière responsable
 
 Fil :

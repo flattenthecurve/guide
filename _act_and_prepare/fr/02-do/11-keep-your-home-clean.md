@@ -1,7 +1,7 @@
-{ :.only_toc}
+{:.only_toc}
 ## Chez vous
 
-{ :.do.no_toc}
+{:.do.no_toc}
 ## Gardez votre logement propre, élaborez une procédure pour quand vous rentrez
 
 Je suis en train de travailler sur les conseils à ce sujet, toute contribution est bienvenue. Mais quelques idées déjà : si vous en avez la possibilité, envisagez une zone tampon, pour entrer "propre" dans le logement. Enlevez vos chaussures et vos vêtements d'extérieur. Si vous travaillez dans un milieu à haut risque comme un hôpital, une maison de retraite, etc., lavez vos vêtements immédiatement et faites-les sécher à haute température ou du moins au soleil. Lavez-vous les mains immédiatement. Isolez votre courrier, vos paquets et vos achats (y compris alimentaires) avant de les introduire dans le logement, et ce pour quelques heures au minimum. Si vous faites partie d'un groupe à risque particulièrement élevé, vous pouvez envisager de laisser les marchandises isolées plus longtemps (quelques jours) et éviter de manger des produits crus, ainsi que de décontaminer les produits que vous faites entrer dans votre logement.

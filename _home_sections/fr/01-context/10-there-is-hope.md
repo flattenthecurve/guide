@@ -1,4 +1,4 @@
-{ :.only_toc}
+{:.only_toc}
 # Il y a de l'espoir.
 
 { :.no_toc}

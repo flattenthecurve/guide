@@ -1,4 +1,4 @@
-{ :.dont}
+{:.dont}
 ## Ne soyez pas négligents
 
 Ne soyez pas cette personne. Il ne s'agit peut-être pas de vous, mais c'est un conseil qui concerne tout le monde. Ne soyez pas négligent, n'envisagez pas de tomber malade plus tôt, et ainsi "éviter la pointe". Le fait de tomber malade au début de la pandémie ne présente aucun avantage ni pour les individus concernés ni pour la population en général. Vous mettriez la vie d'autres personnes en danger. Le problème n'est pas seulement que des gens meurent, mais aussi la façon dont ils meurent. Sans parler du traumatisme physique, émotionnellement parlant, c'est exactement le contraire d'une "bonne mort". Les gens meurent seuls, en quarantaine, loin de ceux qu'ils aiment.

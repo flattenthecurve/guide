@@ -1,4 +1,4 @@
-{ :.dont}
+{:.dont}
 ## Ne vous touchez pas le visage
 
 [C'est la principale manière dont le virus pénètre dans l'organisme](https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html)

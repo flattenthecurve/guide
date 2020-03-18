@@ -1,4 +1,4 @@
-{ :.only_toc}
+{:.only_toc}
 # Politiques
 
 { :.no_toc}

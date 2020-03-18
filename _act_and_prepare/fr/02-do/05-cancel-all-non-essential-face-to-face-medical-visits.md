@@ -1,7 +1,7 @@
-{ :.only_toc}
+{:.only_toc}
 ## Visites médicales
 
-{ :.do.no_toc}
+{:.do.no_toc}
 ## Annulez tous les soins médicaux non essentiels en présentiel 
 
 Les hôpitaux sont des lieux à risque pour la transmission du virus ; faites vos vaccinations dans une pharmacie plutôt que chez le médecin. Trouvez un moyens de faire votre physiothérapie à la maison si possible.
