@@ -1,7 +1,7 @@
 {:.only_toc}
-## Hot zone
+## Zona de riesgo
 
 {:.do.no_toc}
-## Prepare a hot zone in your home just in case someone falls ill
+## Prepara una “zona de riesgo” en tu casa, en caso que alguien se enferme.
 
-Prepare your home for the possibility you'll need to isolate and care for an infected member of your household. Stock the room in advance with food that the infected person can consume with zero preparation and without face-to-face interaction with others. If you have a dedicated bathroom for the infected person, that is best. Realistically, given shortages you won't have access to a mask, but if you do have one, prioritize its use on the infected person rather than caretakers.
+Prepara tu casa para la posibilidad que vayas a necesitar aislar y cuidar a uno de los miembros de tu hogar. Prepara el cuarto por adelantado con comida que la persona infectada pueda consumir sin necesidad de prepararla y sin necesidad de interactuar en persona con otros. Lo mejor es tener un baño dedicado específicamente para la persona infectada. Siendo realistas, dada la escasez, es posible que no vayas a tener acceso a usar máscaras, pero si tienes una, dale prioridad a que la use la persona infectada el lugar de las personas que están cuidándola.

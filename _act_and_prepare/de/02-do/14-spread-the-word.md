@@ -1,14 +1,13 @@
-{:.only_toc}
-## Spread the word
+{:.only_toc} 
+## Verbreite die Informationen
 
-{:.do.no_toc}
-## Spread the word and lobby your reps for vital research
+{:.do.no_toc} 
+## Verbreite die Informationen und setze dich für wichtige Recherchen ein 
 
-If it is any indication, the link tracking for this very guidance document (stats can be viewed at [bit.ly/corona-guidance+](https://bit.ly/corona-guidance+)) shows that the word is getting out on twitter, where scientists have a larger usership; however it is lagging on facebook and on direct shares where the general public need it most. Call a friend. Call your family. You will have the most influence on people you personally know. While there are certainly reasons not to panic, most people should be more concerned than they are. Raise the floor of awareness, not the ceiling; this will be much more effective in the long run.
+ Wenn dies ein Hinweis ist, zeigt die Linkverfolgung für diesen Leitfaden (Statistiken können unter [bit.ly/corona-guidance+](https://bit.ly/corona-guidance+) eingesehen werden), dass die Information sich auf Twitter verbreitet, wo Wissenschaftler eine größere Nutzerzahl haben; Er wird aber auf Facebook und via Direktnachrichten nicht genug geteilt, wo die breite Öffentlichkeit es am dringendsten benötigt. Rufe einen Freund an. Rufen Deine Familie an. Du hast den größten Einfluss auf Personen, die du persönlich kennst. Während es sicherlich Gründe gibt, nicht in Panik zu geraten, sollten die meisten Menschen mehr besorgt sein als sie es bisher sind. Vergrößere das breite Bewusstseins und nicht das Wissen derjenigen die schon viel Ahnung haben; Dies wird auf lange Sicht viel effektiver sein. 
 
-"One aspect of that policymakers desperately need more information on is how readily children can transmit the virus. We know children experience
-milder disease than adults but do they transmit to others?" [There's been some seemingly contradictory evidence on this front so far.](https://twitter.com/joshmich/status/1236286986161356801)
+„Ein Aspekt, über den politische Entscheidungsträger dringend mehr Informationen benötigen, ist die Frage, wie schnell Kinder das Virus übertragen können. Wir wissen, dass Kinder mildere Erfahrungen mit der Erkrankung machen als Erwachsene, aber übertragen sie es auf andere?“[Bisher gab es an dieser Front anscheinend widersprüchliche Beweise.](https://twitter.com/joshmich/status/1236286986161356801) 
 
-In the meantime, do your best to demonstrate, teach, and reinforce good hand hygiene for kids, but be realistic too. In the absence of a clear signal on the degree to which kids are vectors, keep your kids' fingernails (and yours) as short as is (safely) possible so that virus has fewer crannies in which to hide. I've stopped wearing rings for that same reason; I don't know that there's been a formal study on this ring idea.
+Gebe in der Zwischenzeit Dein Bestes, um Kindern gute Händehygiene zu demonstrieren. Diese zu lehren und zu verbessern, aber sei auch realistisch. Solange kein klares Signal dafür vorliegt, inwieweit Kinder Überträger sind, halte die Fingernägel Deiner Kinder (und Deine) so kurz wie (gefahrlos) möglich, damit das Virus weniger Versteckmöglichkeiten hat. Aus demselben Grund habe ich aufgehört Ringe zu tragen. Ich weiß nicht, ob es schon eine formelle Studie zu dieser Ringidee gegeben hat. 
 
-Only if you are in a financial and operational position to do so, consider temporarily tutoring or home schooling, or even just keeping kids home from after-school activities or for part of the school day.Don't compromise your kids' education, but every little bit of distancing helps. Do what you can and don't sweat the rest. You should not feel personally responsible for everyone.
+ Nur, wenn Du in der finanziellen Position und einsatzbereit bist solltest Du vorübergehend Nachhilfe oder Heimunterricht in Betracht ziehen oder sogar Kinder von außerschulischen Aktivitäten oder für einen Teil des Schultages fernhalten. Beeinträchtige nicht die Ausbildung Deiner Kinder, aber jede kleine Distanzierung hilft. Tu was du kannst und kein Stress! Du solltest dich nicht für jeden persönlich verantwortlich fühlen.

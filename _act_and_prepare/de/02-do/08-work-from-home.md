@@ -1,19 +1,16 @@
-{:.only_toc}
-## Work from home
+{:.do}
+## von zu Hause aus arbeiten
+**Falls möglich, so viel wie möglich** 
 
-{:.do.no_toc}
-## If you can work from home, do so as much
+Wer die Möglichkeit dazu hat, sollte von zu Hause aus arbeiten. In manchen Berufen geht das natürlich nicht. Gerade deswegen sollten es alle anderen umso mehr tun. Warte nicht, bis eure Firma beginnt, sondern frag deinen Chef schon heute, ob du nicht einen Teil deiner Arbeit von zuhause erledigen kannst. Vielleicht kannst Du auch mit deinen Kollegen sprechen? Ermutige sie auch daheim zu arbeiten! 
 
-Not everyone can work from home (WFH) 100% of the time; that is ok. Part time WFH is better than none. Don't wait for your employer to mandate
-WFH for everyone. Ask your manager if it would be permissible for you personally. Encourage your colleagues.
+Von zuhause arbeiten ist so einfach wie noch nie! Viele Firmen benutzen schon seit Jahren Programme um Besprechungen online abzuhalten, Daten zu tauschen und Aufgaben zu verteilen. Es ist nicht wichtig für welches Programm ihr euch entscheidet, alle sind zuverlässig. Entscheidend ist, dass ihr damit zurecht kommt. Hier sind ein paar besonders empfehlenswerte, alle sind kostenfrei:
 
-If you can WFH, do it *precisely* because your barber, your kid's teacher, your local restaurant staff, your barista, and your doctors etc. can not.
+- google drive um Dokumente und Daten zu tauschen
+- Cryptpad ist wie google drive, bloß mit mehr Datenschutz
+- Tox ermöglicht Videokonferenzen mit gutem Datenschutz
+- Slack hilft euch zu organisieren und in Gruppen zu arbeiten
 
-Great software now makes distance collaboration easier than ever. My personal favorites are below. The choice of collaboration tools isn't important: use whatever works for you and your team.
+Wie wärs, wenn ihr mal einen Tag lang einen Testlauf macht? So könnt ihr sehen, was gut funktioniert und welche Probleme vielleicht entstehen. Dann findet ihr Lösungen und seid bereit, wenn ihr wirklich darauf angewiesen seid. 
 
--   Google drive (collaborative documents) is free
--   Zoom.us (video conferencing) is free up to 40 mins,
--   Slack/Gitter (free instant messaging).
--   Skype is also free and works pretty well for videoconferencing with 2 people at a time.
 
-Do a dry run. See what is missing so that you're ready for when it is not optional. Some resources [here](https://twitter.com/BadassBowden/status/1235793674174435328) for people with ADHD working from home for the first time.

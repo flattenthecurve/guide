@@ -1,12 +1,9 @@
 {:.only_toc}
-## Social interactions
+## Interacciones sociales
 
 {:.do.no_toc}
-## Pick your battles; reduce non-essential social interactions
+## Decide cómo vas a enfrentarte a la situación; reduce las interacciones sociales que no sean esenciales.
 
-On a lighter note, go ahead and use the pandemic excuse to beg out of any in-person meeting / party / wedding you would attend only out of
-some vague sense of duty. If you're not really certain to enjoy it yourself or to bring joy to someone you really love then just. skip. it.
-Attend remotely if you can. Or show your face for a few mins and head back out. Send a gift instead.
-
-If you are planning a wedding and wondering what to do, a mini-thread [here](https://twitter.com/figgyjam/status/1236997165626478593) with
-some options.
+Para usar un tono más relajado, ahora bien pueden usar la excusa de la pandemia para salirse de cualquier reunión en persona a la que se sientan “obligados” a asistir: una boda, una fiesta o cualquier reunión que solo atenderían porque tienen un leve sentido de obligación. Si no están convencidos de que verdaderamente se van a divertir, o que van a darle una satisfacción a alguien que amen de verdad, simplemente. no. vayan. O háganlo desde lejos, si se puede. O aparezcan por unos minutos y luego se van. Manden un regalo en lugar de ir. 
+ 
+Si están planeando una boda y están preguntándose qué hacer, [aquí](https://twitter.com/figgyjam/status/1236997165626478593) hay un hilo cortito en Twitter con algunas opciones.

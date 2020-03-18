@@ -1,27 +1,19 @@
 {:.only_toc}
-## Stock up
+## Vorräte anlegen
 
 {:.do.no_toc}
-## Stock up on food and essentials - Early, gradually, and responsibly
+## Vorräte anlegen: nach und nach und vor allem verantwortungsvoll den Mitmenschen gegenüber
 
-Thread:
+"Einfach weiter so“ ist sicher jetzt nicht die beste Lösung. „Alles kaufen was geht!!!!“ aber auch nicht und kann dir sogar schaden. Warum das so ist und wie Du dich jetzt am besten verhältst erklärt Dr. Emma Hodcroft [hier](https://twitter.com/firefoxx66/status/1233666678841597952?s=20) auf Twitter sehr einleuchtend.
 
-> "If the virus is everywhere, what's the point of preparedness?"
->
-> On neither why continuing about your day as usual OR buying every can
-> in the shop are helpful responses to
-> [\#COVID19](https://twitter.com/hashtag/COVID19?src=hash&ref_src=twsrc%5Etfw)
-> [\#SARSCoV2](https://twitter.com/hashtag/SARSCoV2?src=hash&ref_src=twsrc%5Etfw)
-> [\#Coronavirus](https://twitter.com/hashtag/Coronavirus?src=hash&ref_src=twsrc%5Etfw)
-> [\#SARSCoV19](https://twitter.com/hashtag/SARSCoV19?src=hash&ref_src=twsrc%5Etfw)
-> :\
-> (1/n)
->
-> --- Dr Emma Hodcroft (\@firefoxx66) [February 29,
-> 2020](https://twitter.com/firefoxx66/status/1233666678841597952?ref_src=twsrc%5Etfw)
+Es ist gut Vorräte anzulegen. Aber nicht, indem Du jetzt plötzlich alles kaufst was Du in die Finger bekommen kannst. Überleg mal: Wenn das alle machen, gibt es Chaos und die Läden kommen nicht hinterher. Besser: Immer nur ein bisschen mehr kaufen als man braucht. So baust du langsam einen Vorrat zu Hause auf. Und nicht nur Du, auch für die anderen ist genug da. Dann können die Supermärkte die Regale auffüllen.  
+ 
+Kauf nicht zu Stoßzeiten ein! Je mehr Menschen zur gleichen Zeit am gleichen Ort sind, umso höher ist die Ansteckungs-Gefahr. Stell dir vor, wie alle dicht gedrängt in der Schlange stehen. Besser ist, wenn Du so einkaufst, dass gerade nicht so viele Menschen im Laden sind. Schau zum Beispiel, ob gerade viele Autos auf dem Parkplatz stehen. Veilleicht könntest Du dich auch mit Freunden zusammen tun und einer* kauft für mehrere ein? 
 
-"Experts aren't telling you to stock up on essentials because they think you're going to run out of food & society is going to collapse. It's
-because a [few days of panic buying & high demands cause more panic & stress systems unnecessarily](https://twitter.com/firefoxx66/status/1233666678841597952). Also, being in line with hundreds of people isn't wise. Go off peak. Buy a little more than what you need. Preparedness isn't about doing nothing, but also about not overreacting. It's about doing your part to put the [\*slack in our systems\*](https://twitter.com/firefoxx66/status/1233666678841597952) so that short disruptions are smooth as possible, can absorb extra load, & resources remain available for those most in need.
+Abgefülltes Wasser in Flaschen zu kaufen bietet auch keinen Vorteil gegenüber Leitungswasser. Es ist unwahrscheinlich, dass Leitungswasser von der Situation beeinträchtigt wird. Und im Notfall wäre immer noch ein Abkochen möglich.
 
-Don't bother buying bottled water; tap water is very unlikely to be impacted and anyway, boiling would be adequate if it turned out it were
-needed for unforeseen reasons. Intestinal symptoms of coronavirus are very rare; there's no reason to expect that supplies of toilet paper will dry up. Get what you need. Leave the rest for others.
+Darmsymptome durch den Coronavirus sind sehr selten; Es gibt keinen Grund zu der Annahme, dass die Toilettenpapiervorräte zur Neige gehen. Nimm, was Du brauchst. Überlass den Rest Anderen.
+
+
+
+

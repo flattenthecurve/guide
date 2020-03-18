@@ -1,11 +1,11 @@
 {:.only_toc}
-## Medic visits
+## Visitas médicas 
 
 {:.do.no_toc}
-## Cancel all non-essential face-to-face medic
+## Cancela todas las visitas médicas en persona, mientras nos sean esenciales.
 
-Hospitals are hot spots for transmission; get your vaccinations at a pharmacy rather than at the doctor. Find ways to do your physical therapy at home if possible.
+Los hospitales son focos de transmisión. Así que háganse vacunar en la farmacia en lugar de ir al doctor. Busquen la forma de hacer terapia física en casa, si es posible.
 
-Telemedicine professionals, this is your time to save the day, for everyone's benefit but especially those in rural areas who are hard hit and without easy access to medical care. https://doxy.me and https://vsee.com/clinic/ provide free HIPAA compliant video platforms for telehealth.
+A los profesionales en Telemedicina, este es su momento para salvar el día. Por el beneficio de todos, pero especialmente aquellas personas en áreas rurales que van a ser más afectadas y que carecen de fácil acceso a cuidados médicos. Los sitios https://doxy.me y https://vsee.com/clinic proveen plataformas de video que cumplen con los requisitos de las Leyes de Portabilidad y Responsabilidad de los Seguros de Salud (HIPAA por sus siglas en Inglés).
 
-JHU is developing resources here for hospital staff and administrators; more info [here](https://www.cbsnews.com/news/coronavirus-containment-dr-jon-lapook-60-minutes-2020-03-08/).
+La Universidad de Johns Hopkins está desarrollando recursos para empleados y administradores hospitalarios. [Aquí](https://www.cbsnews.com/news/coronavirus-containment-dr-jon-lapook-60-minutes-2020-03-08/) hay más información disponible.

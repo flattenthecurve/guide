@@ -1,11 +1,9 @@
 {:.only_toc}
-## Stay connected
+## Mantente conectado
 
 {:.do.no_toc}
-## Stay connected, but avoid crowds
+## Mantente conectado, pero evita las multitudes.
 
-It is best to stand at a distance from people. 6 feet or more is safest from infectious droplet spread. The higher your underlying risk factors
-(age, recent major surgery, cancer, immunocompromised, asthma, diabetes, etc), the more you should avoid crowds.
+Lo mejor es mantenerse físicamente apartado de otra gente. Lo más seguro para mantenerse alejado de una gota infecciosa son 3 metros o más. Entre más riesgos de salud tengan (edad, cirugías recientes, cáncer, un sistema inmunológico en riesgo, asma, diabetes, etcétera), más deberían evitar las multitudes.
 
-CDC has recommended that [older adults 'stay at home as much as possible'](https://fox8.com/news/coronavirus/cdc-older-adults-should-stay-at-home-as-much-as-possible-due-to-coronavirus/). But keep in mind that over the longer term, this isolation could have
-negative impacts on many people's mental health. Cultivating meaningful relationships is a well established but under-appreciated determinant for all health outcomes. So DO see the people you love, but consider doing so via lower-risk activities. For instance, go for a walk outside with a smaller group of people rather than attending an event indoors. Go to the beach. Ride bikes. Golf. Picnic more. This is not going away in one week, so pace yourself.
+El CDC en EEUU ha recomendado que los [adultos mayores se queden en casa tanto como sea posible](https://fox8.com/news/coronavirus/cdc-older-adults-should-stay-at-home-as-much-as-possible-due-to-coronavirus/). Pero recuerden, a largo plazo este aislamiento podría tener impactos negativos en la salud mental de muchas personas. Cultivar relaciones significativas es un factor determinante y bien establecido, aunque poco apreciado, en cómo se desenlaza una situación en cuestiones de salud. Así que vean a las personas que aman, pero consideren hacerlo mediante actividades de bajo riesgo. Por ejemplo, vayan de caminata con un grupo pequeño en lugar de irse a un evento en un lugar encerrado. Vayan a la playa. Monten en bicicleta. Jueguen al Golf. Hagan más picnics. Y esto no se va a acabar en una semana, así que tómenlo despacio.

@@ -1,17 +1,17 @@
 {:.only_toc}
-## Lower your overall risk
+## Disminuye tu riesgo
 
 {:.do.no_toc}
-## Lower your overall risk with everyday choices
+## Disminuye tu riesgo mediante las cosas que eliges hacer a diario.
 
-Taken together, making safer every-day choices on average --- not just this week but for the next several months --- can flatten the curve. Continue to support your local economy, but go off peak; staggering by even 15 minutes can reduce crowding. Everything from restaurants to art museums to public transport will be less risky (and more pleasant!) off peak.
+La acumulación de todas las cosas que elijamos hacer para llevar una vida más sana y segura todos los días, no solamente esta semana sino en los siguientes meses, pueden aplanar la curva. Continúen apoyando la economía local, pero eviten ir en horas pico; distribuir el acceso unos 15 minutos (antes/después de las horas pico) puede ayudar a reducir las multitudes. Lugares como restaurantes museos de arte y transporte público van a ser mucho menos riesgosos (y más agradables) si se visitan por fuera de las horas pico. 
 
--   Non-contact sports are better than contact ones. E.g., Tennis is better than (\>) rugby
--   Takeout \> eat on restaurant patio \> eat in restaurant
--   Video streaming options \> movie theatre
--   Outside events \> inside events (small events also are better than large ones)
--   Delivery/curbside pickup \> going in person
--   Remote observance \> religious service attendance
--   Birthday cupcakes \> birthday cake (if candle blowing is involved)
--   Drink your coffee/beer/cocktail at a table instead \> drink your coffee/beer/cocktail at the bar
--   Live performers are going to be hard hit economically. Consider supporting their work on Patreon, directly via PayPal, or attend only the smaller shows. Promote them on social media. Buy their work directly.
+- Jugar deportes que no son de contacto es mejor que jugar deportes de contacto. Por ejemplo, jugar tenis es mejor que (\>) jugar rugby
+- Cocinar tus propias comidas \> pedir a domicilio \> pedir y llevar \> comer en el patio del restaurante \> comer en el restaurante
+- Opciones para ver películas y TV en línea \> cines
+- Eventos al aire libre \> eventos en salones (y los eventos pequeños son más recomendables que los grandes)
+- Domicilios / pasar a recoger afuera de la tienda \> ir en persona
+- Cumplir desde lejos \> atender servicios religiosos
+- Pastelitos / ponquecitos de cumpleaños \> pasteles (si alguien sopla las velitas)
+- Toma tu café / cerveza / cóctel en la mesa en lugar de tomarlos en el bar del lugar
+- A los artistas que actúan en vivo les va a afectar ésto económicamente. Consideren apoyarlos usando Patreon, PayPal, o yendo a eventos más pequeños. Promuévanlos en medios sociales. Compren sus productos artísticos directamente.

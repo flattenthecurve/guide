@@ -1,9 +1,7 @@
 {:.only_toc}
-## Cancel Travel
+## Cancela los viajes
 
 {:.do.no_toc}
-## Cancel all non-essential travel anywhere
+## Cancela todos los viajes que no sean esenciales. A todos los lugares.
 
-This illness can [start slow and accelerate suddenly](https://www.nejm.org/doi/full/10.1056/NEJMoa2001191). If you are away from home when it does, you're away from the systems that could keep you fed and cared for even if you turn out not to have a bad case. Even if you remain healthy, you could end up being quarantined. It is at best boring, at worst [terrible conditions](https://twitter.com/alankilbourne2/status/1236541651692204033),
-not to mention potentially really expensive. You could risk getting infected even if you are careful. Travel history is increasingly irrelevant to risk, especially because we are flying a bit blind with the lack of testing, but the available data of confirmed infections is
-available [here](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) from Johns Hopkins University. Strain genetics information is available [here](https://nextstrain.org/ncov?label=clade:B4&m=div).
+La enfermedad puede [empezar despacio y acelerar súbitamente](https://www.nejm.org/doi/full/10.1056/NEJMoa2001191). Si están lejos de casa cuando esto ocurra, van a estar lejos de los sistemas que los pueden mantener alimentados y bajo cuidado, incluso si no resultan teniendo un caso tan severo. Si su caso es grave y no tienen seguro de viajes, podría resultarles bastante costoso. E incluso si permanecen saludables, podrían terminar en una cuarentena. Ésto es, en el mejor de los casos aburrido, y en el peor de los casos involucra [condiciones terribles](https://twitter.com/alankilbourne2/status/1236541651692204033), sin mencionar probablemente muy costosas. Es posible que estén en riesgo de ser infectados incluso si son cuidadosos. En términos de riesgo, cada vez importa menos la historia de viajes, especialmente porque estamos navegando a ciegas debido a la falta de exámenes médicos; los datos acerca de infecciones confirmadas están disponibles [aquí](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6), gracias a la universidad Johns Hopkins. Y [aquí](https://nextstrain.org/ncov?label=clade:B4&m=div) hay información acerca de la genética de estas cepas.

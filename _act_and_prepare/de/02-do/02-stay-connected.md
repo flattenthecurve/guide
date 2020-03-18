@@ -1,11 +1,10 @@
-{:.only_toc}
-## Stay connected
+{:.do}
+## In Kontakt bleiben, aber größere Gruppen meiden
 
-{:.do.no_toc}
-## Stay connected, but avoid crowds
+Gerade jetzt solltest Du den Kontakt zu deinen Freunden* halten. Das gibt Sicherheit und Trost in schiwerigen Lagen. Gute Beziehungen und soziale Kontakte verbessern sogar deine Gesundheit! 
 
-It is best to stand at a distance from people. 6 feet or more is safest from infectious droplet spread. The higher your underlying risk factors
-(age, recent major surgery, cancer, immunocompromised, asthma, diabetes, etc), the more you should avoid crowds.
+Wenn ihr euch trefft, seid so vorsicht wie möglich. Vermeidet engen Kontakt und volle Orte. Trefft euch draußen! Macht zum Beispiel einen Spaziergang an der frischen Luft oder fahrt Fahrrad. Vielleicht setzt ihr euch auch an den Fluß oder geht in den Wald? Frische Luft verringert das Infektionsrisiko, weil die Luft die Viren "verdünnt". Drinnen sammeln sich die Viren im Gegensatz dazu und die Ansteckungsgefahr ist viel höher! 
 
-CDC has recommended that [older adults 'stay at home as much as possible'](https://fox8.com/news/coronavirus/cdc-older-adults-should-stay-at-home-as-much-as-possible-due-to-coronavirus/). But keep in mind that over the longer term, this isolation could have
-negative impacts on many people's mental health. Cultivating meaningful relationships is a well established but under-appreciated determinant for all health outcomes. So DO see the people you love, but consider doing so via lower-risk activities. For instance, go for a walk outside with a smaller group of people rather than attending an event indoors. Go to the beach. Ride bikes. Golf. Picnic more. This is not going away in one week, so pace yourself.
+Generell solltest Du so viel Abstand zu deinen Mitmenschen halten wie möglich. Ein Abstand von 2 Metern ist ein gutes Maß, um das Risiko einer Tröpfcheninfektion klein zu halten.
+
+Wenn Dir das alles zu übertrieben vorkommt, denk daran, dass Du covid19 auch haben kannst, selbst wenn Du keine Beschwerden hast. Du kannst dich ganz normal anfühlen und trotzdem deine Freunde anstecken.   

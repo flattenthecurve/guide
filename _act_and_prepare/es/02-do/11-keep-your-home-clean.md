@@ -1,9 +1,8 @@
 {:.only_toc}
-## Your home
+## Tu hogar
 
 {:.do.no_toc}
-## Keep your home clean and develop routines for coming back
+## Mantén tu casa limpia y crea rutinas para cuando regreses a casa después de salir.
 
-I'm developing guidance on this right now and others are welcome to weigh in, but a few things off the top of my head: If you have the ability to do so, consider a 'staging' area for clean entry into your home. Remove shoes, outerwear. If you work in a high risk environment like a hospital, nursing home, etc, wash your clothes immediately and then dry them at high heat or at least dry in the sunshine. Wash hands right away. Isolate your mail, packages and purchases (including food) before bringing them into the house and leave them isolated a few hours at a minimum. If you are in an especially high risk group, you might want to consider leaving goods isolated a longer time (a few days) and avoid eating raw produce, and also decontaminating products that come into your house.
-The latest [research](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v1.full.pdf) shows that the virus can survive up to 4 hours on copper surfaces, up to 3 days on plastic and stainless steel, and up to 24 hours on cardboard.
-\[guidance needed as to how best to do this; what potency of bleach solution/duration etc?\].
+En este momento estoy en el proceso de crear una guía para ésto, y le doy la bienvenida a los que quieran ayudarme. Algunas de las cosas que se me vienen a la cabeza son: si puedes, dedica un área en la entrada donde todos puedan limpiarse al entrar a casa. Quítense los zapatos los abrigos. Si trabajan en un ambiente de alto riesgo como un hospital, una casa de cuidado para adultos mayores, etc., laven su ropa inmediatamente después de entrar, séquenla al calor alto, o al menos al sol. Lávense las manos inmediatamente. Aíslen su correo, los paquetes, las compras (incluyendo la comida) antes de traerlas dentro de la casa y déjenlas aisladas como mínimo por un par de horas. Si pertenecen a un grupo de alto riesgo, consideren dejar sus compras aisladas por más tiempo, por ejemplo, un par de días. También eviten comer productos crudos, y descontaminen todos los productos que entran a su casa. 
+Los resultados de [investigación](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v1.full.pdf) muestran que el virus puede sobrevivir hasta 4 horas sobre superficies de cobre, hasta 3 días sobre plástico y acero inoxidable, y unas 24 horas en superficies de cartón. \[aquí se necesita una guía para indicar la mejor forma de hacer esto; Qué porcentaje de límpido o lejía se necesita, Por cuánto tiempo, etcétera.\]

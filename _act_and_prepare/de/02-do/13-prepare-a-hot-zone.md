@@ -1,7 +1,10 @@
 {:.only_toc}
-## Hot zone
+## Sicherheitszone zu Hause
 
 {:.do.no_toc}
-## Prepare a hot zone in your home just in case someone falls ill
+## Bereite eine Sicherheitszone zu Hause vor, falls jemand krank wird
 
-Prepare your home for the possibility you'll need to isolate and care for an infected member of your household. Stock the room in advance with food that the infected person can consume with zero preparation and without face-to-face interaction with others. If you have a dedicated bathroom for the infected person, that is best. Realistically, given shortages you won't have access to a mask, but if you do have one, prioritize its use on the infected person rather than caretakers.
+Bereite dein zu Hause darauf vor, notfalls eine erkrankte Person zwar einerseits
+isolieren zu können (Heimquarantäne), aber andererseits auch versorgen zu können.
+Es ist eine gute Idee, dort zu Trinken, Essen und nötige Medikamente im Voraus zu deponieren. 
+Falls man eine separate Toilette/Badezimmer hat, wäre es optimal diese dann getrennt zu nutzen. Falls man, trotz der Engpässe, einen Mundschutz hat, sollte man den im Falle des Falles der infizierten Person zur Verfügung stellen und nicht selbst nutzen. Das schützt alle Beteiligten mehr.

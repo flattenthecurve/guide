@@ -1,9 +1,8 @@
-{:.only_toc}
-## Cancel Travel
+{:.only_toc} 
+## Reisen abbrechen 
 
-{:.do.no_toc}
-## Cancel all non-essential travel anywhere
+{:.do.no_toc} 
+## Storniere alle nicht wesentlichen Reisen überall hin
 
-This illness can [start slow and accelerate suddenly](https://www.nejm.org/doi/full/10.1056/NEJMoa2001191). If you are away from home when it does, you're away from the systems that could keep you fed and cared for even if you turn out not to have a bad case. Even if you remain healthy, you could end up being quarantined. It is at best boring, at worst [terrible conditions](https://twitter.com/alankilbourne2/status/1236541651692204033),
-not to mention potentially really expensive. You could risk getting infected even if you are careful. Travel history is increasingly irrelevant to risk, especially because we are flying a bit blind with the lack of testing, but the available data of confirmed infections is
-available [here](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) from Johns Hopkins University. Strain genetics information is available [here](https://nextstrain.org/ncov?label=clade:B4&m=div).
+Diese Krankheit kann [langsam beginnen und sich plötzlich beschleunigen](https://www.nejm.org/doi/full/10.1056/NEJMoa2001191). Wenn Du in diesem Fall nicht zu Hause bist, dann bist Du nicht in der Nähe der Systeme, mit denen Du verpflegt und versorgt werden kannst. Auch wenn sich herausstellt, dass Du nicht in einer schlechten Verfassung durch die Infektion bist. Selbst wenn Du gesund bleibst könntest Du unter Quarantäne gestellt werden. Im besten Fall ist es Dir dann langweilig, im schlimmsten Fall erfährst Du [schreckliche Bedingungen](https://twitter.com/alankilbourne2/status/1236541651692204033). Ganz zu schweigen davon, dass es potenziell sehr teuer werden kann. Du kannst dich selbst dann infizieren, wenn Du vorsichtig bist. Die Reisegeschichte spielt für das Risiko eine immer größere Rolle, insbesondere weil wir aufgrund fehlender Tests ein bisschen blind fliegen. Die verfügbaren Daten für bestätigte Infektionen sind 
+  [hier](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) von der Johns Hopkins University erhältlich. Informationen zur Stammgenetik findest Du [hier](https://nextstrain.org/ncov?label=clade:B4&m=div). 

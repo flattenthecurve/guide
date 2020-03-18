@@ -1,11 +1,8 @@
-{:.only_toc}
-## Flu buddy
+{:.do}
+## Einen “Plan B” für die Betreuung von Kindern, Menschen mit besonderen Bedürfnissen und Haustieren erarbeiten – am besten mit einer Krisen-Freundschaft (“pandemic pal”) Krisen-Kumple? :D Das gilt besonders für Menschen die allein leben. 
 
-{:.do.no_toc}
-## Get a flu buddy (aka 'pandemic pal') and make back-up plans for care of children, pets, and those in need of special assistance
+Telefoniert einmal am Tag miteinander um sicher zu gehen, dass alles in Ordnung ist. Vielleicht auch nur, um euch auszutauschen und euch die Angst zu nehmen: Da ist jemand, der sich um mich kümmert! Falls einer* krank wird, telefoniert öfters. 
 
-Especially if you live by yourself. In the event of local transmission call each other daily. If anyone is sick, call them twice daily and have an agreed-upon contactless plan for delivering food, pain relief, and prescribed medications as well as for back up care of dependents.
+Vereinbart einen Plan, wie ihr Essen, Medikamente und andere wichtige Dinge besorgen könnt, wenn einer* von euch das Haus nicht mehr verlassen kann. Achtet besonders darauf, wie ihr die Dinge überreichen könnt ohne euch direkt zu berühren: Zum Beispiel vor der Tür abstellen. Denkt daran, wie schnell man sich anstecken kann. 
 
-Those who are already struggling with pre-existing demanding medical conditions may have useful experience to share about preparedness and about how to navigate the kinds of operational challenges the rest of us may be just coming to grips with. Ask them what they need from you, then provide it.
-
-It is a good opportunity to think about longer term versions of these care contingency plans (if for some reason the patient were to pass away).
+Kennst Du Menschen die regelmäßig Medikamente nehmen müssen? Sie sind ganz besonders auf Hilfe angewiesen. Frag, was sie brauchen und wie du ihnen helfen kannst. Chronisch kranke Menschen haben oft Erfahrung wie man mit langer Krankheit umgeht. Vielleicht haben sie wertvolle Tips für dich!
