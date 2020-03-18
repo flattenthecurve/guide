@@ -3,6 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 lang: en
+order: 5
 ---
 
 You can follow <a href="https://www.twitter.com/flattencurve">@FlattenCurve</a> on Twitter for announcements of updates to the site.
