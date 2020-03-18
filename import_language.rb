@@ -7,7 +7,7 @@ require 'zip'
 require_relative '_plugins/common'
 
 def language_dir(lang)
-  "_act_and_prepare/#{lang}"
+  "_sections/*/#{lang}"
 end
 
 SOURCE_LANG = "en"
@@ -24,7 +24,7 @@ def generate_content(translations_lang, translations_file)
   FileUtils.rm_r(language_dir(translations_lang), force: true)
 
   SECTIONS_TO_FILES.each do |section, source_file|
-    translated_file = source_file.sub(SOURCE_DIR, language_dir(translations_lang))
+    translated_file = source_file.sub("/en/", "/#{translations_lang}/")
     translated_dir = File.dirname(translated_file)
     FileUtils.mkdir_p(translated_dir)
     File.open(translated_file, "w:UTF-8") { |file|
