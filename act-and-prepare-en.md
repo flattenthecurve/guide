@@ -6,7 +6,8 @@ lang: en
 order: 1
 ---
 
-{% for item in site.act-and-prepare[site.active_lang] %}
-  {{ item.content | markdownify }}
+{% for item in site.data.act_and_prepare[site.active_lang] %}
+  {% capture my_include %}{% include_relative {{ item }} %}{% endcapture %}
+  {{ my_include | markdownify }}
 {% endfor %}
 

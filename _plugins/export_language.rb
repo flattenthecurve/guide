@@ -16,7 +16,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
   next unless site.config['active_lang'] == 'en'
   texts.merge!(site.data['strings'])
 
-  site.data['sections']['en'].each do |file|
+  site.data['act_and_prepare']['en'].each do |file|
     key = key_from_filename(file)
     content = File.open(file, 'r:UTF-8') { |f| f.read }
     texts[key] = content

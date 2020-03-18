@@ -5,7 +5,7 @@
 layout: home
 ---
 
-{% for item in site.data.sections[site.active_lang] %}
+{% for item in site.data.act_and_prepare[site.active_lang] %}
   {% capture my_include %}{% include_relative {{ item }} %}{% endcapture %}
   {{ my_include | markdownify }}
 {% endfor %}

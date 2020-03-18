@@ -1,0 +1,5 @@
+{:.do}
+## Wash your hands
+
+\>20 seconds with soap and warm water. [Here are great options](https://www.seattletimes.com/life/wellness/coronavirus-prevention-10-awesome-tunes-to-sing-while-you-wash-your-hands/?utm_medium=social&utm_campaign=owned_echobox_tw_m&utm_source=Twitter#Echobox=1583369786) of songs to sing to help you pass the time. Unlike some really stubborn viruses (like polio), viruses in the coronavirus family typically don't survive longer than a [few hours on most surfaces hard surfaces; though it can be up to days. Bleach or ethanol are more effective at decontaminating surfaces than they are disinfecting humanskin](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext). So don't hoard the hand sanitizer, that should be used only when you do not have any access to a soap and water sink. At a restaurant? Wash your hands. At school? Wash your hands. Vigorous handwashing with soap really is vital to reduce transmission; the awesome science of why is [here](https://twitter.com/PalliThordarson/status/1236549305189597189).
+**If you do nothing else at all, do wash your hands.**
