@@ -27,7 +27,7 @@ Dir["*-en.md"].sort!.each { |filename|
 def generate_content(translations_lang, translations_file)
   translations = JSON.parse(File.open(translations_file, 'r:UTF-8') { |f| f.read })
 
-  FileUtils.rm_r(language_dir(translations_lang), force: true)
+  FileUtils.rm_r(Dir[language_dir(translations_lang)], force: true)
 
   SECTIONS_TO_FILES.each do |section, source_file|
     translated_file = source_file.sub("/en/", "/#{translations_lang}/")
