@@ -5,6 +5,7 @@ title: Act & Prepare
 permalink: /act-and-prepare/
 lang: en
 order: 1
+translate_content: false
 ---
 
 {% for item in site.data.act_and_prepare[site.active_lang] %}

@@ -8,7 +8,8 @@ end
 
 Jekyll::Hooks.register :pages, :post_init do |page|
   if key = key_from_page_filename(page.name)
-    texts[key] = page.content
+    texts[key] = page.content unless page.data['translate_content'] == false
+    texts["#{key}-title"] = page.data['title']
   end
 end
 

@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+translate_content: false
 ---
 
 {% for item in site.data.home_sections[site.active_lang] %}
