@@ -8,4 +8,4 @@ You can help by following as much as possible of the following guidance. The ear
 
 From a dear friend in Beijing "Steer as far away from the fear and hysteria that might be hitting your towns. Use wisdom but don't allow it to become an empty excuse for not loving your fellow humans. Choose generosity instead of hoarding. And on those really hard days (or maybe after watching too many news reports) turn up the music and dance! Celebrate the goodness! It's there, it will remain and you can be a catalyst for it!"
 
-Here's how.
+[Here's how.](/act-and-prepare/)
