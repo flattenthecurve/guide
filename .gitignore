@@ -6,3 +6,5 @@ build
 .bundle/
 .Rproj.user/
 guide.Rproj
+
+.DS_Store
