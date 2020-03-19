@@ -1,3 +1,10 @@
+---
+layout: page
+title: Participer
+permalink: "/contribute/"
+lang: fr
+order: 3
+---
 # Comment aider ou participer
 
 Tout d'abord, merci ! Beaucoup de travail bénévole non rémunéré a été consacré à ce site pour essayer d'en faire une source d'informations parmi les meilleures et les plus complètes en cette période incertaine d'épidémie COVID-19. Il y a cependant des frais importants associés à cela, notamment pour payer l'hébergement, ou éventuellement dans le futur, embaucher quelqu'un pour aider à gérer la masse de travail au fur et à mesure que le site se développe.
