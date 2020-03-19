@@ -14,12 +14,12 @@ We need to keep the information updated with recent developments and recommendat
 ### How to suggest an update or change
 
 1. If you have never used Github and are not comfortable trying to do the update yourself, please go [here](https://github.com/flattenthecurve/guide/issues/new/choose) and fiil out an issue with your content change request or submission: 
-2. If you have used Github before and know what Markdown is, you can make the change yourself. 
-3. Identify a section that needs to be added or modified.
-4. Edit the content trying as best you can to match style and tone of the language used in that section - see instructions on how to edit content [here](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-another-users-repository).
-5. Before submitting a change request, please [check the open pull requests](https://github.com/flattenthecurve/guide/pulls) to make sure that the same request has not yet been completed by someone else
-6. Include a comment with a link to a trusted source or a justification for the change request
-7. Thanks for the contribution - give yourself a celebratory pat on the back!
+1. If you have used Github before and know what Markdown is, you can make the change yourself. 
+1. Identify a section that needs to be added or modified.
+1. Edit the content trying as best you can to match style and tone of the language used in that section - see instructions on how to edit content [here](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-another-users-repository).
+1. Before submitting a change request, please [check the open pull requests](https://github.com/flattenthecurve/guide/pulls) to make sure that the same request has not yet been completed by someone else
+1. Include a comment with a link to a trusted source or a justification for the change request
+1. Thanks for the contribution - give yourself a celebratory pat on the back!
 
 
 ![](https://media.giphy.com/media/3o7btW9s53TyntUsP6/giphy.gif)
