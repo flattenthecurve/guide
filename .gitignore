@@ -4,3 +4,5 @@ build
 
 .tweet-cache/
 .bundle/
+.Rproj.user/
+guide.Rproj

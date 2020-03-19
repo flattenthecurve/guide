@@ -34,6 +34,9 @@ plugins:
   - jekyll-twitter-plugin
   # - jekyll-feed
 
+include:
+  - images/*.svg
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -41,11 +44,13 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - docker-compose.yml
+  - docker-compose.*.yml
   - README.md
   - import-translations.sh
   - import_language.rb
+  - build
 
-languages: ['en', 'es']
+languages: ['en', 'es', 'de', 'fr']
 default_lang: 'en'
 exclude_from_localization: ['assets', 'css', 'build']
 parallel_localization: false

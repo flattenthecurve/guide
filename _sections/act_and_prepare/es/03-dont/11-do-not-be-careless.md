@@ -1,0 +1,8 @@
+{:.dont}
+## No seas negligente. 
+
+No seas *esa* persona. Este es un problema de todos. No seas negligente pensando que si te enfermas ahora vas a ‘evitar la congestión.’ Enfermarse al comienzo de una pandemia no beneficia a ningún individuo ni a la población. Estarías poniendo en riesgo las vidas de los demás. Ésto no se trata solamente de la gente que está muriendo, sino de cómo están muriendo. Y luego hay que considerar también el trauma físico - hablando del estado emocional, ésto es lo opuesto de un "buen morir." La gente está muriendo sola, alejados de quienes aman por una cuarentena.
+
+Los reportes iniciales describen que los pacientes que se recuperan desarrollan anticuerpos que les proveen inmunidad si llegan a ser infectados con la misma cepa. Sin embargo, estas son muy buenas noticias para el desarrollo de vacunas, así que a aplanar la curva y a esperar. 
+
+Las cosas pueden ponerse muy graves: una persona describió que el dolor le hacía sentir como si le estuvieran pasando los pulmones [por una máquina de hacer fideos](https://twitter.com/stuff_so/status/1236517734189391875).  El 10% de los casos requieren cuidados en unidades de cuidados intensivos (UCI) y respiradores artificiales. Incluso si los reportes de autopsia de China han sido [tergiversados](https://twitter.com/CT_Bergstrom/status/1235797950451703809) o exagerados, existe la posibilidad de daños pulmonares a largo plazo o permanentes si alguien se enferma y después se recupera. Hay muchos espacios en blanco en la información acerca de los posibles daños pulmonares, y la razón principal es que todos los que están calificados para enterar exactamente al público de lo que está pasando están demasiado ocupados salvando vidas y poniéndose en riesgo ellos mismos.

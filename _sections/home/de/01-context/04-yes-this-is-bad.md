@@ -1,0 +1,5 @@
+# Ja, die Lage ist ernst!
+
+Ruhig bleiben, nicht in Panik verfallen. Aber: auch auf keinen Fall die öffentlichen Warnungen und Empfehlungen einfach vom Tisch wischen! Es zeichnet sich ein Konsens ab, dass eine Eindämmung vor einigen Wochen möglich gewesen sein könnte, aber [nicht mehr realistisch](https://twitter.com/uwmnewsroom/status/1236020906956189696) ist. Wir haben den Vorsprung, den wir zur Vorbereitung auf die Infektionswelle den China uns gab [ungenutzt verstreichen lassen](https://twitter.com/florian_krammer/status/1236344865924972545).
+Wir treten in die [Pandemiephase ein, auf die ein saisonales Wiederauftreten der Krankheit folgt](https://twitter.com/NAChristakis/status/1235983934187544578) 
+bis wir einen Impfstoff haben (der noch [18-24 Monate entfernt sein kann, wenn wir Glück haben](https://www.politico.com/news/2020/03/05/coronavirus-trump-vaccine-rhetoric-121796?nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=0000014e-f0fe-dd93-ad7f-f8ff7e290000&nlid=630318))

@@ -2,3 +2,20 @@ title: Aplanar la curva - COVID-19
 description: >-
   Esta guía tiene como finalidad ayudar a aplanar la curva del brote de COVID19,
   para ayudar a limitar la propagación y reducir la carga en los hospitales y centros de salud.
+
+health-care: Capacidad del sistema sanitario
+time-since: Tiempo desde el primer caso
+quantity-of: Número de casos
+without-prot: |-
+  Sin medidas
+  de protección
+with-prot: Con medidas de protección
+
+mort-rate-age: Tasa de mortalidad por COVID-19 por edad
+age: Edad
+
+top-range: Covid-19 (máximo del rango estimado)
+so-far: Covid-19 (hasta ahora)
+estimate: Covid-19 (estimado)
+bottom-estimate: Covid-19 (mínimo del rango estimado)
+seasonal-flu: Gripe estacional

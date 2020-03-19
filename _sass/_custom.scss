@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 .text-center {
   text-align: center;
 }
@@ -44,4 +46,11 @@
 .toc-h1, .toc-h2 {
   padding-top: 1em;
   line-height: 1.2em;
+}
+
+.main .only_toc {
+  height: 0px;
+  margin: 0;
+  padding: 0;
+  visibility: hidden;
 }
