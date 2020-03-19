@@ -16,5 +16,5 @@ Responding to an exponential growth of COVID-19 proactively & with mutual suppor
 Medically verified information via easy to understand summaries written by people like you, and doctors. 
 
 {:.no_toc.highlight-box}
-## Global, Inclusive, Realtime
+## Global, Inclusive, Real-time
 Updated with emerging information, and open sourced in as many languages as possible.
