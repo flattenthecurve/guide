@@ -6,7 +6,7 @@ lang: en
 order: 4
 ---
 
-# About the authors
+# Authors
 
 Content initially compiled by Julie McMurry, masters degree in public health from the [University of London School of Hygiene and Tropical Medicine](http://lshtm.ac.uk/) as well as a background in infectious diseases and vaccine development. She is currently an assistant professor (senior research) at Oregon State University in the College of Public Health; to learn more about her group's work in computer models for rare genetic disease feel free to have a look at [tislab.org](http://tislab.org/).
 
@@ -17,3 +17,9 @@ Other contributors, curators, reviewers and translators include:
 - **Dr. Melissa Haendel, Director of the Center for Data to Health, Oregon Health & Science University**, ([Director of Translational Data Science, Oregon State University](https://tislab.org/))
 - **Benjamin F. E. Lange, PhD**, [LinkedIn](https://www.linkedin.com/in/dr-benjamin-f-e-lange-a609b838)
 - **Nicole Vasilevsky, PhD** ([ORCID](https://orcid.org/0000-0001-5208-3432))
+
+
+## Supported by
+
+<a href="https://ctsa.ncats.nih.gov/cd2h/" target="_blank"><img src="/images/logos/CD2H.png" width="200px"/></a>
+<a href="https://instedd.org" target="_blank"><img src="/images/logos/instedd_site_logo.png" width="200px"/></a>
