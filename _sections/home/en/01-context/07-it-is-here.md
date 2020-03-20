@@ -8,7 +8,7 @@ time](https://twitter.com/AdamJKucharski/status/1236004937529798659). Cryptic tr
 was detected in Seattle](https://twitter.com/trvrb/status/1236096904678633472). Seattle and Stanford are doing an amazing job of getting up to speed with their own testing kits; [about 5-7% of tests in Seattle are positive](https://twitter.com/UWVirology/status/1236017803162873856) and
 anyone (with a doctor's indication) can be tested.
 
-![](/images/en/seattle-flu-research.png)
+> Frustrated by the lack of testing resulting from the problem with the CDC-developed kit, the Seattle Flu Study began using an in-house developed test to look for Covid-19 in samples from people who had tested negative for flu. That work —permissible because it was research— uncovered the Snohomish County teenager.
 
 (For the sake of public health, University of Washington are publishing these results). So far only UW and Stanford have been moving ahead with
 their own (non-CDC) testing; both of these institutions have mandated that in-person classes be moved to distance learning alternatives. That
