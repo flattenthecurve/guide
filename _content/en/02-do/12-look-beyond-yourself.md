@@ -7,7 +7,7 @@ fret about, but your 80-year old neighbor or your friend with recent heart surge
 **Mutual Aid Resources:**
 
 Looking for ways to support your neighbors and community, especially those who are most vulnerable? There are many places online compiling links to mutual aid resources for different cities/regions. For example: 
-* [COVID-19 Collective Care (general resources & mutual aid groups](bit.ly/covid19collectivecare)
+* [COVID-19 Collective Care (general resources & mutual aid groups)](bit.ly/covid19collectivecare)
 * [US COVID-19 Mutual Aid Resources (Google Folders by State)](https://drive.google.com/drive/folders/1dKDM8CA32gZ1L2v_MFewohqJhVnCsi71?usp=sharing)
 * [Collective Care is our Best Weapon against COVID-19 (lots of local mutual aid groups)](https://docs.google.com/document/d/1uP49OQGhosfBN4BOYQvyy_Mu3mpCSOYzip13LksC-S8/edit)
 * [COVID-19 Resources for Students](https://docs.google.com/document/d/1JEwYeYeqhe0xCUSHZHV0ZKeUwxqVCQlcDq-pM-0a9YU/edit), [Listings of #covid19mutualaid initiatives (crowd-sourced)](https://docs.google.com/spreadsheets/d/1M9Y46lhZSVIRyE1Qh74Tj5uu91VKs5nhFCUudnFOqOg/edit#gid=776187552)
