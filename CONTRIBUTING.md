@@ -1,10 +1,25 @@
+# Guiding Principles
+We ask all contributors to please embrace the following principles while participating and when relevant:
+
+1. Be science-based - seek always primary sources
+2. Only provide information that can be acted upon
+3. Avoid politics, opinions, and personal comments
+4. Keep content clear and accessible
+5. Have empathy for all involved and avoid promoting fear
+6. Promote diversity and inclusion, especially the most vulnerable to COVID-19
+7. Collaborate with other groups to make information widely available
+8. Be the change ourselves
+
+These guiding principles, as well as [the project's code of conduct](https://github.com/flattenthecurve/guide/blob/master/CODE_OF_CONDUCT.md), represent the ways in which we expect our community to act.
+
+-----
+
 # How to contribute
 This content is work in progress, please check back often as it will likely change. If you want to help, we currently need these roles - each with instructions describing how to make contributions such that updates can flow as efficiently as possible:
 
 * [English Content Contributors](#english-content-contributors)
 * [Scientific Reviewers](#scientific-reviewers)
 * [Translators](#translators)
-* [Guiding Principles](#guiding-principles)
 
 -----
 
@@ -41,18 +56,3 @@ If you are profficient in a language other than English, your help with be great
 
 ## Translators
 We need to translate and adapt this content to as many languages as possible as soon as we can. Please check the instructions [here](https://github.com/flattenthecurve/guide/wiki/Content-translation).
-
------
-
-## Guiding Principles
-We ask all contributors to please embrace the following principles while participating and when relevant:
-
-1. Be science-based - seek always primary sources
-2. Only provide information that can be acted upon
-3. Avoid politics, opinions, and personal comments
-4. Keep content clear and accessible
-5. Have empathy for all involved and avoid promoting fear
-6. Promote diversity and inclusion, especially the most vulnerable to COVID-19
-7. Collaborate with other groups to make information widely available
-8. Be the change ourselves
-
