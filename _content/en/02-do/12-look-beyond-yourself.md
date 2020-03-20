@@ -10,9 +10,9 @@ Looking for ways to support your neighbors and community, especially those who a
 * [COVID-19 Collective Care (general resources & mutual aid groups)](bit.ly/covid19collectivecare)
 * [US COVID-19 Mutual Aid Resources (Google folders by state)](https://drive.google.com/drive/folders/1dKDM8CA32gZ1L2v_MFewohqJhVnCsi71?usp=sharing)
 * [Collective Care is our Best Weapon against COVID-19 (lots of local mutual aid groups)](https://docs.google.com/document/d/1uP49OQGhosfBN4BOYQvyy_Mu3mpCSOYzip13LksC-S8/edit)
-* [COVID-19 Resources for Students](https://docs.google.com/document/d/1JEwYeYeqhe0xCUSHZHV0ZKeUwxqVCQlcDq-pM-0a9YU/edit), [Listings of #covid19mutualaid initiatives (crowd-sourced)](https://docs.google.com/spreadsheets/d/1M9Y46lhZSVIRyE1Qh74Tj5uu91VKs5nhFCUudnFOqOg/edit#gid=776187552)
-* [Database of Localized Resources](https://docs.google.com/spreadsheets/d/1HEdNpLB5p-sieHVK-CtS8_N7SIUhlMpY6q1e8Je0ToY/edit#gid=0).
+* [COVID-19 Resources for Students](https://docs.google.com/document/d/1JEwYeYeqhe0xCUSHZHV0ZKeUwxqVCQlcDq-pM-0a9YU/edit)
+* [Listings of #covid19mutualaid initiatives (crowd-sourced)](https://docs.google.com/spreadsheets/d/1M9Y46lhZSVIRyE1Qh74Tj5uu91VKs5nhFCUudnFOqOg/edit#gid=776187552)
+* [Database of Localized Resources](https://docs.google.com/spreadsheets/d/1HEdNpLB5p-sieHVK-CtS8_N7SIUhlMpY6q1e8Je0ToY/edit#gid=0)
 
 
-
-[With all the cancellations this is one of the first times I've seen normalization of an "it's everybody's problem approach." Yes, your one cancelled event might not save lives but the fact that everyone is doing this will. Same mentality is needed for climate change.](https://twitter.com/JasonWilliamsNY/status/1236332192172838912) Because travel is a big source of the spread, use the occasion to buy locally grown produce. This will reduce coronavirus transmission, support your local economy, and also have a net carbon savings.
+[With all the cancellations this is one of the first times we've seen normalization of an "it's everybody's problem approach." Yes, your one cancelled event might not save lives but the fact that everyone is doing this will. Same mentality is needed for climate change.](https://twitter.com/JasonWilliamsNY/status/1236332192172838912) Because travel is a big source of the spread, use the occasion to buy locally grown produce. This will reduce coronavirus transmission, support your local economy, and also have a net carbon savings.
