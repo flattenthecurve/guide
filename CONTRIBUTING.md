@@ -1,10 +1,15 @@
 # How to contribute
 This content is work in progress, please check back often as it will likely change. If you want to help, we currently need these roles - each with instructions describing how to make contributions such that updates can flow as efficiently as possible:
 
-* [English Content Contributors](#english-content-contributors)
-* [Scientific Reviewers](#scientific-reviewers)
-* [Translators](#translators)
-* [Guiding Principles](#guiding-principles)
+- [How to contribute](#how-to-contribute)
+  - [English Content Contributors](#english-content-contributors)
+    - [How to suggest an update or change](#how-to-suggest-an-update-or-change)
+    - [Review of the contribution](#review-of-the-contribution)
+  - [Scientific Reviewers](#scientific-reviewers)
+  - [Translators](#translators)
+  - [Tech contributors](#tech-contributors)
+    - [Running the project locally](#running-the-project-locally)
+  - [Guiding Principles](#guiding-principles)
 
 -----
 
@@ -44,6 +49,16 @@ We need to translate and adapt this content to as many languages as possible as 
 
 -----
 
+## Tech contributors
+
+### Running the project locally
+
+1. Clone the project.
+2. Run `docker-compose up`.
+3. In a browser, go to `http://localhost:4000`. The site should be running there.
+
+-----
+
 ## Guiding Principles
 We ask all contributors to please embrace the following principles while participating and when relevant:
 
@@ -55,4 +70,3 @@ We ask all contributors to please embrace the following principles while partici
 6. Promote diversity and inclusion, especially the most vulnerable to COVID-19
 7. Collaborate with other groups to make information widely available
 8. Be the change ourselves
-
