@@ -2,6 +2,6 @@ You can share this as widely as you like using the URL: [www.flattenthecurve.com
 
 **Update**: we’ve created an email newsletter to help you stay up to date with COVID19 and everyone’s efforts to #FlattenTheCurve. [You can click through and sign up here](https://flattenthecurve.substack.com/) (no spam, no marketing use, etc. Free!)
 
-**If you’d like to contribute to the site, whether adding to this page or writing a new, specific post, [click here](https://www.flattenthecurve.com/#how-to-help-and-contribute) or [please reach out here](/contact/).**
+**If you’d like to contribute to the site, whether adding to this page or writing a new, specific post, [click here](https://www.flattenthecurve.com/contribute/) or [please reach out here](/contact/).**
 
 Hyperlinks are provided to the original sources both for attribution and for referencing.
