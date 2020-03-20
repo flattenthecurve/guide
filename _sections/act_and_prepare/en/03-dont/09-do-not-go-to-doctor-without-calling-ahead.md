@@ -9,6 +9,8 @@ Do NOT go directly to the hospital. More guidance from CDC [here](https://www.cd
 Call centers are understandably overwhelmed right now with the "worried well" so please try to leave those lines open for the people who really
 need them.
 
+<div class="table-wrap" markdown="1">
+
 | Symptoms             | Coronavirus (Symptoms range from mild to severe) | Cold (gradual onset of symptoms) | Flu (Abrupt onset of symptoms) |
 |----------------------|--------------------------------------------------|----------------------------------|--------------------------------|
 | Fever                | Common                                           | Rare                             | Common                         |
@@ -21,5 +23,7 @@ need them.
 | Diarrhea             | Rare                                             | No                               | Sometimes for children         |
 | Headaches            | Sometimes                                        | Rare                             | Common                         |
 | Shortness of breath  | Sometimes                                        | No                               | No                             |
+
+</div>
 
 Sources: World Health Organization, Centers for Disease Control and Prevention
