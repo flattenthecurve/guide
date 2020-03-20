@@ -26,6 +26,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  overflow-wrap: break-word;
 }
 
 
@@ -93,26 +94,31 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
-  font-weight: $bold-font-weight;
+h1,
+.title {
+  font-weight: normal;
+  font-size: 2.5em;
+}
+h2,
+.subtitle {
+  font-weight: normal;
+  font-size: 1.666666em;
 }
 
-h2 {
+h3, h4, h5, h6 {
   font-weight: $bold-font-weight;
-  font-style: italic;
 }
-
 
 
 /**
  * Links
  */
 a {
-  color: $brand-color;
+  color: $blue-color;
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: darken($blue-color, 15%);
   }
 
   &:hover {
