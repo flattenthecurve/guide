@@ -5,4 +5,8 @@ permalink: /resources/
 lang: en
 order: 2
 ---
-Coming soon!
+
+{% for resource in site.resources %}
+  <a href="{{ resource.URL }}">{{ resource.name }}</a>
+  <p>{{ resource.content | markdownify }}</p>
+{% endfor %}
