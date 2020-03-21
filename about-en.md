@@ -8,7 +8,7 @@ order: 4
 
 As we learn more about COVID-19, a simple graph has gone viral: “Flatten the Curve.” Praised for shedding light on the scale and speed of the outbreak, it illustrates the wave of expected COVID-19 cases.
 
-- A high curve means the virus is spreading quickly; some people won’t get the medical care they need, and the number of deaths is likely to increase.</li>
+- A high curve means the virus is spreading quickly; some people won’t get the medical care they need, and the number of deaths is likely to increase.
 - A flattened curve means COVID-19 is spreading slowly, staggering the rate of people with COVID-19 and giving doctors time to best utilize scarce resources to treat people and save lives. 
 
 ## Purpose
