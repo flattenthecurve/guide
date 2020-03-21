@@ -90,6 +90,7 @@ $on-laptop:        1440px !default;
   }
 }
 
+#myths,
 #do,
 #do-not {
   font-weight: bold;
@@ -110,7 +111,8 @@ $on-laptop:        1440px !default;
 }
 
 .do,
-.dont {
+.dont,
+.myth {
   font-style: italic;
   margin-top: 1em;
 }
@@ -118,9 +120,20 @@ $on-laptop:        1440px !default;
 #do + .do, // first h2 of the page section
 #do + .only_toc + .do,
 #do-not + .dont,
-#do-not + .only_toc + .dont // first h2 of the section (after invisible anchor link)
+#do-not + .only_toc + .dont, // first h2 of the section (after invisible anchor link)
+#myths + .myth,
+#myths + .only_toc + .myth
 {
   margin-top: 0;
+}
+
+.myth {
+  &::before {
+    content: open-quote;
+  }
+  &::after {
+    content: close-quote;
+  }
 }
 
 .toc-desktop, .toc-mobile {
@@ -133,13 +146,22 @@ $on-laptop:        1440px !default;
   margin-left: 0;
 }
 
-.toc-h1 {
+.toc-h2 {
   list-style: none;
 }
 
-.toc-h1, .toc-h2 {
-  padding-top: 1em;
+.toc-h2 > a {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.toc-h2 + .toc-h2 {
+  margin-top: 1em;
+}
+
+.toc-h3 {
   line-height: 1.2em;
+  & + .toc-h3 { margin-top: .5em; }
 }
 
 .main .only_toc {
