@@ -58,8 +58,12 @@ $on-laptop:        1440px !default;
 @import
   "minima/base",
   "minima/layout",
+  "minima/header",
+  "minima/footer",
   "minima/typography",
   "minima/act_prepare",
+  "minima/posts",
+  "minima/tables",
   "minima/home",
   "minima/utilities"
 ;
