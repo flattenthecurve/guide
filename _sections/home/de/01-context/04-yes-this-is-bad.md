@@ -1,5 +1,8 @@
-# Ja, die Lage ist ernst!
+# Ja, die Lage ist ernst
 
-Ruhig bleiben, nicht in Panik verfallen. Aber: auch auf keinen Fall die öffentlichen Warnungen und Empfehlungen einfach vom Tisch wischen! Es zeichnet sich ein Konsens ab, dass eine Eindämmung vor einigen Wochen möglich gewesen sein könnte, aber [nicht mehr realistisch](https://twitter.com/uwmnewsroom/status/1236020906956189696) ist. Wir haben den Vorsprung, den wir zur Vorbereitung auf die Infektionswelle den China uns gab [ungenutzt verstreichen lassen](https://twitter.com/florian_krammer/status/1236344865924972545).
-Wir treten in die [Pandemiephase ein, auf die ein saisonales Wiederauftreten der Krankheit folgt](https://twitter.com/NAChristakis/status/1235983934187544578) 
-bis wir einen Impfstoff haben (der noch [18-24 Monate entfernt sein kann, wenn wir Glück haben](https://www.politico.com/news/2020/03/05/coronavirus-trump-vaccine-rhetoric-121796?nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=0000014e-f0fe-dd93-ad7f-f8ff7e290000&nlid=630318))
+Die Lage ist ernst. Sowohl gesellschaftlich als auch wirtschaftlich wird uns die Krise vor gewaltige Herausforderungen stellen. Kein Gesundheitssystem der Welt ist ausreichend auf eine solchen Ausbruch vorbereitet. Möglicherweise wird jeder von uns einen lieben Menschen verlieren, oder einen Bekannten.
+
+Noch ist nicht klar, wie lange die Krise dauern wird, oder wie es dann weiter geht. Aber eins ist sicher: Das Virus lässt sich nicht mehr eindämmen. Experten gehen davon aus, dass die große Mehrheit aller Menschen sich im Laufe der nächsten Monate infizieren wird.
+
+Natürlich forscht man mit Hochdruck an einem Impfstoff. Die nötigen Versuche benötigen jedoch eine gewisse Zeit. Kein Geld der Welt kann das verändern. Selbst wenn ein möglicher Impfstoff gefunden wurde, muss zunächst getestet werden, ob er Nebenwirkungen hat. Nur so kann man sicher gehen, dass er nicht mehr Schaden als Nutzen birgt.
+
