@@ -57,116 +57,13 @@ $on-laptop:        1440px !default;
 // Import partials.
 @import
   "minima/base",
-  "minima/layout"
+  "minima/layout",
+  "minima/header",
+  "minima/footer",
+  "minima/typography",
+  "minima/act_prepare",
+  "minima/posts",
+  "minima/tables",
+  "minima/home",
+  "minima/utilities"
 ;
-
-.page-content .wrapper {
-  background-color: $light-text-color;
-  padding-top: 2em;
-}
-
-.site-header {
-  background-color: $text-color;
-  .site-title {
-    color: $light-text-color;
-  }
-}
-
-.text-center {
-  text-align: center;
-}
-
-#lang-bar {
-  list-style-type: none;
-  margin: 0 auto;
-  padding: 15px 0;
-  text-align: right;
-
-  li::before { content: ' | '; }
-  li:first-of-type::before { content: none; }
-  li {
-    display: inline;
-    a { margin: 0.3em }
-  }
-}
-
-#myths,
-#do,
-#do-not {
-  font-weight: bold;
-}
-
-#do { color: $brightblue-color; }
-.do {
-  background-color: $brightblue-color;
-  color: white;
-  padding: 0.3em;
-}
-
-#do-not { color: $red-color; }
-.dont {
-  background-color: $red-color;
-  color: white;
-  padding: 0.3em;
-}
-
-.do,
-.dont,
-.myth {
-  font-style: italic;
-  margin-top: 1em;
-}
-
-#do + .do, // first h2 of the page section
-#do + .only_toc + .do,
-#do-not + .dont,
-#do-not + .only_toc + .dont, // first h2 of the section (after invisible anchor link)
-#myths + .myth,
-#myths + .only_toc + .myth
-{
-  margin-top: 0;
-}
-
-.myth {
-  &::before {
-    content: open-quote;
-  }
-  &::after {
-    content: close-quote;
-  }
-}
-
-.toc-desktop, .toc-mobile {
-  // font-weight: 400;
-  padding-right: 1.2em;
-  color: $lightgrey-color;
-}
-
-.section-nav {
-  margin-left: 0;
-}
-
-.toc-h2 {
-  list-style: none;
-}
-
-.toc-h2 > a {
-  text-transform: uppercase;
-  font-weight: bold;
-}
-
-.toc-h2 + .toc-h2 {
-  margin-top: 1em;
-}
-
-.toc-h3 {
-  line-height: 1.2em;
-  & + .toc-h3 { margin-top: .5em; }
-}
-
-.main .only_toc {
-  height: 0px;
-  margin: 0;
-  padding: 0;
-  visibility: hidden;
-}
