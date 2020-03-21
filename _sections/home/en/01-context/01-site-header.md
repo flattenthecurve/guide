@@ -1,7 +1,7 @@
 {:.no_toc.text-center}
 # Flattening the Curve
 
-{:.no_toc.text-center}
+{:.no_toc.text-center.get-informed}
 ## COVID-19 is officially a global pandemic, let’s get informed and act together.
 
 {:.no_toc.text-center}
@@ -24,3 +24,6 @@ Medically verified information via easy to understand summaries written by peopl
 Updated with emerging information, and open sourced in as many languages as possible.
 </div>
 </div>
+
+{:.text-center}
+Individually, it's hard to keep up with the news, and it's hard to know what's true. Read, contribute and share factual collected infomration here to help all of us.

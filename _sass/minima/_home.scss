@@ -1,7 +1,12 @@
+.get-informed {
+	font-style:italic;
+}
+
 .missions {
 	margin-top: 2em;
 	display: flex;
 	justify-content: space-between;
+	margin-bottom: 1em;
 
 	.mission {
 		text-align: center;
