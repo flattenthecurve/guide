@@ -59,3 +59,4 @@ google_analytics: UA-160096348-1
 collections:
    resources:
     resource: true
+    sort_by: country
