@@ -1,3 +1,5 @@
+<div markdown="1" class="hero">
+
 {:.no_toc.text-center}
 # Flattening the Curve
 
@@ -27,3 +29,5 @@ Updated with emerging information, and open sourced in as many languages as poss
 
 {:.text-center.narrow}
 Individually, it's hard to keep up with the news, and it's hard to know what's true. Read, contribute and share factual collected infomration here to help all of us.
+
+</div>
