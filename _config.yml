@@ -57,4 +57,5 @@ parallel_localization: false
 google_analytics: UA-160096348-1
 
 collections:
-   - resources
+   resources:
+    resource: true
