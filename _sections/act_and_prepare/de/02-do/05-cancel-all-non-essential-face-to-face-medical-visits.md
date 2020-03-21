@@ -2,14 +2,12 @@
 ## Arztbesuche
 
 {:.do.no_toc}
-## Jeden unnötigen persönlichen Arztbesuch vermeiden
+## Jeden unnötigen Arztbesuch vermeiden
 
-Krankenhäuser aber auch Arztpraxen sind Infektionsherde.
+Krankenhäuser und Arztpraxen sind Infektionsherde. Die Wahrscheinlichkeit dass Du Dich dort mit COVID-19 oder einer anderen Krankheit ansteckst ist sehr groß!
 
-Überlege, ob Dein Anliegen akut ist, 
-dass Du zeitnah einen Arzt aufsuchen musst.
-Falls ja, versuche den entsprechenden Arzt telefonisch zu erreichen und abzuklären, inwiefern ein Besuch notwendig ist. 
-Krankschreibungen für Menschen mit leichten Atemwegserkrankungen können
-in Deutschland jetzt telefonisch beim Hausarzt eingeholt werden. (Situation in DE, ergänzende Hinweise für andere Länder folgen)
+Überlege, ob Dein Anliegen wirklich so dringend ist, dass Du unbedingt zum Arzt musst. Vielleicht kannst Du das Problem auch per Telefon lösen? Krankschreibungen für Menschen mit leichten Atemwegserkrankungen können
+in Deutschland jetzt telefonisch beim Hausarzt eingeholt werden. 
 
-Wie immer gilt: In Notfällen wähle den Notruf 112 (gilt für ganz Europa)!
+**In Deutschland kann man momentan die [116 117](https://www.116117.de/de/coronavirus.php) anrufen wenn man vermutet sich angesteckt zu haben.**
+**In echten medizinischen Notfällen gilt wie immer europaweit die 112!**
