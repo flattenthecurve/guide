@@ -1,0 +1,22 @@
+.missions {
+	margin-top: 2em;
+	display: flex;
+	justify-content: space-between;
+
+	.mission {
+		text-align: center;
+		flex-basis: 30%;
+	}
+	.mission h2 { 
+		margin-bottom: 0; 
+	}
+
+	@include media-query($on-palm) {
+		display: block;
+
+		.mission + .mission {
+			margin-top: 1em;
+		}
+	}
+
+}

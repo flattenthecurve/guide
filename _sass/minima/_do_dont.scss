@@ -1,0 +1,32 @@
+#do,
+#do-not {
+  font-weight: bold;
+}
+
+#do { color: $brightblue-color; }
+.do {
+  background-color: $brightblue-color;
+  color: white;
+  padding: 0.3em;
+}
+
+#do-not { color: $red-color; }
+.dont {
+  background-color: $red-color;
+  color: white;
+  padding: 0.3em;
+}
+
+.do,
+.dont {
+  font-style: italic;
+  margin-top: 1em;
+}
+
+#do + .do, // first h2 of the page section
+#do + .only_toc + .do,
+#do-not + .dont,
+#do-not + .only_toc + .dont // first h2 of the section (after invisible anchor link)
+{
+  margin-top: 0;
+}
