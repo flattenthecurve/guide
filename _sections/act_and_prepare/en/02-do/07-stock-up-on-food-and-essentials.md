@@ -1,8 +1,8 @@
 {:.only_toc}
-## Stock up
+### Stock up
 
 {:.do.no_toc}
-## Stock up on food and essentials - Early, gradually, and responsibly
+### Stock up on food and essentials - Early, gradually, and responsibly
 
 Thread:
 
