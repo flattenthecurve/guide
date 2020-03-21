@@ -4,6 +4,7 @@
 	background-size: 100% 90%;
 	background-position: bottom;
 	padding: 1em;
+	padding-bottom: 0;
 	margin-bottom: 1em;
 
 	// these negate the padding on the .wrapper div
@@ -19,6 +20,15 @@
 	@include media-query($on-palm) {
 	  	background-size: 100% 60%; // don't squeeze the graphic so much
 	}
+
+	h1 {
+		text-transform: uppercase;
+		letter-spacing: .025em;
+	}
+
+	[id^="updated"] {
+		font-size: .8em;
+	}
 }
 
 .get-informed {
@@ -29,7 +39,6 @@
 	margin-top: 2em;
 	display: flex;
 	justify-content: space-between;
-	margin-bottom: 1em;
 	background-color: rgba(255,255,255,.75);
 	padding-top: 1em;
 	padding-bottom: 1em;
@@ -39,7 +48,9 @@
 		flex-basis: 30%;
 	}
 	.mission h2 { 
-		margin-bottom: 0;
+		// margin-bottom: 0;
+		font-size: 1.25em;
+		color: $blue-color;
 	}
 	.mission p {
 		margin: 0;
