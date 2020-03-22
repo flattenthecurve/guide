@@ -15,14 +15,7 @@
   background-color: $light-text-color;
   padding-top: 2em;
   padding-bottom: 5em;
-}
 
-@include media-query($on-laptop) {
-  .footer-col-1,
-  .footer-col-2 {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
-  }
   // This is to style non-english page title, until .hero is added
   h1:first-of-type {
     font-size: 45px;
@@ -31,6 +24,14 @@
   h2:first-of-type {
     margin-top: 0;
   }
+}
+
+@include media-query($on-laptop) {
+  .footer-col-1,
+  .footer-col-2 {
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
+  }  
 }
 
 .footer-logos-wrapper {
