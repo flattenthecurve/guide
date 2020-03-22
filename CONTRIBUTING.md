@@ -2,13 +2,13 @@
 We ask all contributors to please embrace the following principles while participating and when relevant:
 
 1. Be science-based - seek always primary sources
-2. Only provide information that can be acted upon
-3. Avoid politics, opinions, and personal comments
-4. Keep content clear and accessible
-5. Have empathy for all involved and avoid promoting fear
-6. Promote diversity and inclusion, especially the most vulnerable to COVID-19
-7. Collaborate with other groups to make information widely available
-8. Be the change ourselves
+1. Only provide information that can be acted upon
+1. Avoid politics, opinions, and personal comments
+1. Keep content clear and accessible
+1. Have empathy for all involved and avoid promoting fear
+1. Promote diversity and inclusion, especially the most vulnerable to COVID-19
+1. Collaborate with other groups to make information widely available
+1. Be the change ourselves
 
 These guiding principles, as well as [the project's code of conduct](https://github.com/flattenthecurve/guide/blob/master/CODE_OF_CONDUCT.md), represent the ways in which we expect our community to act.
 
