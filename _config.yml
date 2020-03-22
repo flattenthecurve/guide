@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Flatten the curve - COVID-19
+title: Flatten the curve
 email: hello@flattenthecurve.com
 description: >- # this means to ignore newlines until "baseurl:"
   These guidelines are intended to help Flatten the Curve with the COVID19 outbreak,
@@ -55,3 +55,8 @@ default_lang: 'en'
 exclude_from_localization: ['assets', 'css', 'build']
 parallel_localization: false
 google_analytics: UA-160096348-1
+
+collections:
+   resources:
+    resource: true
+    sort_by: country

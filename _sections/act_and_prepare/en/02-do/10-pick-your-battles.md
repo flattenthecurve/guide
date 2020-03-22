@@ -1,8 +1,8 @@
 {:.only_toc}
-## Social interactions
+### Social interactions
 
 {:.do.no_toc}
-## Pick your battles; reduce non-essential social interactions
+### Pick your battles; reduce non-essential social interactions
 
 On a lighter note, go ahead and use the pandemic excuse to beg out of any in-person meeting / party / wedding you would attend only out of
 some vague sense of duty. If you're not really certain to enjoy it yourself or to bring joy to someone you really love then just. skip. it.

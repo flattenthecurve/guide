@@ -17,9 +17,14 @@ These guiding principles, as well as [the project's code of conduct](https://git
 # How to contribute
 This content is work in progress, please check back often as it will likely change. If you want to help, we currently need these roles - each with instructions describing how to make contributions such that updates can flow as efficiently as possible:
 
-* [English Content Contributors](#english-content-contributors)
-* [Scientific Reviewers](#scientific-reviewers)
-* [Translators](#translators)
+- [How to contribute](#how-to-contribute)
+  - [English Content Contributors](#english-content-contributors)
+    - [How to suggest an update or change](#how-to-suggest-an-update-or-change)
+    - [Review of the contribution](#review-of-the-contribution)
+  - [Scientific Reviewers](#scientific-reviewers)
+  - [Translators](#translators)
+  - [Tech contributors](#tech-contributors)
+    - [Running the project locally](#running-the-project-locally)
 
 -----
 
@@ -56,3 +61,13 @@ If you are profficient in a language other than English, your help with be great
 
 ## Translators
 We need to translate and adapt this content to as many languages as possible as soon as we can. Please check the instructions [here](https://github.com/flattenthecurve/guide/wiki/Content-translation).
+
+-----
+
+## Tech contributors
+
+### Running the project locally
+
+1. Clone the project.
+2. Run `docker-compose up`.
+3. In a browser, go to `http://localhost:4000`. The site should be running there.
