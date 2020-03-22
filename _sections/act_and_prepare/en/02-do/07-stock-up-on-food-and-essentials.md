@@ -29,7 +29,7 @@ Buy food and other supplies responsibly. Some tips:
  - Retain a 6ft distance between yourself and others at all times. 
  - Put your phone in a baggie, it is much easier to disinfect.
  - Bring disinfectant wipes and/or wear washable cloth gardening gloves for handling doors, elevators, and other frequently touched [hard surfaces that may retain the virus](https://www.nytimes.com/2020/03/17/health/coronavirus-surfaces-aerosols.html). Remember you are protecting yourself as well as others. 
- - Use non-physical means to pay, such as PayPal or ApplePay where possible. If not, use disinfecting wipes to disinfect your credit card. Don't use cash. 
+ - Use non-physical means to pay, such as PayPal or Apple Pay where possible. If not, use disinfecting wipes to disinfect your credit card. Don't use cash. 
  - Create a decontamination protocol and location for your home, where you can either quarantine for >72 hrs at room temperature (easiest) or disinfect all items (with wipes, bleach, hydrogen peroxide, or alcohol; or washed with soap and water in the case of vegetables) that may have come in contact with other people. Inner items can be carefully removed and placed in a clean bag or box, and brought inside by having one hand be considered contaminated while the other is clean; alternatively, two people in the same home can serve the same functions. 
  - Leave your shoes outside when you return
 
