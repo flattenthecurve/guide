@@ -17,14 +17,13 @@ These guiding principles, as well as [the project's code of conduct](https://git
 # How to contribute
 This content is work in progress, please check back often as it will likely change. If you want to help, we currently need these roles - each with instructions describing how to make contributions such that updates can flow as efficiently as possible:
 
-- [How to contribute](#how-to-contribute)
-  - [English Content Contributors](#english-content-contributors)
-    - [How to suggest an update or change](#how-to-suggest-an-update-or-change)
-    - [Review of the contribution](#review-of-the-contribution)
-  - [Scientific Reviewers](#scientific-reviewers)
-  - [Translators](#translators)
-  - [Tech contributors](#tech-contributors)
-    - [Running the project locally](#running-the-project-locally)
+ - [English Content Contributors](#english-content-contributors)
+   - [How to suggest an update or change](#how-to-suggest-an-update-or-change)
+   - [Review of the contribution](#review-of-the-contribution)
+ - [Scientific Reviewers](#scientific-reviewers)
+ - [Translators](#translators)
+ - [Tech contributors](#tech-contributors)
+   - [Running the project locally](#running-the-project-locally)
 
 -----
 
