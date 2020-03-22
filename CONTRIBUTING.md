@@ -1,15 +1,29 @@
+# Guiding Principles
+We ask all contributors to please embrace the following principles while participating and when relevant:
+
+1. Be science-based - seek always primary sources
+1. Only provide information that can be acted upon
+1. Avoid politics, opinions, and personal comments
+1. Keep content clear and accessible
+1. Have empathy for all involved and avoid promoting fear
+1. Promote diversity and inclusion, especially the most vulnerable to COVID-19
+1. Collaborate with other groups to make information widely available
+1. Be the change ourselves
+
+These guiding principles, as well as [the project's code of conduct](https://github.com/flattenthecurve/guide/blob/master/CODE_OF_CONDUCT.md), represent the ways in which we expect our community to act.
+
+-----
+
 # How to contribute
 This content is work in progress, please check back often as it will likely change. If you want to help, we currently need these roles - each with instructions describing how to make contributions such that updates can flow as efficiently as possible:
 
-- [How to contribute](#how-to-contribute)
-  - [English Content Contributors](#english-content-contributors)
-    - [How to suggest an update or change](#how-to-suggest-an-update-or-change)
-    - [Review of the contribution](#review-of-the-contribution)
-  - [Scientific Reviewers](#scientific-reviewers)
-  - [Translators](#translators)
-  - [Tech contributors](#tech-contributors)
-    - [Running the project locally](#running-the-project-locally)
-  - [Guiding Principles](#guiding-principles)
+ - [English Content Contributors](#english-content-contributors)
+   - [How to suggest an update or change](#how-to-suggest-an-update-or-change)
+   - [Review of the contribution](#review-of-the-contribution)
+ - [Scientific Reviewers](#scientific-reviewers)
+ - [Translators](#translators)
+ - [Tech contributors](#tech-contributors)
+   - [Running the project locally](#running-the-project-locally)
 
 -----
 
@@ -56,17 +70,3 @@ We need to translate and adapt this content to as many languages as possible as 
 1. Clone the project.
 2. Run `docker-compose up`.
 3. In a browser, go to `http://localhost:4000`. The site should be running there.
-
------
-
-## Guiding Principles
-We ask all contributors to please embrace the following principles while participating and when relevant:
-
-1. Be science-based - seek always primary sources
-2. Only provide information that can be acted upon
-3. Avoid politics, opinions, and personal comments
-4. Keep content clear and accessible
-5. Have empathy for all involved and avoid promoting fear
-6. Promote diversity and inclusion, especially the most vulnerable to COVID-19
-7. Collaborate with other groups to make information widely available
-8. Be the change ourselves
