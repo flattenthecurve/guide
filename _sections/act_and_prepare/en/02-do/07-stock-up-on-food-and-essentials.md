@@ -23,5 +23,13 @@ Thread:
 "Experts aren't telling you to stock up on essentials because they think you're going to run out of food & society is going to collapse. It's
 because a [few days of panic buying & high demands cause more panic & stress systems unnecessarily](https://twitter.com/firefoxx66/status/1233666678841597952). Also, being in line with hundreds of people isn't wise. Go off peak. Buy a little more than what you need. Preparedness isn't about doing nothing, but also about not overreacting. It's about doing your part to put the [\*slack in our systems\*](https://twitter.com/firefoxx66/status/1233666678841597952) so that short disruptions are smooth as possible, can absorb extra load, & resources remain available for those most in need.
 
-Don't bother buying bottled water; tap water is very unlikely to be impacted and anyway, boiling would be adequate if it turned out it were
-needed for unforeseen reasons. Intestinal symptoms of coronavirus are very rare; there's no reason to expect that supplies of toilet paper will dry up. Get what you need. Leave the rest for others.
+Buy food and other supplies responsibly. Some tips:
+ - Go to the store at off-peak hours. 
+ - Make a list so you can be efficient.
+ - Retain a 6ft distance between yourself and others at all times. 
+ - Put your phone in a baggie, it is much easier to disinfect.
+ - Bring disinfectant wipes and/or wear washable cloth gardening gloves for handling doors, elevators, and other frequently touched [hard surfaces that may retain the virus](https://www.nytimes.com/2020/03/17/health/coronavirus-surfaces-aerosols.html). Remember you are protecting yourself as well as others. 
+ - Use non-physical means to pay, such as PayPal or ApplePay where possible. If not, use disinfecting wipes to disinfect your credit card. Don't use cash. 
+ - Create a decontamination protocol and location for your home, where you can either quarantine for >72 hrs at room temperature (easiest) or disinfect all items (with wipes, bleach, hydrogen peroxide, or alcohol; or washed with soap and water in the case of vegetables) that may have come in contact with other people. Inner items can be carefully removed and placed in a clean bag or box, and brought inside by having one hand be considered contaminated while the other is clean; alternatively, two people in the same home can serve the same functions. 
+ - Leave your shoes outside when you return
+
