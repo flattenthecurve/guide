@@ -1,5 +1,5 @@
 {:.only_toc}
-### Do not shake hands.
+### Do not shake hands
 
 {:.dont.no_toc}
 ### Do not shake hands; get creative with zero-contact greetings
