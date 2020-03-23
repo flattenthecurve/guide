@@ -5,6 +5,7 @@ require 'ruby-lokalise-api'
 require 'open-uri'
 require 'zip'
 require 'metadown'
+require 'yaml'
 require_relative '_plugins/common'
 
 def language_dir(lang)
@@ -23,6 +24,8 @@ TOP_LEVEL_PAGES = {}
 Dir["*-en.md"].sort!.each { |filename|
   TOP_LEVEL_PAGES[key_from_top_level_file(filename)] = filename
 }
+
+STRINGS = YAML.load(File.open("_data/#{SOURCE_LANG}/strings.yml", 'r:UTF-8') { |f| f.read })
 
 def generate_content(translations_lang, translations_file)
   translations = JSON.parse(File.open(translations_file, 'r:UTF-8') { |f| f.read })
@@ -51,6 +54,11 @@ def generate_content(translations_lang, translations_file)
       file.puts metadata["translate_content"] == false ? content_without_frontmatter(source_content) : translations[page]
     }
   end
+
+  translated_strings_dir = "_data/#{translations_lang}"
+  translated_strings = Hash[STRINGS.map { |key, value| [key, translations[key]] }]
+  FileUtils.mkdir_p(translated_strings_dir)
+  File.open("#{translated_strings_dir}/strings.yml", 'w:UTF-8') { |f| f.puts translated_strings.to_yaml }
 end
 
 LOKALISE_TOKEN = ARGV[0]
