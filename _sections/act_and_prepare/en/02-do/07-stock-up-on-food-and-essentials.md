@@ -27,7 +27,7 @@ Buy food and other supplies responsibly. Some tips:
 Wherever possible, make delivery a top priority, especially for those at highest risk, and especially in regions at the beginning of the exponential curve.
  - Go to the store at off-peak hours. 
  - Make a list so you can be efficient.
- - Retain a 6ft distance between yourself and others at all times. 
+ - Retain a 6 feet (2 meters) distance between yourself and others at all times. More distance is better.
  - Put your phone in a baggie, it is much easier to disinfect.
  - Bring disinfectant wipes and/or wear washable cloth gardening gloves for handling doors, elevators, and other frequently touched [hard surfaces that may retain the virus](https://www.nytimes.com/2020/03/17/health/coronavirus-surfaces-aerosols.html). Remember you are protecting yourself as well as others. 
  - Use non-physical means to pay, such as PayPal or Apple Pay where possible. If not, use disinfecting wipes to disinfect your credit card. Don't use cash. 
