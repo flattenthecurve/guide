@@ -26,7 +26,7 @@ because a [few days of panic buying & high demands cause more panic & stress sys
 Buy food and other supplies responsibly. Some tips:
 Wherever possible, make delivery a top priority, especially for those at highest risk, and especially in regions at the beginning of the exponential curve.
  - Go to the store at off-peak hours. 
- - Make a list so you can be efficient.
+ - Make a written list, organized by location in store, so you can be efficient.
  - Retain a 6 feet (2 meters) distance between yourself and others at all times. More distance is better.
  - Phones are hard to disinfect completely; instead, while out, put your phone in a baggie (it still works this way)
  - Bring disinfectant wipes and/or wear washable cloth gardening gloves for handling doors, elevators, and other frequently touched [hard surfaces that may retain the virus](https://www.nytimes.com/2020/03/17/health/coronavirus-surfaces-aerosols.html). Remember you are protecting yourself as well as others. 
