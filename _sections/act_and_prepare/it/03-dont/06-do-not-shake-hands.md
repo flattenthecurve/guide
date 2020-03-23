@@ -1,7 +1,7 @@
-{::.only_toc}
+{:.only_toc}
 ### Non stringere la mano.
 
-{::.dont.no_toc}
+{:.dont.no_toc}
 ### Non stringere la mano; cerca di essere creativo con saluti senza contatto
 
 [Alcune alternative divertenti

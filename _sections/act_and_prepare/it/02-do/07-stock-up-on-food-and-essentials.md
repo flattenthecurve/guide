@@ -17,7 +17,7 @@ Thread:
 > :\
 > (1/n)
 >
-> --- Dr Emma Hodcroft (\@firefoxx66) [29 febbraio
+> --- Dr Emma Hodcroft (@firefoxx66) [29 febbraio
 > 2020](https://twitter.com/firefoxx66/status/1233666678841597952?ref_src=twsrc%5Etfw)
 
 "Gli esperti non ti dicono di fare scorte di beni di prima necessità perché credono che finirai il cibo & la società collasserà. Lo fanno perché [pochi giorni di acquisti dettati dal panico & una domanda elevata causano ancora più panico & mettono inutilmente i sistemi sotto pressione](https://twitter.com/firefoxx66/status/1233666678841597952). Inoltre, rimanere in coda con centinaia di persone non è prudente. Non andare al supermercato nelle ore di punta. Acquista un po' più di quello che ti serve. Essere preparati non significa non fare nulla, ma nemmeno reagire in modo esagerato. Significa fare la propria parte per [\*allentare la tensione nei nostri sistemi\*](https://twitter.com/firefoxx66/status/1233666678841597952) in modo che brevi interruzioni siano il più possibile indolori, l'assorbimento di carichi extra sia favorito, e rimangano risorse a disposizione dei più bisognosi.

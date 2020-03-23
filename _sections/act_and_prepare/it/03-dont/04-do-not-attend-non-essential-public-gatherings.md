@@ -1,7 +1,7 @@
-{::.only_toc}
+{:.only_toc}
 ### Incontri pubblici
 
-{::.dont.no_toc}
+{:.dont.no_toc}
 ### Non partecipare a riunioni pubbliche non essenziali
 
 Ci sono precedenti storici molto forti che dimostrano come la cancellazione di eventi pubblici sia una misura efficace per la salute pubblica. Ho ritwittato alcune ottime risorse

@@ -1,7 +1,7 @@
-{::.only_toc}
+{:.only_toc}
 ### Stai in guardia
 
-{::.dont.no_toc}
+{:.dont.no_toc}
 ### Stai in guardia contro le false speranze di "rimedi".
 
 Tratta bene il tuo corpo. Aspettati che le aziende approfittino della tua paura. Non comprare prodotti che promettono di proteggervi o guarirvi. Ad oggi, 
