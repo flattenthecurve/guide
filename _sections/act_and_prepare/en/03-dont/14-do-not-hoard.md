@@ -2,8 +2,6 @@
 
 ### Do not hoard supplies 
 
-Items often becoming in short supply due to hoarding include toilet paper and bottled water.
+Items can easily become in short supply due to hoarding.  Common products experiencing shortages include toilet paper, bottled water, and medical supplies.
 
-Don't buy extra bottled water; tap water is very unlikely to be impacted and boiling would be adequate if it turned out it were needed for unforeseen reasons. 
-
-Get what you need. Leave the rest for others.
+Avoid purchasing large quantities of products, particularly those in short supply.  Get what you need. Leave the rest for others who need it.  If you have a large quantifiy of masks or other supplies consider donating it to groups in need such as healthcare providers or a local food pantry.
