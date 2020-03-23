@@ -1,12 +1,12 @@
 {:.only_toc} 
- ## Chiama in anticipo 
+### Chiama in anticipo 
 
- {:.dont.no_toc} 
- ## Non andare dal medico senza chiamare in anticipo 
- 
- NON andare direttamente in ospedale. Ulteriori indicazioni dal CDC [qui] (https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html). 
+{:.dont.no_toc}
+### Non andare dal medico senza chiamare in anticipo 
 
- I call center sono sopraffatti in questo momento da chi è semplicemente preoccupato, quindi prova a lasciare quelle linee aperte per le persone che davvero hanno bisogno di aiuto. 
+NON andare direttamente in ospedale. Ulteriori indicazioni dal CDC[qui](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html). 
+
+I call center sono sopraffatti in questo momento da chi è semplicemente preoccupato, quindi prova a lasciare quelle linee aperte per le persone che davvero hanno bisogno di aiuto. 
 
  <div class="table-wrap" markdown="1"> 
  

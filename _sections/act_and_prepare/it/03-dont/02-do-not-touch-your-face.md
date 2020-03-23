@@ -1,4 +1,4 @@
-{::.dont}
+{:.dont}
 ### Non toccarti il viso
 
 [Questo è il modo più comune in cui il virus entra nel corpo.](https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html)

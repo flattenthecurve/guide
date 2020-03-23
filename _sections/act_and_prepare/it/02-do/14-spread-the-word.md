@@ -1,7 +1,7 @@
-{::.only_toc}
+{:.only_toc}
 ### Spargi la voce
 
-{::.do.no_toc}
+{:.do.no_toc}
 ### Spargi la voce e fai pressione sui tuoi politici per una ricerca scientifica importantissima
 
 Il link tracking per questo documento di orientamento (le statistiche possono essere visualizzate su [bit.ly/corona-guidance+](https://bit.ly/corona-guidance+)) mostra come l'informazione si stia diffondendo su twitter, dove gli scienziati hanno un'utenza più ampia; tuttavia è in ritardo su Facebook e nei luoghi dove il grande pubblico ne ha più bisogno. Chiama un amico. Chiama la tua famiglia. Avrai maggior effetto sulle persone che conosci personalmente. Anche se ci sono certamente motivi per non farsi prendere dal panico, la maggior parte delle persone dovrebbe essere più preoccupata di quanto non lo sia. Alza il livello della consapevolezza: sarà molto più efficace a lungo termine.

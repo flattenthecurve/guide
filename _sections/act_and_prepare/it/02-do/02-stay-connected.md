@@ -1,8 +1,8 @@
 {:.only_toc} 
- ### Fai vita sociale
+### Fai vita sociale
 
- {:.do.no_toc} 
- ### Fai vita sociale, ma evita le folle 
+{:.do.no_toc} 
+### Fai vita sociale, ma evita le folle 
 
 È meglio mantenere la distanza dalle altre persone: quella più sicura per evitare goccioline di saliva e secrezioni respiratorie potenzialmente infettive è di almeno 1,8 metri. Ma più fattori di rischio sottostanti presenti 
  (età avanzata, recenti interventi chirurgici importanti, cancro, immunocompromissione, asma, diabete ecc.), più dovresti evitare le folle. 
