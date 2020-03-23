@@ -24,6 +24,7 @@ Thread:
 because a [few days of panic buying & high demands cause more panic & stress systems unnecessarily](https://twitter.com/firefoxx66/status/1233666678841597952). Also, being in line with hundreds of people isn't wise. Go off peak. Buy a little more than what you need. Preparedness isn't about doing nothing, but also about not overreacting. It's about doing your part to put the [\*slack in our systems\*](https://twitter.com/firefoxx66/status/1233666678841597952) so that short disruptions are smooth as possible, can absorb extra load, & resources remain available for those most in need.
 
 Buy food and other supplies responsibly. Some tips:
+Wherever possible, make delivery a top priority, especially for those at highest risk, and especially in regions at the beginning of the exponential curve.
  - Go to the store at off-peak hours. 
  - Make a list so you can be efficient.
  - Retain a 6ft distance between yourself and others at all times. 
@@ -32,4 +33,3 @@ Buy food and other supplies responsibly. Some tips:
  - Use non-physical means to pay, such as PayPal or Apple Pay where possible. If not, use disinfecting wipes to disinfect your credit card. Don't use cash. 
  - Create a decontamination protocol and location for your home, where you can either quarantine for >72 hrs at room temperature (easiest) or disinfect all items (with wipes, bleach, hydrogen peroxide, or alcohol; or washed with soap and water in the case of vegetables) that may have come in contact with other people. Inner items can be carefully removed and placed in a clean bag or box, and brought inside by having one hand be considered contaminated while the other is clean; alternatively, two people in the same home can serve the same functions. 
  - Leave your shoes outside when you return
-
