@@ -14,4 +14,4 @@ Taken together, making safer every-day choices on average --- not just this week
 -   Remote observance \> religious service attendance
 -   Birthday cupcakes \> birthday cake (if candle blowing is involved)
 -   Take your coffee/beer/cocktail to go \> drink your coffee/beer/cocktail at the bar
--   Live performers are going to be hard hit economically. Consider supporting their work on Patreon, directly via PayPal, or attend only the smaller shows. Promote them on social media. Buy their work directly.
+-   Live performers are going to be hard hit economically. Consider supporting their work on Patreon, directly via PayPal. Promote them on social media. Buy their work directly.
