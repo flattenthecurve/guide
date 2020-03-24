@@ -1,5 +1,8 @@
-{:.do}
-## Einen “Plan B” für die Betreuung von Kindern, Menschen mit besonderen Bedürfnissen und Haustieren erarbeiten – am besten mit einer Krisen-Freundschaft (“pandemic pal”) Krisen-Kumple? :D Das gilt besonders für Menschen die allein leben. 
+{:.only_toc}
+## Einen “Plan B” entwickeln
+
+{:.do.no_toc}
+## Einen “Plan B” für die Betreuung von Kindern, Menschen mit besonderen Bedürfnissen und Haustieren erarbeiten. Das gilt besonders für Menschen die allein leben. 
 
 Telefoniert einmal am Tag miteinander um sicher zu gehen, dass alles in Ordnung ist. Vielleicht auch nur, um euch auszutauschen und euch die Angst zu nehmen: Da ist jemand, der sich um mich kümmert! Falls einer* krank wird, telefoniert öfters. 
 

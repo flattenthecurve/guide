@@ -8,4 +8,4 @@
 
 Un amigo muy querido en Beijing me dijo: _“Mantente tan alejada como puedas del miedo y la histeria que puede estar llegando a tu ciudad. Se razonable, pero no permitas que eso te impida amar a los demás seres humanos. Se generosa en vez de acumular todo lo que puedas. Y en los días más difíciles (o después de ver demasiados noticieros) ¡súbele a la música y baila! ¡Celebra las cosas buenas! Esas cosas están aquí, y van a permanecer aquí, ¡y tú puedes ser un catalizador de cosas buenas!”_
 
-Aquí están las instrucciones para ser ese catalizador.
+Aquí están las instrucciones para ser ese catalizador: [Actuar & Prepararse](/act-and-prepare/).

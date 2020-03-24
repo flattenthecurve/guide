@@ -1,8 +1,8 @@
 {:.only_toc}
-## Do not shake hands.
+### Do not shake hands
 
 {:.dont.no_toc}
-## Do not shake hands; get creative with zero-contact greetings
+### Do not shake hands; get creative with zero-contact greetings
 
 [Some fun alternatives
 are:](https://twitter.com/figgyjam/status/1234659499169857536)

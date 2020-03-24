@@ -58,6 +58,11 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
+  margin: 2em;
+
+  @include media-query($on-palm) {
+    margin: 0;
+  }
 }
 
 
@@ -96,13 +101,19 @@ li {
  */
 h1,
 .title {
-  font-weight: normal;
-  font-size: 2.5em;
+  font-weight: $base-font-weight;
+  font-size: 30px;
+  margin-top: 3em;
+  @include media-query($on-palm) {
+    margin-top: 2em;
+  }
 }
 h2,
 .subtitle {
-  font-weight: normal;
+  font-weight: $base-font-weight;
   font-size: 1.666666em;
+  line-height: 1.25;
+  margin-top: 2em;
 }
 
 h3, h4, h5, h6 {
@@ -190,11 +201,11 @@ pre {
   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
   margin-right: auto;
   margin-left: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
+  padding-right: $side-spacing-unit;
+  padding-left: $side-spacing-unit;
   @extend %clearfix;
 
-  @include media-query($on-laptop) {
+  @include media-query($on-palm) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
     padding-right: $spacing-unit / 2;
