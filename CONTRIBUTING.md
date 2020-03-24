@@ -65,6 +65,8 @@ We need to translate and adapt this content to as many languages as possible as 
 
 ## Tech contributors
 
+We're trying to grow this documentation as fast as we can. This website is based on Jekyll, so if you don't find what you need here, try taking a look at this tutorial: https://jekyllrb.com/docs/step-by-step/02-liquid/.
+
 ### Running the project locally
 
 1. Clone the project.
