@@ -13,7 +13,8 @@ If you want to contribute to this list, you can do it [here](https://forms.gle/2
 <hr/>
 
 {% assign current_country = "" %} 
-{% for resource in site.resources %}
+{% assign resources = site.resources | sort: 'country' %}
+{% for resource in resources %}
   {% if current_country != resource.country %}
     {% assign current_country = resource.country %}
    
