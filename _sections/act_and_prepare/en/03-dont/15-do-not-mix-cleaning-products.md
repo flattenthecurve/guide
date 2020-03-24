@@ -1,5 +1,8 @@
-{:.do}
-# Do not mix the following cleaning products
+{:.only_toc}
+### Do not mix cleaning products
+
+{:.dont.no_toc}
+### Do not mix the following cleaning products
 
 These cleaning products become dangerous when mixed:
 
