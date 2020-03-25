@@ -33,6 +33,7 @@ Other contributors, curators, reviewers and translators include:
 - **Dr. Melissa Haendel, Director of the Center for Data to Health, Oregon Health & Science University**, ([Director of Translational Data Science, Oregon State University](https://tislab.org/))
 - **Benjamin F. E. Lange, PhD**, [LinkedIn](https://www.linkedin.com/in/dr-benjamin-f-e-lange-a609b838)
 - **Nicole Vasilevsky, PhD** ([ORCID](https://orcid.org/0000-0001-5208-3432))
+- **Sean Markey, Publisher**, ([www.seanmarkey.com]https://www.seanmarkey.com)
 
 
 ## Supported by
