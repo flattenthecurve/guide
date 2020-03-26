@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
+import datetime
 import os
 import pickle
-import datetime
+import re
 
 from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
@@ -24,7 +25,8 @@ COL_STATE = 8
 COL_VERIFIED_BY = 9
 # TODO: we could write integrated_timestamp into the spreadsheet if
 # we want to have a record of this action.
-ENABLE_VERIFICATION = False
+ENABLE_VERIFICATION = True
+"""If enabled, only import resources if they have ApprovedBy column set."""
 
 
 def is_approved(row):
@@ -39,9 +41,10 @@ def make_row_filename(row):
     """Constructs standardized base filename for this resource.
     
     We will use YYYY-MM-DD of the submission timestamp followed by first 25
-    characters of the resource title with spaces replaced with underscores.
+    characters of the resource title with spaces replaced with dashes.
     """
-   sanitized_name = row[COL_NAME].lower().replace(" ", "_")[:25]
+    sanitized_name = row[COL_NAME].lower().replace(" ", "-")[:35].strip("-")
+    sanitized_name = re.sub(r'--*', '-', sanitized_name)
     dt = datetime.datetime.strptime(
         row[COL_TIMESTAMP].split()[0],
         '%m/%d/%Y').date()
