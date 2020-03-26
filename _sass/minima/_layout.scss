@@ -90,3 +90,24 @@
 .section-nav {
   margin-left: 0;
 }
+
+.row {
+  display: flex;
+  justify-content: space-between;
+
+  &.col-2 > *{
+    flex-basis: 50%;
+  }
+
+  &.col-3 > *{
+    flex-basis: 33%;
+  }
+
+  &.col-4 > *{
+    flex-basis: 25%;
+  }
+
+  @include media-query($on-palm) {
+    display: block;
+  }
+}
