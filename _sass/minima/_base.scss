@@ -101,9 +101,10 @@ li {
  */
 h1,
 .title {
-  font-weight: $base-font-weight;
+  font-weight: 'Helvetica Neue Bold Condensed';
   font-size: 30px;
   margin-top: 3em;
+  text-transform: uppercase;
   @include media-query($on-palm) {
     margin-top: 2em;
   }
@@ -116,10 +117,12 @@ h2,
   margin-top: 2em;
 }
 
-h3, h4, h5, h6 {
-  font-weight: $bold-font-weight;
+h3,
+.subsubtitle {
+  font-weight: normal;
+  font-size: 1.333333em;
+  font-style: italic;
 }
-
 
 /**
  * Links
