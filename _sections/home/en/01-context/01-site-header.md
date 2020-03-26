@@ -33,7 +33,7 @@ Updated with emerging information, and open sourced in as many languages as poss
 Individually, it's hard to keep up with the news, and it's hard to know what's true. Read, contribute and share factual collected infomration here to help all of us.
 
 {:.text-center}
-[**\>\> Sign up to receive updates from FlattenTheCurve.com’s team of scientists \<\<**](https://flattenthecurve.substack.com/)
+[**\>\> Sign up to receive updates from FlattenTheCurve.com’s team of scientists \<\<**](http://eepurl.com/gXKkvn)
 
 {:.text-center.narrow}
 _Free to sign up, no SPAM or marketing_
