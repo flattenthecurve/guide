@@ -1,8 +1,8 @@
 {:.only_toc}
-## Visitas médicas 
+### Visitas médicas 
 
 {:.do.no_toc}
-## Cancela todas las visitas médicas en persona, mientras nos sean esenciales.
+### Cancela todas las visitas médicas en persona, mientras no sean esenciales.
 
 Los hospitales son focos de transmisión. Así que háganse vacunar en la farmacia en lugar de ir al doctor. Busquen la forma de hacer terapia física en casa, si es posible.
 

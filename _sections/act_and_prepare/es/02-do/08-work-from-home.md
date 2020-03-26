@@ -1,8 +1,8 @@
 {:.only_toc}
-## Trabaja desde casa
+### Trabaja desde casa
 
 {:.do.no_toc}
-## Si puedes trabajar desde casa, hazlo tanto como sea posible
+### Si puedes trabajar desde casa, hazlo tanto como sea posible
 
 No todo el mundo puede trabajar desde su casa todo el tiempo. Está bien si ese es el caso. Trabajar desde casa, aunque sea por solo una parte del tiempo, es mejor que nada. No esperen a que su lugar de trabajo ordene que todo el mundo trabaje desde casa. Pregúntenle a su supervisor si esa es una posibilidad para ustedes, personalmente. Animen a sus colegas.
  

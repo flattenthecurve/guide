@@ -1,5 +1,5 @@
 {:.dont}
-## No seas negligente. 
+### No seas negligente. 
 
 No seas *esa* persona. Este es un problema de todos. No seas negligente pensando que si te enfermas ahora vas a ‘evitar la congestión.’ Enfermarse al comienzo de una pandemia no beneficia a ningún individuo ni a la población. Estarías poniendo en riesgo las vidas de los demás. Ésto no se trata solamente de la gente que está muriendo, sino de cómo están muriendo. Y luego hay que considerar también el trauma físico - hablando del estado emocional, ésto es lo opuesto de un "buen morir." La gente está muriendo sola, alejados de quienes aman por una cuarentena.
 
