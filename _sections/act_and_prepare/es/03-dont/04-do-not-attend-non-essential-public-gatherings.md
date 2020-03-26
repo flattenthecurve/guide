@@ -1,8 +1,8 @@
 {:.only_toc}
-## Reuniones públicas
+### Reuniones públicas
 
 {:.dont.no_toc}
-## No vayas a reuniones que no sean esenciales.
+### No vayas a reuniones que no sean esenciales.
 
 Hay evidencia histórica contundente demostrando que cancelar eventos es una medida de salud pública muy efectiva. Hay un [hilo en Twitter](https://twitter.com/joshmich/status/1235906489921007616) con una lista muy buena de recursos que te puede ayudar a convencer a los que toman las decisiones para que se cancelen eventos. Y aquí viene una imagen impresionante:
 
