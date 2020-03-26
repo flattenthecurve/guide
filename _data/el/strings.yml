@@ -10,8 +10,8 @@ without-prot: Χωρίς προστατευτικά μέτρα
 with-prot: Με προστατευτικά μέτρα
 mort-rate-age: Ποσοστό θνησιμότητας COVID-19 ανά ηλικία
 age: Ηλικία
-top-range: Covid-19 (ανώτατο όριο εκτιμώμενου εύρους)
+top-range: Covid-19 (ανώτατη εκτίμηση)
 so-far: Covid-19 (μέχρι στιγμής)
 estimate: Covid-19 (εκτίμηση)
-bottom-estimate: Covid-19 (κατώτατο όριο εκτιμώμενου εύρους)
+bottom-estimate: Covid-19 (κατώτατη εκτίμηση)
 seasonal-flu: Εποχική γρίπη
