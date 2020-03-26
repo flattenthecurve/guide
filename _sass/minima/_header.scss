@@ -24,11 +24,13 @@
   @include relative-font-size(1.625);
   position: absolute;
   z-index: 10;
-  font-weight: $base-font-weight;
-  line-height: $base-line-height * $base-font-size * 2;
+  // font-weight: $base-font-weight;
+  line-height: 1.8;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  font-family: 'Helvetica Neue Bold Condensed';
+  text-transform: uppercase;
 
   &,
   &:visited {
@@ -38,6 +40,7 @@
 
   @include media-query($on-palm) {
     @include relative-font-size(1.1);
+    line-height: 2.5;
   }
 }
 
