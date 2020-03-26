@@ -25,12 +25,3 @@ US: covidaware.me\
 UK: https://covid.joinzoe.com. \
 CA: flatten.ca \
 Japan: www.coronatracker.com   
-
-
-
-
-
-
-
-
-
