@@ -12,7 +12,7 @@
 
 The fact that these safety nets have not previously existed in the US complicates the behaviors required to #flattenthecurve compared to most other countries affected so far. However, legislation passed Friday by the US House of Representatives aims to address some of these critical issues. Namely, the bill will provide enhanced unemployment benefits, free virus testing, and additional funds for food assistance and Medicaid. The bill is reported in the [New York Times](https://www.nytimes.com/2020/03/13/us/politics/trump-coronavirus-relief-congress.html), [CNN](https://www.cnn.com/2020/03/13/politics/coronavirus-relief-congress/index.html) and by other news organizations. Read the text of the bill [here](https://www.cnn.com/2020/03/13/politics/read-bill-text-families-first-coronavirus-response-act/index.html).
 
-# Global tracking and communication
+## Global tracking and communication
 
 Doctors worldwide are getting pummeled on the frontlines of this crisis,
 the lack of protective equipment is causing them to get infected, and themselves unable to get the care they need. For a personal lens on
