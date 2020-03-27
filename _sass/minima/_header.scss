@@ -2,18 +2,17 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
   position: relative;
   z-index: 10;
+}
 
-  .wrapper {
+.site-header .wrapper,
+#lang-bar.wrapper {
     padding-left: $spacing-unit;
     padding-right: $spacing-unit;
-  }
 }
 
 .site-header {
@@ -24,7 +23,6 @@
   @include relative-font-size(1.625);
   position: absolute;
   z-index: 10;
-  // font-weight: $base-font-weight;
   line-height: 1.8;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -46,8 +44,8 @@
 
 #lang-bar {
   list-style-type: none;
-  margin: 0 auto;
-  padding: 15px 0;
+  padding-top: .75em;
+  padding-bottom: .75em; 
   text-align: right;
 
   li::before { content: ' | '; }
@@ -55,6 +53,9 @@
   li {
     display: inline;
     a { margin: 0.3em }
+  }
+  li:last-child {
+    a { margin-right: 0; }
   }
 }
 
@@ -75,8 +76,8 @@
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 20px;
+    & + .page-link {
+      margin-left: 1em;
     }
   }
 
