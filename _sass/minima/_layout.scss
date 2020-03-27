@@ -89,20 +89,24 @@
   margin-left: 0;
 }
 
+
+/**
+ * Rows
+ */
 .row {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-column-gap: $spacing-unit/2;
 
-  &.col-2 > *{
-    flex-basis: 50%;
+  &.col-2 {
+    grid-template-columns: 1fr 1fr
   }
 
-  &.col-3 > *{
-    flex-basis: 33%;
+  &.col-3 {
+    grid-template-columns: 1fr 1fr 1fr
   }
 
-  &.col-4 > *{
-    flex-basis: 25%;
+  &.col-4 {
+    grid-template-columns: 1fr 1fr 1fr 1fr
   }
 
   @include media-query($on-palm) {
