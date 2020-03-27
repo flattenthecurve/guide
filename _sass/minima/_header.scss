@@ -1,0 +1,126 @@
+/**
+ * Site header
+ */
+.site-header {
+  border-top: 5px solid $grey-color-dark;
+  border-bottom: 1px solid $grey-color-light;
+  min-height: $spacing-unit * 1.865;
+
+  // Positioning context for the mobile navigation icon
+  position: relative;
+  z-index: 10;
+
+  .wrapper {
+    padding-left: $spacing-unit;
+    padding-right: $spacing-unit;
+  }
+}
+
+.site-header {
+  background-color: $text-color;
+}
+
+.site-title {
+  @include relative-font-size(1.625);
+  position: absolute;
+  z-index: 10;
+  font-weight: $base-font-weight;
+  line-height: $base-line-height * $base-font-size * 2;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+
+  &,
+  &:visited {
+    color: $light-text-color;
+    text-decoration: none;
+  }
+
+  @include media-query($on-palm) {
+    @include relative-font-size(1.1);
+  }
+}
+
+#lang-bar {
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 15px 0;
+  text-align: right;
+
+  li::before { content: ' | '; }
+  li:first-of-type::before { content: none; }
+  li {
+    display: inline;
+    a { margin: 0.3em }
+  }
+}
+
+.site-nav {
+  float: right;
+  line-height: $base-line-height * $base-font-size * 2.25;
+
+  .nav-trigger {
+      display: none;
+  }
+
+  .menu-icon {
+    display: none;
+  }
+
+  .page-link {
+    color: $light-text-color;
+    line-height: $base-line-height;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+  }
+
+  @include media-query($on-tablet) {
+    width: calc(100% - #{$spacing-unit});
+    position: absolute;
+    top: 9px;
+    right: $spacing-unit / 2;
+    background-color: $text-color;
+
+    label[for="nav-trigger"] {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 36px;
+      z-index: 2;
+      cursor: pointer;
+    }
+
+    .menu-icon {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 26px;
+      line-height: 0;
+      padding-top: 10px;
+      text-align: center;
+
+      > svg {
+        fill: $light-text-color;
+      }
+    }
+
+    input ~ .trigger {
+      clear: both;
+      display: none;
+    }
+
+    input:checked ~ .trigger {
+      display: block;
+      padding-bottom: 5px;
+    }
+
+    .page-link {
+      display: block;
+      padding: 5px 10px;
+      margin-left: 20px;
+    }
+  }
+}

@@ -3,6 +3,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
+  <link rel="icon" type="image/png" href="{{ "/assets/images/favicon-32x32.png" | relative_url }}" sizes="32x32" />
+  <link rel="icon" type="image/png" href="{{ "/assets/images/favicon-16x16.png" | relative_url }}" sizes="16x16" />
   {%- I18n_Headers -%}
   <link rel="alternate" hreflang="x-default" href="{{ site.url | absolute_url }}" />
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
@@ -11,4 +13,5 @@
   {%- include google-analytics.html -%}
   {%- endif -%}
   <meta property="og:image" content="{{ "images/en/flatten-the-curve.jpg" | absolute_url }}" />
+  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
 </head>

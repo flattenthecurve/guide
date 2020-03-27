@@ -1,0 +1,104 @@
+#myths,
+#do,
+#do-not {
+  font-weight: bold;
+}
+
+#do { color: $brightblue-color; }
+.do {
+  background-color: $brightblue-color;
+  color: white;
+  padding: 0.3em;
+}
+
+#do-not { color: $red-color; }
+.dont {
+  background-color: $red-color;
+  color: white;
+  padding: 0.3em;
+}
+
+.do,
+.dont,
+.myth {
+  font-style: italic;
+  margin-top: 1em;
+}
+
+#do + .do, // first h2 of the page section
+#do + .only_toc + .do,
+#do-not + .dont,
+#do-not + .only_toc + .dont, // first h2 of the section (after invisible anchor link)
+#myths + .myth,
+#myths + .only_toc + .myth
+{
+  margin-top: 0;
+}
+
+.myth {
+  &::before {
+    content: open-quote;
+  }
+  &::after {
+    content: close-quote;
+  }
+}
+
+/**
+ *  ToC
+ */
+.toc-desktop {
+  flex-basis: 250px;
+  flex-shrink: 0;
+  .section-nav {
+    padding-right: 20px;
+  }
+}
+
+.toc-mobile {
+  display: none;
+}
+
+.toc-h2 {
+  list-style: none;
+}
+
+.toc-h2 > a {
+  font-weight: bold;
+}
+
+.toc-h2 + .toc-h2 {
+  margin-top: 1em;
+}
+
+.toc-3 {
+  line-height: 1.2em;
+  & + .toc-3 { margin-top: .5em; }
+}
+
+.toc-desktop, .toc-mobile {
+  padding-right: 1.2em;
+  color: $grey-color;
+}
+
+.main .only_toc {
+  height: 0px;
+  margin: 0;
+  padding: 0;
+  visibility: hidden;
+}
+
+@include media-query($on-palm) {
+  .home {
+    display: block;
+  }
+  .toc-desktop {
+    display: none;
+  }
+  .toc-mobile {
+    text-align: left;
+    .toc-entry a{
+      color: $light-text-color;
+    }
+  }
+}

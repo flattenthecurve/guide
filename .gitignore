@@ -4,3 +4,8 @@ build
 
 .tweet-cache/
 .bundle/
+.Rproj.user/
+guide.Rproj
+
+.DS_Store
+.DS_Store

@@ -1,4 +1,19 @@
-title: Flatten the curve - COVID-19
+title: Flatten the curve
 description: >-
   These guidelines are intended to help Flatten the Curve with the COVID19 outbreak,
   to help limit spread and reduce the load on hospitals and other healthcare.
+
+health-care: Health care system capacity
+time-since: Time since first case
+quantity-of: Quantity of cases
+without-prot: Without protective measures
+with-prot: With protective measures
+
+mort-rate-age: COVID-19 mortality rate by age
+age: Age
+
+top-range: Covid-19 (top of estimate range)
+so-far: Covid-19 (so far)
+estimate: Covid-19 (estimate)
+bottom-estimate: Covid-19 (bottom of estimate range)
+seasonal-flu: Seasonal flu

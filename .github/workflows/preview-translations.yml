@@ -1,0 +1,43 @@
+name: Preview translations
+
+on:
+  repository_dispatch:
+
+jobs:
+  pull_push_preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/cache@v1
+        with:
+          path: ~/cache/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - name: Pull Lokalize translations
+        env:
+          LOCALIZE_TOKEN: ${{ secrets.LOCALIZE_TOKEN }}
+          IMPORT_LANG: ${{ github.event.client_payload.lang }}
+        run: |
+          mv docker-compose.ci.yml docker-compose.override.yml
+          ./import-translations.sh $LOCALIZE_TOKEN $IMPORT_LANG
+          mv docker-compose.override.yml docker-compose.ci.yml
+      - name: Commit changes to Branch
+        env:
+          IMPORT_LANG: ${{ github.event.client_payload.lang }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+          GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
+        run: ./_scripts/push-translations.sh
+      - name: Build Jekyll site
+        run: |
+          mv docker-compose.ci.yml docker-compose.override.yml
+          docker-compose run --rm web /bin/bash -c "(bundle check || bundle install --jobs=3) && bundle exec jekyll build"
+      - uses: amondnet/now-deployment@v2
+        with:
+          zeit-token: ${{ secrets.ZEIT_TOKEN }}
+          zeit-team-id: ${{ secrets.ZEIT_TEAM_ID }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          now-org-id: ${{ secrets.NOW_ORG_ID }}
+          now-project-id: ${{ secrets.NOW_PROJECT_ID }}
+          working-directory: ./build

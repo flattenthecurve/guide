@@ -1,0 +1,1 @@
+![Diese Grafik zeigt wie wir zusammen die Kurve der Krankheitsfälle flach halten. Nur wenn jeder* mithilft, verhindern wir dass das Gesundheitssystem überlastet wird.](images/health-system-capacity.svg)
