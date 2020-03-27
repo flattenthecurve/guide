@@ -1,8 +1,4 @@
-{:.only_toc}
-# Policies
-
-{:.no_toc}
-# Relative to other countries, US labor and healthcare policies are a perfect storm for pandemics
+## Relative to other countries, US labor and healthcare policies are a perfect storm for pandemics
 
 -   Zero universal guaranteed [paid sick leave](https://www.worldpolicycenter.org/policies/for-how-long-are-workers-guaranteed-paid-sick-leave)
 -   Even among those \*with\* paid sick leave, the covered time frame is often on the order of days, not the weeks adequate to account for

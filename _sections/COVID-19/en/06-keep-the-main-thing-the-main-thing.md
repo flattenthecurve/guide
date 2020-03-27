@@ -1,4 +1,4 @@
-# Keep the main thing the main thing
+## Keep the main thing the main thing
 [**\#FlattenTheCurve**](https://twitter.com/hashtag/FlattenTheCurve?src=hashtag_click)
 
 A lot of ink has been spilled on speculation about the "true" rate; however we are still in the early phase of the pandemic and it could

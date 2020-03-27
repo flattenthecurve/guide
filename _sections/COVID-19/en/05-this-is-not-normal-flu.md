@@ -1,4 +1,4 @@
-# This is not a normal flu
+## This is not a normal flu
 **Not even in the best case**
 
 The World Health Organization estimate of 3.5% mortality rate is an average across age groups, and they have provided large surveillance data as evidence against high numbers of asymptomatic cases. There is very strong consensus that those aged 60+ and those with underlying conditions are the most impacted.
