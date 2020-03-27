@@ -10,7 +10,7 @@ Common symtoms
 
 | symptom   | percentage | symptom         | percentage | symptom               | percentage |
 | ----------| ---------- | ----------------| ---------- | --------------------  | ---------- |
-| Fever     | 88%        |Fatigue          |38%         |**Shortness of breath**|18%         |
+| Fever     | 88%        |Fatigue          |38%         |Shortness of breath    |18%         |
 | Dry cough |68%         |Phlegm production|33.4%       |Sore throat            |14%         |
 |Headaches  |14%         |Muscle aches     |14%         |Chills                 |11%         |
 
