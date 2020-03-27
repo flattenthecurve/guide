@@ -3,6 +3,7 @@
  */
 .site-header {
   min-height: $spacing-unit * 1.865;
+  background-color: $text-color;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -13,10 +14,6 @@
 #lang-bar.wrapper {
     padding-left: $spacing-unit;
     padding-right: $spacing-unit;
-}
-
-.site-header {
-  background-color: $text-color;
 }
 
 .site-title {
@@ -40,6 +37,10 @@
     @include relative-font-size(1.1);
     line-height: 2.5;
   }
+}
+
+.site-header a {
+  color: #FFF;
 }
 
 #lang-bar {
