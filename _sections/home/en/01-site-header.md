@@ -15,10 +15,10 @@ Avoid panic and lend a helping hand when it's safe.
 
 
 {:.no_toc.text-center}
-# Flattening the Curve
+# Flatten the Curve. Save Lives.
 
 {:.no_toc.text-center.get-informed.narrow}
-## COVID-19 is officially a global pandemic, let’s get informed and act together.
+## Up to date information about COVID-19 for everyone, verified by medical experts.
 
 
 <div class="row col-3">
