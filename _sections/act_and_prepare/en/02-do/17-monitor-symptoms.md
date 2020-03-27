@@ -15,7 +15,7 @@ Common symtoms
 |Headaches  |14%         |Muscle aches     |14%         |Chills                 |11%         |
 
 
-**Only go to hospital when you have trouble breathing or you are short of breath (sitting, going to bathroom, walking, etc)**
+**Only go to hospital when you have trouble breathing or you are short of breath (sitting, going to bathroom, walking, etc).**
 
 Gastrointestinal Symptoms (rare): 
 Diarrhea, nausea, vomiting, or abdominal discomfort are all possible early symptoms. They may appear a couple of days BEFORE the respiratory symptoms. 
@@ -33,6 +33,6 @@ Recovery time: (for all patients that develop pneumonia)
 
 Using tracking symptom apps:  
 -  US: covidaware.me
--  UK: https://covid.joinzoe.com. 
+-  UK: https://covid.joinzoe.com
 -  CA: flatten.ca 
 -  Japan: www.coronatracker.com   
