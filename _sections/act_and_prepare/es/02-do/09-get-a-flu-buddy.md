@@ -1,8 +1,8 @@
 {:.only_toc}
-## Camarada en la influenza
+### Camarada en la influenza
 
 {:.do.no_toc}
-## Busca un ‘camarada en la influenza’ (o ‘amigo en la pandemia’) y prepara un plan de emergencia para que alguien se encargue de cuidar a los niños, las mascotas, y a los que necesitan atención especial.
+### Busca un ‘camarada en la influenza’ (o ‘amigo en la pandemia’) y prepara un plan de emergencia para que alguien se encargue de cuidar a los niños, las mascotas, y a los que necesitan atención especial.
 
 En especial si viven solos. En caso que haya transmisión local, llámense todos los días. Si alguno se enferma, llámense dos veces al día y pónganse de acuerdo con un plan que no requiera contacto para llevar comida, medicinas para el dolor, otras recetas médicas, y para que alguien ayude a cuidar de los dependientes de esa persona.
  

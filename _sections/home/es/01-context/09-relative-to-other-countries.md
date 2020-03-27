@@ -13,7 +13,7 @@
 
 El hecho que estos mecanismos de seguridad no han existido hasta ahora en EEUU, complica el comportamiento que se requiere para #AplanarLaCurva cuando comparamos la situación con la de la mayoría de los demás países afectados hasta ahora. Sin embargo, la Cámara de Representantes de EEUU pasó una legislación el viernes (13 de marzo, 2020), que aborda estos asuntos tan críticos. Específicamente, esta ley va a proveer mejores beneficios para desempleados, pruebas médicas gratuitas para detectar el virus, y fondos adicionales para asistir con insumos y con Medicaid. Esta ley fue reportada en el periódico [New York Times](https://www.nytimes.com/2020/03/13/us/politics/trump-coronavirus-relief-congress.html), en [CNN](https://www.cnn.com/2020/03/13/politics/coronavirus-relief-congress/index.html), y en otras organizaciones de noticias. Puedes leer el texto completo de la nueva ley [aquí, en Inglés](https://www.cnn.com/2020/03/13/politics/read-bill-text-families-first-coronavirus-response-act/index.html).
 
-#Seguimiento global y comunicación
+# Seguimiento global y comunicación
 
 Alrededor del mundo, los médicos están siendo apaleados en el frente de batalla de esta crisis; la falta de equipo de protección está causando que se infecten y que ellos mismos sean incapaces de conseguir el cuidado que necesitan. Pueden [leer esta historia](https://twitter.com/stuff_so/status/1236467114933813248) para ver ésto desde una perspectiva personal. Por supuesto que este no es el único caso; las historias continúan apareciendo.
  

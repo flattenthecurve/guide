@@ -1,8 +1,8 @@
 {:.only_toc}
-## Mantente conectado
+### Mantente conectado
 
 {:.do.no_toc}
-## Mantente conectado, pero evita las multitudes.
+### Mantente conectado, pero evita las multitudes.
 
 Lo mejor es mantenerse físicamente apartado de otra gente. Lo más seguro para mantenerse alejado de una gota infecciosa son 3 metros o más. Entre más riesgos de salud tengan (edad, cirugías recientes, cáncer, un sistema inmunológico en riesgo, asma, diabetes, etcétera), más deberían evitar las multitudes.
 

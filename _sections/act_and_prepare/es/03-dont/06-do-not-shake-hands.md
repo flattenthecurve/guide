@@ -1,8 +1,8 @@
 {:.only_toc}
-## No des la mano
+### No des la mano
 
 {:.dont.no_toc}
-## No des la mano. Se creativo con los saludos que no incluyen contacto entre personas.
+### No des la mano. Se creativo con los saludos que no incluyen contacto entre personas.
 
 [Aquí hay algunas opciones divertidas](https://twitter.com/figgyjam/status/1234659499169857536): 
 
