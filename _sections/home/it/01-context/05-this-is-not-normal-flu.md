@@ -1,4 +1,4 @@
-# Questa non è una banale influenza
+## Questa non è una banale influenza
 **Nemmeno nel migliore dei casi**
 
 La stima di un tasso di mortalità del 3,5% realizzata dall'Organizzazione Mondiale della Sanità è una media ottenuta su fasce d'età, e numerosi dati di monitoraggio sono stati forniti a riprova degli elevati numeri di casi asintomatici. È opinione fortemente condivisa che gli ultrasessantenni e chi è affetto da patologie preesistenti rappresentino le categorie più colpite.

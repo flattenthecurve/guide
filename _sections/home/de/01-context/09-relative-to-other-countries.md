@@ -1,8 +1,8 @@
 {:.only_toc}
-# Gesundheitspolitik
+## Gesundheitspolitik
 
 {:.no_toc}
-# Gesundheitspolitik der USA
+## Gesundheitspolitik der USA
 
 Zurzeit gibt es einen kritischen Kommentar zur US-amerikanischen Gesundheitspolitik nur in der englischsprachigen Version dieser Seite.
 

@@ -1,8 +1,8 @@
 {:.only_toc}
-# C'è speranza.
+## C'è speranza.
 
 {:.no_toc}
-# C'è una speranza: sei tu. È così che funziona
+## C'è una speranza: sei tu. È così che funziona
 
 Puoi dare un contributo seguendo il più possibile queste indicazioni. Prima si prendono contromisure, più precauzioni si prendono, più vite saranno salvate. Non potrebbe essere più semplice. Le persone che ieri hanno sottovalutato il problema sono le stesse che ora stanno reagendo in modo eccessivo. Resisti all'impulso di allontanare o di perdere la speranza. È fondamentale mantenere la calma, lavorare in modo costante per controllare l'infezione e spingere le altre persone a seguire il suo esempio.
 
