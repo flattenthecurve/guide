@@ -27,6 +27,10 @@ Dir["*-en.md"].sort!.each { |filename|
 
 STRINGS = YAML.load(File.open("_data/#{SOURCE_LANG}/strings.yml", 'r:UTF-8') { |f| f.read })
 
+CONFIG_YML = File.open("_config.yml", 'r:UTF-8') { |f| f.read }
+SUPPORTED_LANGS = YAML.load(CONFIG_YML)['languages']
+NEW_LANGS = []
+
 def generate_content(translations_lang, translations_file)
   translations = JSON.parse(File.open(translations_file, 'r:UTF-8') { |f| f.read })
 
@@ -59,6 +63,7 @@ def generate_content(translations_lang, translations_file)
   translated_strings = Hash[STRINGS.map { |key, value| [key, translations[key]] }]
   FileUtils.mkdir_p(translated_strings_dir)
   File.open("#{translated_strings_dir}/strings.yml", 'w:UTF-8') { |f| f.puts translated_strings.to_yaml }
+  NEW_LANGS << translations_lang unless SUPPORTED_LANGS.include? translations_lang
 end
 
 LOKALISE_TOKEN = ARGV[0]
@@ -83,5 +88,15 @@ Zip::File.open_buffer(content) do |zip|
 
     puts "Expanding .md"
     generate_content(lang, dest)
+  end
+end
+
+unless NEW_LANGS.empty?
+  puts "Langs to add: #{NEW_LANGS}"
+  languages_regex = /^languages: (\[.*\])$/
+  if CONFIG_YML =~ languages_regex
+    new_languages_line = "languages: #{(SUPPORTED_LANGS + NEW_LANGS).to_s}"
+    NEW_CONFIG_YML = CONFIG_YML.sub languages_regex, new_languages_line
+    File.open('_config.yml', 'w:UTF-8') { |f| f.puts NEW_CONFIG_YML }
   end
 end
