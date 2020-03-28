@@ -87,7 +87,12 @@
   visibility: hidden;
 }
 
-.toc-mobile { display: none; }
+.toc-mobile {
+  display: none; 
+
+  .toc-entry ul { display:none; }
+
+}
 
 @include media-query($on-palm) {
   .home {
