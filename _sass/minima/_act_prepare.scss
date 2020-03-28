@@ -94,14 +94,16 @@
 
 }
 
+.toc-wrapper {
+  display: flex;
+}
+
 @include media-query($on-palm) {
-  .home {
+  .toc-wrapper {
     display: block;
   }
   .toc-desktop {
-    display: none;
-  }
-  .toc-mobile {
-    display: block;
+    padding-right: 0;
+    .toc-entry ul { display:none; }
   }
 }
