@@ -76,9 +76,8 @@
   & + .toc-3 { margin-top: .5em; }
 }
 
-.toc-desktop, .toc-mobile {
+.toc-desktop {
   padding-right: 1.2em;
-  color: $grey-color;
 }
 
 .main .only_toc {
@@ -88,6 +87,8 @@
   visibility: hidden;
 }
 
+.toc-mobile { display: none; }
+
 @include media-query($on-palm) {
   .home {
     display: block;
@@ -96,9 +97,6 @@
     display: none;
   }
   .toc-mobile {
-    text-align: left;
-    .toc-entry a{
-      color: $light-text-color;
-    }
+    display: block;
   }
 }
