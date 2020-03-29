@@ -2,7 +2,7 @@
 ### Monitor symptoms
 
 {:.do.no_toc}
-### Moniotor your symptoms, when to go to hospital (recommended in US)
+### Monitor your symptoms, when to go to hospital (recommended in US)
 
 Compiled from [this WHO report](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)   
 Common symtoms
