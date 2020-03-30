@@ -1,5 +1,5 @@
 {:.only_toc}
-# Hintergrundwissen
+## Hintergrundwissen
 {:.no_toc}
 ## Wem Du folgen kannst, wenn Du Dich mehr für den wissenschaftlichen Hintergrund interessierst
 

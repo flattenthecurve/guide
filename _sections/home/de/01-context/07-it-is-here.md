@@ -1,4 +1,4 @@
-# Die Infektionswelle ist auch bei uns angekommen
+## Die Infektionswelle ist auch bei uns angekommen
 
 Geh davon aus, dass das Virus schon in Deiner Stadt, Deiner Gemeinde und an Deinem Arbeitsplatz ist. [Er ist garantiert bereits „hier“, aber nur noch nicht entdeckt](https://twitter.com/balajis/status/1234879748083503105).
 Schätzungen aus Italien zufolge war die Zahl der Infizierten im frühen Stadium der Epidemie [viermal so hoch wie die Zahl, die man zu der Zeit bestätigen konnte](https://twitter.com/AdamJKucharski/status/1236004937529798659).
