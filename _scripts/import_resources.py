@@ -75,11 +75,14 @@ def main():
     rows = csv.DictReader(io.StringIO(resources.text))
     rows_accepted = 0
     for row_num, row in enumerate(rows, start=2):
+        # Skip if approved_by column is not populated
+        if not row.get('approved_by', None):
+            print(f'Row {row_num} not approved - skipping. URL: {row.get("url", None)}')
         # Check that all required columns are present
         has_required = True
         for reqd in REQUIRED_COLUMNS:
             if not row.get(reqd, None):
-                print("Row {row_num} skipped. It is missing required column '{reqd}'.")
+                print(f"Row {row_num} skipped. It is missing required column '{reqd}'.")
                 has_required = False
                 break
         if not has_required:
