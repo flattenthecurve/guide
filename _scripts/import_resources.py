@@ -48,7 +48,7 @@ def format_row_contents(row):
         if not row.get(attr, None):
             continue
         # TODO: ensure special character escaping.
-        attr_rows.append(f'{attr}: {row[attr]}')
+        attr_rows.append(f'{attr}: {row[attr].strip()}')
     all_attributes = '\n'.join(attr_rows)
     return (
         f"---\n"
@@ -56,7 +56,7 @@ def format_row_contents(row):
         f"\nURL: {row['url'].strip()}\n"
         f"---\n"
         f"\n"
-        f"{row['description']}")
+        f"{row['description'].strip()}")
 
 
 def get_resource_dir():
