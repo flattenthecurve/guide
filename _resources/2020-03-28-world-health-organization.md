@@ -1,6 +1,7 @@
 ---
-name: World Heath Organization
+name: World Health Organization
 category: gov
+
 URL: https://www.who.int/health-topics/coronavirus
 ---
 
