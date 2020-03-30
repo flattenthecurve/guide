@@ -25,7 +25,7 @@ Avoid panic and lend a helping hand when it's safe.
 <div markdown="1" class="mission">
 {:.no_toc.highlight-box}
 ## What to do
-[What you should do](/act-and-prepare/#do) and [not do](/act-and-prepare/#dont) as well as [myths](/act-and-prepare/#myths) to ignore.
+[What you should do](/act-and-prepare/#do) and [not do](/act-and-prepare/#do-not) as well as [myths](/act-and-prepare/#myths) to ignore.
 </div>
 <div markdown="1" class="mission">
 {:.no_toc.highlight-box}
