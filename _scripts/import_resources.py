@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-import csv
-import requests
 import argparse
+import csv
 import datetime
+import io
 import os
 import re
+import requests
 
 # Resource spreadsheet contents are published at this URL in the form of CSV
 RESOURCES_URL="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMEdZXKgYNybkqNv4X26CVNoQZHuE0zb27wuBDgdDwtiyWCICQLhyU_LuLJVeHD5oTRnp-bEdFTuqi/pub?gid=650653420&single=true&output=csv"
@@ -69,7 +70,9 @@ def get_resource_dir():
 
 def main():
     resource_dir = get_resource_dir()
-    rows = csv.DictReader(requests.get(RESOURCES_URL).iter_lines(decode_unicode=True))
+    resources = requests.get(RESOURCES_URL)
+    resources.encoding = 'utf-8'
+    rows = csv.DictReader(io.StringIO(resources.text))
     rows_accepted = 0
     for row_num, row in enumerate(rows, start=2):
         # Check that all required columns are present
@@ -89,7 +92,7 @@ def main():
             print(f"*** Dry run *** {filename} would contain:")
             print(format_row_contents(row))
         else:
-            with open(filename, 'w+') as out_file:
+            with open(filename, encoding='utf-8', mode='w+') as out_file:
                 out_file.write(format_row_contents(row))
                 out_file.close()
 
