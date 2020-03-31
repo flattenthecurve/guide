@@ -1,5 +1,5 @@
 ---
-name: Safe handling and decontamination 
+name: Safe handling and decontamination
 category: Educational content
 
 URL: https://drive.google.com/file/d/1M9_VTMJpP5Jo-NxI_ac7TUtpoAvJHSVs/view

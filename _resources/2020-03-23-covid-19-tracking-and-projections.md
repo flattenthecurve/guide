@@ -1,6 +1,6 @@
 ---
 name: COVID-19 Tracking and Projections
-category: Web Application 
+category: Web Application
 country: Global
 
 URL: https://flattenthecurve.co.nz
