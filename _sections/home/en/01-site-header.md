@@ -5,7 +5,7 @@ Stay home. If you have to go out, avoid close contact.
 </div>
 <div markdown="1">
 ### Wash Your Hands
-thoroughly and frequently and never touch your face.
+thoroughly and frequently and do not touch your face.
 </div>
 <div markdown="1">
 ### Stay Calm
