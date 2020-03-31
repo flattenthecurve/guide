@@ -1,4 +1,4 @@
-# Ésto no es una gripe normal 
+## Ésto no es una gripe normal 
 **Ni en el mejor de los casos.**
 
 La tasa de mortalidad estimada por la Organización Mundial de la Salud (OMS), de un 3.5%, es un promedio de aquella de todos los grupos de edades. La OMS ha proporcionado una gran cantidad de datos obtenidos a través de encuestas, que contradicen los altos números de casos reportados sin síntomas. El consenso dice que las personas con más de 60 años de edad y aquellas con condiciones de salud delicadas son las más impactadas.

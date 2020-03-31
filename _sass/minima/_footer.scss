@@ -2,8 +2,8 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+  background-color: $light-gray-color;
 }
 
 .footer-heading {
@@ -19,7 +19,7 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  // color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }

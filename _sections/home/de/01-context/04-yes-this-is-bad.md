@@ -1,4 +1,4 @@
-# Ja, die Lage ist ernst
+## Ja, die Lage ist ernst
 
 Die Lage ist ernst. Sowohl gesellschaftlich als auch wirtschaftlich wird uns die Krise vor gewaltige Herausforderungen stellen. Kein Gesundheitssystem der Welt ist ausreichend auf eine solchen Ausbruch vorbereitet. Möglicherweise wird jeder von uns einen lieben Menschen verlieren, oder einen Bekannten.
 
