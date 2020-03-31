@@ -1,5 +1,8 @@
 name: Create PR for new resources.
-# TODO: add cron-based schedule for this workflow once tested.
+on:
+  schedule:
+    # Run once a day for now, can be run more frequently if it works well.
+    - cron: '0 10 * * *'
 jobs:
   pull_push_preview:
     runs-on: ubuntu-latest
