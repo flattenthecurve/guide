@@ -8,6 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+        with:
+          ref: ${{ github.head_ref }}
       - name: Run resource import script
         run: ./_scripts/import_resources.py
       - name: Create pull request
