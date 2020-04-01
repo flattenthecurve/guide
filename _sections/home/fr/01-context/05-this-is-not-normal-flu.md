@@ -1,4 +1,4 @@
-# Ce n'est pas une simple grippe
+## Ce n'est pas une simple grippe
 **Même pas dans le meilleur des scénarios**
 
 L'Organisation mondiale de la santé estime que le taux de mortalité de 3,5 % est une moyenne pour tous les groupes d'âge, et a fourni de nombreuses données de veille comme preuve contre l'hypothèse d'un nombre élevé de cas asymptomatiques. Il existe un consensus très fort sur le fait que les personnes âgées de plus de 60 ans et celles souffrant de maladies préexistantes sont les plus touchées.
