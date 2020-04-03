@@ -1,7 +1,7 @@
 ## This is not a normal flu
 **Not even in the best case**
 
-The World Health Organization estimate of 3.5% mortality rate is an average across age groups, and they have provided large surveillance data as evidence against high numbers of asymptomatic cases. There is very strong consensus that those aged 60+ and those with underlying conditions are the most impacted.
+The World Health Organization estimate of 3.5% mortality rate is an average across age groups. According to Centers for Disease Control and Prevention director Dr. Robert Redfield, [up to 25% of cases are asymptomatic, and they are infectious. Covid-19 is likely three times more infectious than flu.](https://www.npr.org/sections/health-shots/2020/03/31/824155179/cdc-director-on-models-for-the-months-to-come-this-virus-is-going-to-be-with-us). Data from Iceland [suggests as many as 50% of cases may be asymptomatic.](https://www.cnn.com/2020/04/01/europe/iceland-testing-coronavirus-intl/index.html)There is very strong consensus that those aged 60+ and those with underlying conditions are the most severely impacted.
 
 ![Chart showing COVID-19's mortality rate tops at 14.8% on adults over 80 years old, and is less than 1% on people under 50](/images/mortality-rate-by-age.svg)
 
