@@ -11,6 +11,5 @@ Many hospital groups have asked for cloth masks to be made by people with sewing
 
 By the third week of March, the countries of Vietnam, The Czech Republic (Czechia), and Slovakia are now operating a "wear a mask when in public" policy for their citizens and that includes homemade cloth masks. Austria is mandating that supermarket shoppers wear facemasks while shopping - see [Reuters article](https://www.reuters.com/article/us-health-coronavirus-austria-masks/austrian-supermarkets-hand-out-face-masks-before-they-become-compulsory-idUSKBN21J5Y9). South Africa [is encouraging facemask wearing too](https://www.dailymaverick.co.za/article/2020-04-01-the-great-mask-debate-policy-shifts-towards-masks-in-sa-and-elsewhere/) (since April 1).
 
-Since April 2, the cities of New York and Los Angeles have mandated mask for people mixing in public.
-
+Since April 2, the cities of New York and [Los Angeles](https://twitter.com/ABC/status/1245670123823923200) have mandated mask for people mixing in public.
 
