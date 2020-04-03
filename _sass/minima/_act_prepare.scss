@@ -104,6 +104,18 @@
   }
   .toc-desktop {
     padding-right: 0;
-    .toc-entry ul { display:none; }
+    margin-bottom: 2em;
+    ul { margin-left: 0; }
+    ul ul { font-size: 80%; }
+    li li { display: inline; }
+    .toc-h3 + .toc-h3::before {
+      // content: "\00B7";
+      content: "|";
+      // margin-left: .25em;
+      margin-right: .25em;
+    }
+    li + .toc-h2 {
+      margin-top: 1em;
+    }
   }
 }
