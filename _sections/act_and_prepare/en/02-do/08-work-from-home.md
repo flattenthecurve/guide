@@ -9,11 +9,10 @@ WFH for everyone. Ask your manager if it would be permissible for you personally
 
 If you can WFH, do it *precisely* because your barber, your kid's teacher, your local restaurant staff, your barista, and your doctors etc. can not.
 
-Great software now makes distance collaboration easier than ever. My personal favorites are below. The choice of collaboration tools isn't important: use whatever works for you and your team.
+Great software now makes distance collaboration easier than ever. Some commonly used tools are listed below. The choice of collaboration tools isn't important: use whatever works for you and your team.
 
--   Google drive (collaborative documents) is free
--   Zoom.us (video conferencing) is free up to 40 mins,
--   Slack/Gitter (free instant messaging).
--   Skype is also free and works pretty well for videoconferencing with 2 people at a time.
+ - [Google Drive](https://www.google.com/drive/), [Cryptpad](https://cryptpad.fr), and [Nextcloud](https://nextcloud.com/signup/) for collaborative documents
+ - [Zoom](https://zoom.us/), [Skype](https://www.skype.com/en/), [Jitsi](https://meet.jit.si/), or [Wire](https://wire.com/en/products/personal-secure-messenger/) for video conferencing
+ - [Slack](https://slack.com/) or [Gitter](https://gitter.im/) for instant messaging
 
 Do a dry run. See what is missing so that you're ready for when it is not optional. Some resources [here](https://twitter.com/BadassBowden/status/1235793674174435328) for people with ADHD working from home for the first time.
