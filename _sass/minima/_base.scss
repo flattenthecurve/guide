@@ -16,16 +16,12 @@ dl, dd, ol, ul, figure {
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
-  background-color: $background-color;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
        -o-font-feature-settings: "kern" 1;
           font-feature-settings: "kern" 1;
   font-kerning: normal;
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
   overflow-wrap: break-word;
 }
 
@@ -101,9 +97,10 @@ li {
  */
 h1,
 .title {
-  font-weight: $base-font-weight;
+  font-weight: 'Helvetica Neue Bold Condensed';
   font-size: 30px;
   margin-top: 1em;
+  text-transform: uppercase;
   @include media-query($on-palm) {
     margin-top: 2em;
   }
@@ -113,11 +110,14 @@ h2,
   font-weight: $base-font-weight;
   font-size: 1.666666em;
   line-height: 1.25;
-  margin-top: 2em;
+  margin-top: 1em;
 }
 
-h3, h4, h5, h6 {
-  font-weight: $bold-font-weight;
+h3,
+.subsubtitle {
+  font-weight: normal;
+  font-size: 1.333333em;
+  font-style: italic;
 }
 
 .page-heading,
@@ -192,29 +192,6 @@ pre {
     padding-left: 0;
   }
 }
-
-
-
-/**
- * Wrapper
- */
-.wrapper {
-  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: $side-spacing-unit;
-  padding-left: $side-spacing-unit;
-  @extend %clearfix;
-
-  @include media-query($on-palm) {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-    padding-right: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
-  }
-}
-
 
 
 /**

@@ -1,0 +1,16 @@
+---
+title: Narovnejte křivku
+description: Účelem těchto pokynů je pomoci "narovnat křivku" prudce se šířící nákazy
+  COVID19, omezit její šíření a snížit zatížení nemocnic a jiné zdravotní péče.
+health-care: Kapacita zdravotnického systému
+time-since: Čas od prvního případu
+quantity-of: Počet případů
+without-prot: Bez ochranných opatření
+with-prot: S ochrannými opatřeními
+mort-rate-age: Covid-19 úmrtnost podle věku
+age: Věk
+top-range: Covid-19 (horní odhad)
+so-far: Covid-19 (doposud)
+estimate: Covid-19 (odhad)
+bottom-estimate: Covid-19 (dolní odhad)
+seasonal-flu: Sezónní chřipka

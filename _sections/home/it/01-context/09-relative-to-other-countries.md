@@ -1,8 +1,8 @@
 {:.only_toc}
-# Politiche
+## Politiche
 
 {:.no_toc}
-# In confronto a quelle di altri Paesi, le politiche del lavoro e sanitarie degli USA possono avere conseguenze catastrofiche in una situazione di pandemia 
+## In confronto a quelle di altri Paesi, le politiche del lavoro e sanitarie degli USA possono avere conseguenze catastrofiche in una situazione di pandemia 
 
 -   Nessuna garanzia universale di [congedo retribuito per malattia] (https://www.worldpolicycenter.org/policies/for-how-long-are-workers-guaranteed-paid-sick-leave)
 -   Anche per coloro che \*hanno\* il congedo retribuito per malattia, il periodo di tempo coperto è spesso di pochi giorni, anziché delle settimane da considerare per una malattia prolungata.
@@ -13,7 +13,7 @@
 
 Il fatto che queste reti di sicurezza non esistessero negli USA complica l'adozione dei comportamenti necessari ad #appiattirelacurva rispetto a gran parte dei Paesi colpiti finora. Tuttavia, la legislazione approvata lo scorso 13 marzo dalla Camera dei rappresentanti statunitense intende affrontare parte di queste criticità. Vale a dire che verranno fornite maggiori indennità di disoccupazione, test per il virus gratuiti, e fondi supplementari per l'acquisto di cibo e per il programma sanitario Medicaid. Il progetto di legge è riportato da [New York Times](https://www.nytimes.com/2020/03/13/us/politics/trump-coronavirus-relief-congress.html), [CNN](https://www.cnn.com/2020/03/13/politics/coronavirus-relief-congress/index.html) e altre testate giornalistiche. Puoi consultare il progetto di legge [qui](https://www.cnn.com/2020/03/13/politics/read-bill-text-families-first-coronavirus-response-act/index.html).
 
-# Monitoraggio e comunicazione globale
+## Monitoraggio e comunicazione globale
 
 Medici di tutto il mondo stanno lottando in prima linea per combattere la crisi,
 si infettano a causa della mancanza di dispositivi di protezione e loro stessi non possono ricevere le cure di cui hanno bisogno. Per un punto di vista personale in proposito, puoi dare un'occhiata [qui](https://twitter.com/stuff_so/status/1236467114933813248), ma non è senz'altro l'unico: le testimonianze sono innumerevoli.

@@ -1,7 +1,7 @@
 ---
 layout: page_with_toc
 toc: true
-title: Act & Prepare
+title: What to do
 permalink: /act-and-prepare/
 lang: en
 order: 1
