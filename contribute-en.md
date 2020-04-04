@@ -6,7 +6,7 @@ lang: en
 order: 3
 ---
 
-# How to help and contribute
+## How to help and contribute
 
 First of all, thank you! A lot of unpaid work is going into this site to try and make it one of the best and most helpful resources in this
 uncertain time of COVID19. There are, however, some hard costs associated with that, like the cost of hosting, or potentially hiring
