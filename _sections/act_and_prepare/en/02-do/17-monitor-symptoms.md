@@ -31,8 +31,8 @@ Recovery time: (for all patients that develop pneumonia)
 -  Severe: 2-1/2 weeks.  
 -  Critical (with ARDS): 30-40% fatal. Recovery could take months. 
 
-Using tracking symptom apps:  
--  US: covidaware.me
--  UK: https://covid.joinzoe.com
--  CA: flatten.ca 
--  Japan: www.coronatracker.com   
+Symptom tracking apps:
+-  US: [covidaware.me](https://covidaware.me/)
+-  UK: [covid.joinzoe.com](https://covid.joinzoe.com)
+-  CA: [flatten.ca](https://flatten.ca/) 
+-  Japan: [coronatracker.com](https://www.coronatracker.com/)   
