@@ -105,6 +105,7 @@
   .toc-desktop {
     padding-right: 0;
     margin-bottom: 2em;
+    .section-nav { padding:0; }
     ul { margin-left: 0; }
     ul ul { font-size: 80%; }
     li li { display: inline; }
