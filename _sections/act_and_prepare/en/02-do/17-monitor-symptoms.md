@@ -7,13 +7,13 @@
 Compiled from [this WHO report](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)   
 Common symtoms
 
-
+<div class="table-wrap" markdown="1">
 | symptom   | percentage | symptom         | percentage | symptom               | percentage |
 | ----------| ---------- | ----------------| ---------- | --------------------  | ---------- |
 | Fever     | 88%        |Fatigue          |38%         |Shortness of breath    |18%         |
 | Dry cough |68%         |Phlegm production|33.4%       |Sore throat            |14%         |
 |Headaches  |14%         |Muscle aches     |14%         |Chills                 |11%         |
-
+</div>
 
 **Only go to hospital when you have trouble breathing or you are short of breath (sitting, going to bathroom, walking, etc).**
 
