@@ -105,6 +105,7 @@ h1,
     margin-top: 2em;
   }
 }
+
 h2,
 .subtitle {
   font-weight: $base-font-weight;
@@ -119,6 +120,9 @@ h3,
   font-size: 1.333333em;
   font-style: italic;
 }
+
+.page-heading,
+.post-title { margin-top: 0; }
 
 /**
  * Links

@@ -76,9 +76,8 @@
   & + .toc-3 { margin-top: .5em; }
 }
 
-.toc-desktop, .toc-mobile {
+.toc-desktop {
   padding-right: 1.2em;
-  color: $grey-color;
 }
 
 .main .only_toc {
@@ -88,17 +87,36 @@
   visibility: hidden;
 }
 
+.toc-mobile {
+  display: none; 
+
+  .toc-entry ul { display:none; }
+
+}
+
+.toc-wrapper {
+  display: flex;
+}
+
 @include media-query($on-palm) {
-  .home {
+  .toc-wrapper {
     display: block;
   }
   .toc-desktop {
-    display: none;
-  }
-  .toc-mobile {
-    text-align: left;
-    .toc-entry a{
-      color: $light-text-color;
+    padding-right: 0;
+    margin-bottom: 2em;
+    .section-nav { padding:0; }
+    ul { margin-left: 0; }
+    ul ul { font-size: 80%; }
+    li li { display: inline; }
+    .toc-h3 + .toc-h3::before {
+      // content: "\00B7";
+      content: "|";
+      // margin-left: .25em;
+      margin-right: .25em;
+    }
+    li + .toc-h2 {
+      margin-top: 1em;
     }
   }
 }

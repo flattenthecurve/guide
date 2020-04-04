@@ -1,8 +1,3 @@
-
-.home {
-  display: flex;
-}
-
 /**
  * Page content
  */
@@ -12,8 +7,7 @@
 }
 
 .page-content .wrapper {
-  padding-top: 2em;
-  padding-bottom: 5em;
+  padding-bottom: 3em;
 
   // This is to style non-english page title, until .hero is added
   h1:first-of-type {
