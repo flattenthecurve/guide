@@ -1,5 +1,5 @@
 ---
-name: Coronavirus: the science explained
+name: "Coronavirus: the science explained"
 category: Scientific publication
 
 URL: https://coronavirusexplained.ukri.org/en/
