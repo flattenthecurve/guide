@@ -6,6 +6,7 @@ import io
 import os
 import re
 import requests
+import yaml
 
 # Resource spreadsheet contents are published at this URL in the form of CSV
 RESOURCES_URL="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMEdZXKgYNybkqNv4X26CVNoQZHuE0zb27wuBDgdDwtiyWCICQLhyU_LuLJVeHD5oTRnp-bEdFTuqi/pub?gid=650653420&single=true&output=csv"
@@ -46,20 +47,11 @@ def make_row_filename(row):
    
 def format_row_contents(row):
     """Generate MD output for each row."""
-    attr_rows = []
-    for attr in EXTRACT_ATTRIBUTES:
-        if not row.get(attr, None):
-            continue
-        # TODO: ensure special character escaping.
-        attr_rows.append(f'{attr}: {row[attr].strip()}')
-    all_attributes = '\n'.join(attr_rows)
-    return (
-        f"---\n"
-        f"{all_attributes}\n"
-        f"\nURL: {row['url'].strip()}\n"
-        f"---\n"
-        f"\n"
-        f"{row['description'].strip()}")
+    attributes = dict(
+        (attr, row[attr].strip()) for attr in EXTRACT_ATTRIBUTES if attr in row)
+    attributes['URL'] = row['url'].strip()
+    all_attributes = yaml.dump(attributes)
+    return (f"---\n{all_attributes}\n---\n\n{row['description'].strip()}")
 
 
 def get_resource_dir():
