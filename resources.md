@@ -10,8 +10,6 @@ order: 2
 
 If you want to contribute to this list, you can do it [here](https://forms.gle/2zi67brmMZ7byCvb8)
 
-<hr/>
-
 {% assign current_country = "" %} 
 {% assign resources = site.resources | sort: 'country' %}
 {% for resource in resources %}
@@ -27,5 +25,4 @@ If you want to contribute to this list, you can do it [here](https://forms.gle/2
 
 ###  <a href="{{ resource.URL }}">{{ resource.name }}</a> 
   <p>{{ resource.content | markdownify }}</p>
-  <hr/>
 {% endfor %}
