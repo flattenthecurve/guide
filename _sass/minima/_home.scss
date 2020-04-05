@@ -10,6 +10,14 @@
 	}
 }
 
+h1.headline,
+h2.get-informed {
+	@include media-query($on-palm) {
+		text-align: left;
+	}
+}
+
+
 .ctas {
 	
 	h2 {
