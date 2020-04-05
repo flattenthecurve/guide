@@ -50,7 +50,7 @@ exclude:
   - import_language.rb
   - build
 
-languages: ['en', 'es', 'de', 'fr', 'it', 'el', 'ru', 'cs']
+languages: ["en", "es", "de", "fr", "it", "el", "ru", "cs", "am"]
 default_lang: 'en'
 exclude_from_localization: ['assets', 'css', 'build']
 parallel_localization: false
