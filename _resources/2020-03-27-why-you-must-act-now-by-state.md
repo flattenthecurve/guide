@@ -1,9 +1,9 @@
 ---
-name: Why you must act now - By State
 category: Model or Simulation
 country: USA
+name: Why you must act now - By State
+url: https://covidactnow.org
 
-URL: https://covidactnow.org
 ---
 
 CovidActNow.org was created by a team of data scientists, engineers, and designers in partnership with epidemiologists, public health officials, and political leaders to help understand how the COVID-19 pandemic will affect their region.
