@@ -14,7 +14,7 @@ Avoid panic and lend a helping hand when it's safe.
 </div>
 
 
-{:.no_toc.text-center}
+{:.no_toc.text-center.headline}
 # Flatten the Curve. Save Lives.
 
 {:.no_toc.text-center.get-informed.narrow}

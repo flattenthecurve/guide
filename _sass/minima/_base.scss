@@ -101,9 +101,6 @@ h1,
   font-size: 30px;
   margin-top: 1em;
   text-transform: uppercase;
-  @include media-query($on-palm) {
-    margin-top: 2em;
-  }
 }
 
 h2,
