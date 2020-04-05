@@ -22,7 +22,7 @@ args = parser.parse_args()
 REQUIRED_COLUMNS = ['name', 'category', 'description']
 """These columns must be non-empty for the row to be accepted."""
 
-EXTRACT_ATTRIBUTES = ['name', 'category', 'country', 'state']
+EXTRACT_ATTRIBUTES = ['name', 'category', 'country', 'state', 'url']
 """Columns that will be added into MD file as attributes, in this order."""
 
 
@@ -47,9 +47,10 @@ def make_row_filename(row):
    
 def format_row_contents(row):
     """Generate MD output for each row."""
-    attributes = dict(
-        (attr, row[attr].strip()) for attr in EXTRACT_ATTRIBUTES if attr in row)
-    attributes['URL'] = row['url'].strip()
+    attributes = {}
+    for attr in EXTRACT_ATTRIBUTES:
+        if row.get(attr, None):
+            attributes[attr] = row[attr].strip()
     all_attributes = yaml.dump(attributes)
     return (f"---\n{all_attributes}\n---\n\n{row['description'].strip()}")
 
