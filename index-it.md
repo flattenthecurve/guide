@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: legacy-home
 title: Appiattire la curva
 lang: it
 permalink: /

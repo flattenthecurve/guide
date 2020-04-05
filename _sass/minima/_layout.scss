@@ -8,15 +8,6 @@
 
 .page-content .wrapper {
   padding-bottom: 3em;
-
-  // This is to style non-english page title, until .hero is added
-  h1:first-of-type {
-    font-size: 45px;
-  }
-  // and this
-  h2:first-of-type {
-    margin-top: 0;
-  }
 }
 
 @include media-query($on-laptop) {

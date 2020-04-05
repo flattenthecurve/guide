@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: legacy-home
 title: Flache Kurve
 lang: de
 permalink: /

@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: .25em;
 }
 
 
@@ -97,10 +97,10 @@ li {
  */
 h1,
 .title {
-  font-weight: 'Helvetica Neue Bold Condensed';
-  font-size: 30px;
+  font-size: 2.5em;
   margin-top: 1em;
   text-transform: uppercase;
+  @include title-text;
 }
 
 h2,
@@ -116,6 +116,7 @@ h3,
   font-weight: normal;
   font-size: 1.333333em;
   font-style: italic;
+  margin-top: 1em;
 }
 
 .page-heading,
