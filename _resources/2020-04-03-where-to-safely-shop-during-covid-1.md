@@ -1,7 +1,7 @@
 ---
 name: Where to Safely Shop during Covid-19
 category: Educational content
-country: USA
+country: United States
 state: MA
 
 URL: http://helptofight.org/shopsafely
