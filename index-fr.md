@@ -1,9 +1,10 @@
 ---
-layout: legacy-home
-title: Aplatir la Courbe
+layout: home
+title: Aplatir la courbe
 lang: fr
-permalink: /
+permalink: "/"
 translate_content: false
 ---
+
 
 {% render_section home %}

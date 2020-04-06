@@ -1,8 +1,8 @@
 {:.only_toc}
-## Faites passer l'info
+### Faites passer l'info
 
 {:.do.no_toc}
-## Faites circuler l'information, faites pression sur vos représentants politiques pour qu'ils soutiennent la recherche
+### Faites circuler l'information, faites pression sur vos représentants politiques pour qu'ils soutiennent la recherche
 
 À titre indicatif, le suivi des liens de ce même document d'orientation (les statistiques peuvent être consultées sur [bit.ly/corona-guidance+](https://bit.ly/corona-guidance+)) montre que l'information se répand sur Twitter, où les scientifiques sont les plus nombreux parmi les utilisateurs, alors qu'elle circule encore beaucoup moins sur Facebook et dans les messages directs, là ou le grand public en a le plus besoin. Appelez un ami. Appelez votre famille. C'est vous qui aurez le plus d'influence sur les personnes que vous connaissez personnellement. S'il y a certainement des raisons de ne pas paniquer, la plupart des gens devraient être plus inquiets qu'ils ne le sont. Relevez le niveau minimal de sensibilisation pas le maximum. A long terme, cela sera beaucoup plus efficace.
 

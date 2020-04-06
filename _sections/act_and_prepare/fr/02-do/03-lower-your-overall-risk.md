@@ -1,13 +1,13 @@
 {:.only_toc}
-## Réduisez votre risque de manière générale
+### Réduisez votre risque de manière générale
 
 {:.do.no_toc}
-## Réduisez votre risque général grâce à vos choix au quotidien
+### Réduisez votre risque général grâce à vos choix au quotidien
 
-Dans leur rnsemble, le fait de faire en moyenne des choix plus sûrs au quotidien  - pas seulement pendant cette semaine mais pendant plusieurs mois à venir - peut aplatir la courbe. Continuez à soutenir l'économie locale, mais n'allez pas au magasin aux heures de pointe - un décalage même de 15 minutes peut réduire l'encombrement. Tout, des restaurants aux musées d'art en passant par les transports publics, sera moins risqué (et plus agréable !) en dehors des heures de pointe.
+Dans leur ensemble, le fait de globalement faire des choix plus sûrs au quotidien  - non seulement pendant cette semaine mais pendant plusieurs mois à venir - peut aplatir la courbe. Continuez à soutenir l'économie locale, mais n'allez pas au magasin aux heures de pointe - un décalage rien que de 15 minutes peut réduire l'affluence. Tout: restaurants, musées et galéries d'art ou bien les transports en commun - comportera moins de risques (tout en étant plus agréable !) en dehors des heures de pointe.
 
 - Les sports sans contact sont meilleurs que ceux avec contact. Par exemple, le tennis est meilleur que le rugby
-- Manger à emporter \> manger sur la terrasse d'un restaurant \> manger au restaurant
+- Manger à emporter \> manger sur la terrasse d'un restaurant \> manger en salle du restaurant
 - Options de streaming vidéo \> cinéma
 - Événements extérieurs \> événements intérieurs (les petits événements sont également meilleurs que les grands)
 - Livraison/ramassage à domicile \> en personne
