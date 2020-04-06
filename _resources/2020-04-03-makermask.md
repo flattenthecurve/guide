@@ -1,7 +1,7 @@
 ---
 category: Educational content
 name: MakerMask
-url: http://makermask.org/
+target: http://makermask.org/
 
 ---
 

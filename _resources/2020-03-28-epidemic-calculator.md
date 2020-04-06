@@ -1,7 +1,7 @@
 ---
 category: model
 name: Epidemic Calculator
-url: http://gabgoh.github.io/COVID/index.html
+target: http://gabgoh.github.io/COVID/index.html
 
 ---
 

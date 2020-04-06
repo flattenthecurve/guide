@@ -1,7 +1,7 @@
 ---
 category: Educational content
 name: Corona Virus - Full Fact - News checking organisation
-url: https://fullfact.org/health/coronavirus/?utm_source=homepage&utm_medium=trending
+target: https://fullfact.org/health/coronavirus/?utm_source=homepage&utm_medium=trending
 
 ---
 

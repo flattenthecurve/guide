@@ -1,7 +1,7 @@
 ---
 category: Open software support
 name: COVID-19 Open-Source Helpdesk
-url: https://discourse.covid-oss-help.org/
+target: https://discourse.covid-oss-help.org/
 
 ---
 

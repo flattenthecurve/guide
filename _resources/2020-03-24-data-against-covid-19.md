@@ -1,7 +1,7 @@
 ---
 category: Data Science support
 name: Data Against COVID-19
-url: https://www.data-against-covid.org/
+target: https://www.data-against-covid.org/
 
 ---
 

@@ -2,7 +2,7 @@
 category: Web Application
 country: Global
 name: COVID-19 Tracking and Projections
-url: https://flattenthecurve.co.nz
+target: https://flattenthecurve.co.nz
 
 ---
 

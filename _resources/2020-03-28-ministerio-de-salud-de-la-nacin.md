@@ -2,7 +2,7 @@
 category: gov
 country: Argentina
 name: "Ministerio de Salud de la Naci\xF3n"
-url: https://www.argentina.gob.ar/salud/coronavirus-COVID-19
+target: https://www.argentina.gob.ar/salud/coronavirus-COVID-19
 
 ---
 

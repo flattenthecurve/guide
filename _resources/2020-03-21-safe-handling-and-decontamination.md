@@ -1,7 +1,7 @@
 ---
 category: Educational content
 name: Safe handling and decontamination
-url: https://drive.google.com/file/d/1M9_VTMJpP5Jo-NxI_ac7TUtpoAvJHSVs/view
+target: https://drive.google.com/file/d/1M9_VTMJpP5Jo-NxI_ac7TUtpoAvJHSVs/view
 
 ---
 

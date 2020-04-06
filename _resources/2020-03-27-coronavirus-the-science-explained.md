@@ -1,7 +1,7 @@
 ---
 category: Scientific publication
 name: 'Coronavirus: the science explained'
-url: https://coronavirusexplained.ukri.org/en/
+target: https://coronavirusexplained.ukri.org/en/
 
 ---
 
