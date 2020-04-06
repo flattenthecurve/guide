@@ -23,6 +23,7 @@ If you want to contribute to this list, you can do it [here](https://forms.gle/2
     {% endif %}
   {% endif %}
 
-###  <a href="{{ resource.URL }}">{{ resource.name }}</a> 
+###  <a href="{{ resource.url }}">{{ resource.name }}</a>
   <p>{{ resource.content | markdownify }}</p>
+
 {% endfor %}
