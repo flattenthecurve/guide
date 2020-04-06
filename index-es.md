@@ -1,9 +1,10 @@
 ---
-layout: legacy-home
-title: Aplana La Curva
+layout: home
+title: ''
 lang: es
-permalink: /
+permalink: "/"
 translate_content: false
 ---
+
 
 {% render_section home %}
