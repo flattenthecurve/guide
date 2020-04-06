@@ -22,7 +22,7 @@ args = parser.parse_args()
 REQUIRED_COLUMNS = ['name', 'category', 'description']
 """These columns must be non-empty for the row to be accepted."""
 
-EXTRACT_ATTRIBUTES = ['name', 'category', 'country', 'state', 'url']
+EXTRACT_ATTRIBUTES = ['name', 'category', 'country', 'state', 'target']
 """Columns that will be added into MD file as attributes, in this order."""
 
 
