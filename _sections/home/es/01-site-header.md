@@ -36,7 +36,7 @@ Actualizado con la información conforme va surgiendo, y de código abierto en t
 Individualmente, es difícil mantenerse al día con las noticias y es difícil saber qué es verdad. Lee, contribuye y comparte información factual recolectada aquí, para ayudarnos a todos.
 
 {:.text-center}
-[**\>\> Regístrate para recibir actualizaciones del equipo de científicos de FlattenTheCurve.com\<\<**](https://flattenthecurve.substack.com/)
+[**\>\> Regístrate para recibir actualizaciones del equipo de científicos de FlattenTheCurve.com\<\<**](http://eepurl.com/gXKkvn)
 
 {:.text-center.narrow}
 _Registro gratuito, sin correo SPAM, sin anuncios de mercadeo_
