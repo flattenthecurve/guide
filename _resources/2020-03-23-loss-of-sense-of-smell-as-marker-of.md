@@ -1,7 +1,7 @@
 ---
 category: Educational content
 name: Loss of sense of smell as marker of COVID-19 infection
-url: https://www.entuk.org/loss-sense-smell-marker-covid-19-infection
+target: https://www.entuk.org/loss-sense-smell-marker-covid-19-infection
 
 ---
 

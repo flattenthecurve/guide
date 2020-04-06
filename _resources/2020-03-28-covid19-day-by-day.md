@@ -1,7 +1,7 @@
 ---
 category: Educational content
 name: Covid19 day by day
-url: https://www.businessinsider.com/novel-coronavirus-covid-19-symptoms-day-by-day-2020-3
+target: https://www.businessinsider.com/novel-coronavirus-covid-19-symptoms-day-by-day-2020-3
 
 ---
 

@@ -3,7 +3,7 @@ category: gov
 country: USA
 name: Official Covid-19 NJ Info Hub
 state: New Jersey
-url: https://covid19.nj.gov/
+target: https://covid19.nj.gov/
 
 ---
 

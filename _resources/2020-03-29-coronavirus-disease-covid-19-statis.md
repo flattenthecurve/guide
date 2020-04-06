@@ -1,7 +1,7 @@
 ---
 category: Chart, visualization, infographic
 name: "Coronavirus Disease (COVID-19) \u2013 Statistics and Research"
-url: https://ourworldindata.org/coronavirus
+target: https://ourworldindata.org/coronavirus
 
 ---
 

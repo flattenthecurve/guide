@@ -2,7 +2,7 @@
 category: Chart, visualization, infographic
 country: USA
 name: The COVID Tracking Project
-url: https://covidtracking.com/
+target: https://covidtracking.com/
 
 ---
 

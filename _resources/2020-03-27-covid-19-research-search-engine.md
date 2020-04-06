@@ -1,7 +1,7 @@
 ---
 category: Scientific publication
 name: COVID-19 Research Search Engine
-url: https://covidsmartsearch.recital.ai
+target: https://covidsmartsearch.recital.ai
 
 ---
 

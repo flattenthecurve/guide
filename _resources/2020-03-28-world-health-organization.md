@@ -1,7 +1,7 @@
 ---
 category: gov
 name: World Health Organization
-url: https://www.who.int/health-topics/coronavirus
+target: https://www.who.int/health-topics/coronavirus
 
 ---
 

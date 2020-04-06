@@ -2,7 +2,7 @@
 category: Model or Simulation
 country: USA
 name: Why you must act now - By State
-url: https://covidactnow.org
+target: https://covidactnow.org
 
 ---
 

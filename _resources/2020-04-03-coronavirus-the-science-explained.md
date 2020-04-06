@@ -1,7 +1,7 @@
 ---
 category: Educational content
 name: 'Coronavirus: the science explained'
-url: https://coronavirusexplained.ukri.org/
+target: https://coronavirusexplained.ukri.org/
 
 ---
 
