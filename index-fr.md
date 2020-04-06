@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: legacy-home
 title: Aplatir la Courbe
 lang: fr
 permalink: /

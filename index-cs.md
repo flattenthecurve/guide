@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: legacy-home
 title: Narovnejte křivku
 lang: cs
 permalink: /

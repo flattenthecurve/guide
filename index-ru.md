@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: legacy-home
 title: Сгладить кривую
 lang: ru
 permalink: /
