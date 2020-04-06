@@ -1,8 +1,8 @@
 {:.only_toc}
-## Politiques
+# Politiques
 
 {:.no_toc}
-## Par rapport à d'autres pays, les politiques américaines en matière de travail et de santé créent un terrain idéal pour une pandémie :
+# Par rapport à d'autres pays, les politiques américaines en matière de travail et de santé créent un terrain idéal pour une pandémie :
 
 - Il n'y a pas de système universel et obligatoire [d'arrêt maladié indemnisé](https://www.worldpolicycenter.org/policies/for-how-long-are-workers-guaranteed-paid-sick-leave)
 - Même parmi les personnes qui \*bénéficient\* d'arrêt maladie indemnisé, la durée maximale d'indemnisation est de l'ordre de quelques jours, et non de quelques semaines, ce qui n'est pas suffisant pour faire face à une maladie prolongée.
@@ -13,7 +13,7 @@
 
 Le fait que ces protections sociales n'ont jamais existé aux États-Unis auparavant complique l'adoption de comportements nécessaires pour #aplatirlacourbe par rapport à la plupart d'autres pays touchés. Toutefois, les textes adoptés vendredi par la Chambre des représentants des États-Unis visent à résoudre certains de ces problèmes critiques. En effet, le projet de loi prévoit des allocations de chômage plus élevées, des tests de dépistage gratuits et des fonds supplémentaires pour l'aide alimentaire et Medicaid. Des reportages sur le projet de loi ont été publiés par le [New York Times](https://www.nytimes.com/2020/03/13/us/politics/trump-coronavirus-relief-congress.html), [CNN](https://www.cnn.com/2020/03/13/politics/coronavirus-relief-congress/index.html) et d'autres médias. Vous pouvez lire le texte du projet de loi [ici](https://www.cnn.com/2020/03/13/politics/read-bill-text-families-first-coronavirus-response-act/index.html).
 
-## Suivi et communication au niveau mondial
+# Suivi et communication au niveau mondial
 
 Les médecins du monde entier se retrouvent en première ligne de cette crise, en raison du manque d'équipements de protection ils finissent par être infectés eux-mêmes et ils ne peuvent pas recevoir les soins dont ils ont besoin. Vous trouverez un témoignage [ici](https://twitter.com/stuff_so/status/1236467114933813248), mais ce n'est pas un cas isolé, de plus en plus d'histoires similaires circulent.
 

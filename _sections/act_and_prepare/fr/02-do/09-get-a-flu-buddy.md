@@ -1,8 +1,8 @@
 {:.only_toc}
-## Camarade de maladie
+### Camarade de maladie
 
 {:.do.no_toc}
-## Trouvez-vous un "camarade de maladie" (ou "camarade d'épidémie" si vous préférez) et préparez des plans de secours pour s'occuper des enfants, animaux et des personnes qui ont besoin d'assistance spéciale.
+### Trouvez-vous un "camarade de maladie" (ou "camarade d'épidémie" si vous préférez) et préparez des plans de secours pour s'occuper des enfants, animaux et des personnes qui ont besoin d'assistance spéciale.
 
 C'est particulièrement important si vous vivez seul(e). En cas de transmission locale, appelez-vous quotidiennement. Si quelqu'un est malade, appelez-les deux fois par jour et convenez d'un plan pour se livrer sans contact physique de la nourriture, d'analgésiques et des médicaments prescrits, ainsi que pour la prise en charge des personnes qui dépendent de la personne malade.
 

@@ -1,5 +1,5 @@
-{:.do}
-## Lavez-vous les mains
+{ :.do}
+### Lavez-vous les mains
 
-20 secondes avec du savon et l'eau chaude. (N'hésitez pas à chantonner: cela fera mieux passer les 20 secondes!)
-
+\>20 secondes avec du savon et de l'eau chaude. [Voici de superbes options](https://www.seattletimes.com/life/wellness/coronavirus-prevention-10-awesome-tunes-to-sing-while-you-wash-your-hands/?utm_medium=socialtm_campaign=owned_echobox_tw_mtm_source=Twitter#Echobox=1583369786) de chansons à chanter pour vous aider à passer le temps. Contrairement à certains virus très résistants (comme celui de la polio), les virus de la famille des coronavirus ne survivent généralement pas plus de [quelques heures sur la plupart des surfaces dures ; mais cela peut aller jusqu'à plusieurs jours. L'eau de Javel ou l'éthanol sont plus efficaces pour décontaminer les surfaces que pour désinfecter la peau humaine] (https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext). N'accumulez donc pas le désinfectant pour les mains, qui ne doit être utilisé que lorsque vous n'avez pas accès à un évier d'eau et de savon. Dans un restaurant ? Lavez-vous les mains. À l'école ? Lavez-vous les mains. Un lavage vigoureux des mains au savon est vraiment vital pour réduire la transmission ; une explication scientifique géniale du pourquoi est disponible [ici](https://twitter.com/PalliThordarson/status/1236549305189597189).
+**Si vous ne faites rien d'autre, au moins lavez-vous les mains.**

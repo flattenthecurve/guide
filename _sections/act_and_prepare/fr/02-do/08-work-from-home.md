@@ -1,8 +1,8 @@
 {:.only_toc}
-## Travaillez depuis chez vous
+### Travaillez depuis chez vous
 
 {:.do.no_toc}
-## Si vous pouvez travailler à domicile, faites-le autant que possible
+### Si vous pouvez travailler à domicile, faites-le autant que possible
 
 Tout le monde ne peut pas recourir au télétravail à 100% du temps ; cela est normal. Le télétravail à temps partiel, c'est mieux que rien. N'attendez pas que votre employeur mette en place le télétravail pour tout le monde. Parlez-en à votre responsable, pour savoir si cela serait possible pour vous. Encouragez vos collègues.
 
