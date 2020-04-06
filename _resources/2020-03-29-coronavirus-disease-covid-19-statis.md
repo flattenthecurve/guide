@@ -1,8 +1,8 @@
 ---
-name: Coronavirus Disease (COVID-19) – Statistics and Research
 category: Chart, visualization, infographic
+name: "Coronavirus Disease (COVID-19) \u2013 Statistics and Research"
+url: https://ourworldindata.org/coronavirus
 
-URL: https://ourworldindata.org/coronavirus
 ---
 
 "We present information on the number of deaths and cases; on why we should focus on how quickly those numbers double, not on the numbers themselves; on the prevalence of testing, and why that is important for understanding the disease; and what we can and can’t know about how lethal COVID-19 really is. We’ll also explain where we get our data from and why."
