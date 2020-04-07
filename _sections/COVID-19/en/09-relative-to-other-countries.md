@@ -6,11 +6,11 @@
 -   Zero guaranteed paid family leave to care for sick members
 -   Zero guaranteed financial or operational support for people who should self-quarantine. [People are therefore ignoring quarantine
     because they need to eat.](https://twitter.com/abcnews/status/1236462655012917249)
--   Many people are uninsured. Given where things are right now (cryptic transmission and no available vaccine), the insurance companies have
+-   [Many people are uninsured.](https://news.berkeley.edu/2020/03/10/americas-health-insurance-gaps-could-speed-spread-of-coronavirus/) Given where things are right now (cryptic transmission and no available vaccine), the insurance companies have
     a moral obligation but have no financial incentive to improve testing and ensure access to care.
 -   In the USA insurance is tied to their employment, so when they get sick they are also vulnerable to bankruptcy. In a pandemic year this is devastating for an economy.
 
-The fact that these safety nets have not previously existed in the US complicates the behaviors required to #flattenthecurve compared to most other countries affected so far. However, legislation passed Friday by the US House of Representatives aims to address some of these critical issues. Namely, the bill will provide enhanced unemployment benefits, free virus testing, and additional funds for food assistance and Medicaid. The bill is reported in the [New York Times](https://www.nytimes.com/2020/03/13/us/politics/trump-coronavirus-relief-congress.html), [CNN](https://www.cnn.com/2020/03/13/politics/coronavirus-relief-congress/index.html) and by other news organizations. Read the text of the bill [here](https://www.cnn.com/2020/03/13/politics/read-bill-text-families-first-coronavirus-response-act/index.html).
+The fact that these safety nets have not previously existed in the US complicates the behaviors required to #flattenthecurve compared to most other countries affected so far. However, legislation passed Friday by the US House of Representatives aims to address some of these critical issues. Namely, the bill will provide enhanced unemployment benefits, free virus testing, and additional funds for food assistance and Medicaid. The bill is reported in the [New York Times](https://www.nytimes.com/2020/03/13/us/politics/trump-coronavirus-relief-congress.html), [CNN](https://www.cnn.com/2020/03/13/politics/coronavirus-relief-congress/index.html) and by other news organizations. Read the text of the bill [here](https://www.cnn.com/2020/03/13/politics/read-bill-text-families-first-coronavirus-response-act/index.html). 
 
 ## Global tracking and communication
 
