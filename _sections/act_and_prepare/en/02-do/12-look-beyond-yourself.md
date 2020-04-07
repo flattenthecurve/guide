@@ -6,4 +6,3 @@ risk group and feel this is nothing to fret about, but your 80-year old neighbor
 recent heart surgery may feel quite
 differently.](https://twitter.com/kakape/status/1235318985429782532) Every person matters; no one is
 "expendable."
-

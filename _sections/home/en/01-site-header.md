@@ -13,7 +13,6 @@ Avoid panic and lend a helping hand when it's safe.
 </div>
 </div>
 
-
 {:.no_toc.text-center.headline}
 # Flatten the Curve. Save Lives.
 
@@ -41,11 +40,13 @@ Share this information now with all your friends and loved ones
 <div class="row col-2 push-up-1">
 <div markdown="1">
 ## Science & Teamwork
-On March 12, 2020, medical experts from around the world collaborated to provide the most up-to-date information about how to beat COVID-19. In that first week, we reached 1.2 million people. We're still going! 
-</div>
+On March 12, 2020, medical experts from around the world collaborated to provide the most up-to-date
+information about how to beat COVID-19. In that first week, we reached 1.2 million people. We're
+still going!  </div>
 <div markdown="1">
 ## Want to Contribute?
-This site is maintained by a team of medical experts, translators, engineers and designers who volunteer their time. Do you [want to help](/contribute)?
+This site is maintained by a team of medical experts, translators, engineers and designers who
+volunteer their time. Do you [want to help](/contribute)?
 </div>
 
 </div>
