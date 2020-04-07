@@ -18,8 +18,7 @@ Avoid panic and lend a helping hand when it's safe.
 # Flatten the Curve. Save Lives.
 
 {:.no_toc.text-center.get-informed.narrow}
-## Up to date information about COVID-19 for everyone, verified by medical experts.
-
+## Up to date information about COVID-19, verified by experts, so we can slow the spread and prevent hospitals from becoming overwhelmed.
 
 <div class="row col-3 ctas push-up-2">
 <div markdown="1" class="mission">
