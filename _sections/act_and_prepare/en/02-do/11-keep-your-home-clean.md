@@ -10,7 +10,6 @@ here.](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.h
 Clean AND disinfect frequently touched surfaces daily. This includes tables, doorknobs, light switches, countertops, handles, desks, phones, keyboards, toilets, faucets, and sinks.
 If surfaces are dirty, clean them with detergent or soap and water prior to disinfection.
 
-
 To make a bleach solution, mix 5 tablespoons (1/3 cup) bleach per gallon of water OR 4 teaspoons bleach per quart of
 water.
 

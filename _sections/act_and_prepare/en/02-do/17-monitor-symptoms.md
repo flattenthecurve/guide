@@ -4,7 +4,7 @@
 {:.do.no_toc}
 ### Monitor your symptoms, when to go to hospital (recommended in US)
 
-Compiled from [this WHO report](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)   
+Compiled from [this WHO report](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
 Common symtoms
 
 <div class="table-wrap" markdown="1">
@@ -19,22 +19,26 @@ Common symtoms
 
 **Only go to hospital when you have trouble breathing or you are short of breath (sitting, going to bathroom, walking, etc).**
 
-Gastrointestinal Symptoms (rare): 
-Diarrhea, nausea, vomiting, or abdominal discomfort are all possible early symptoms. They may appear a couple of days BEFORE the respiratory symptoms. 
+Gastrointestinal Symptoms (rare):
+Diarrhea, nausea, vomiting, or abdominal discomfort are all possible early symptoms. They may appear a couple of days BEFORE the respiratory symptoms.
 
-Timeline  
--  Mild cases usually clear up in 7 days (no hospitalization). 
--  It can take 2-14 days for the first covid19 symptom to develop. 88% of them eventually have fever. 
-For nearly half of the hospitalized patients, fever may not develop before you need to be admitted to hospital. 
--  By day 5, patients of preconditions may have trouble breathing (**go to hospital**). 
+Timeline:
 
-Recovery time: (for all patients that develop pneumonia) 
--  Mild: a few days.     
--  Severe: 2-1/2 weeks.  
--  Critical (with ARDS): 30-40% fatal. Recovery could take months. 
+- Mild cases usually clear up in 7 days (no hospitalization).
+- It can take 2-14 days for the first covid19 symptom to develop. 88% of them eventually have fever.
+For nearly half of the hospitalized patients, fever may not develop before you need to be admitted
+to hospital.
+- By day 5, patients of preconditions may have trouble breathing (**go to hospital**).
+
+Recovery time: (for all patients that develop pneumonia)
+
+- Mild: a few days.
+- Severe: 2-1/2 weeks.
+- Critical (with ARDS): 30-40% fatal. Recovery could take months.
 
 Symptom tracking apps:
--  US: [covidaware.me](https://covidaware.me/)
--  UK: [covid.joinzoe.com](https://covid.joinzoe.com)
--  CA: [flatten.ca](https://flatten.ca/) 
--  Japan: [coronatracker.com](https://www.coronatracker.com/)   
+
+- US: [covidaware.me](https://covidaware.me/)
+- UK: [covid.joinzoe.com](https://covid.joinzoe.com)
+- CA: [flatten.ca](https://flatten.ca/)
+- Japan: [coronatracker.com](https://www.coronatracker.com/)
