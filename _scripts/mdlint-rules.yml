@@ -1,0 +1,11 @@
+# For more information about the markdown rules and how to configure them, see:
+# https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md
+
+comment: Markdown conformance rules for FTC project.
+line_length: false
+first-line-h1: false  # Our md files may not have top level headings, they are fragments.
+blanks-around-headers:
+    lines_above: 0  # Allow for things like {:.do} and such.
+no-inline-html:
+    allowed_elements:
+        - div
