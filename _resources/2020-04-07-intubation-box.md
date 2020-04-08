@@ -1,6 +1,9 @@
 ---
-{category: PPE Design/Build Instructions, country: USA, name: Intubation
-    Box, state: AZ, target: 'https://intubationbox.com/'}
+category: PPE Design/Build Instructions
+country: USA
+name: Intubation Box
+state: AZ
+target: https://intubationbox.com/
 
 ---
 

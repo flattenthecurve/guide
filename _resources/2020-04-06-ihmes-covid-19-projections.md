@@ -1,6 +1,8 @@
 ---
-{category: Model or Simulation, country: USA, name: "IHME\u2019s COVID-19 projections",
-  target: 'http://www.healthdata.org/covid'}
+category: Model or Simulation
+country: USA
+name: "IHME\u2019s COVID-19 projections"
+target: http://www.healthdata.org/covid
 
 ---
 
