@@ -1,0 +1,1 @@
+## What to do if you get sick
