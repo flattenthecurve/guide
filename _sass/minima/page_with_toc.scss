@@ -1,0 +1,56 @@
+/**
+ *  ToC
+ */
+.toc {
+  flex-basis: 250px;
+  flex-shrink: 0;
+  padding-right: 1.2em;
+  .section-nav {
+    padding-right: 20px;
+  }
+}
+
+.toc-h2 {
+  list-style: none;
+}
+
+.toc-h2 > a {
+  font-weight: bold;
+  line-height: 1;
+}
+
+.toc-h2 + .toc-h2 {
+  margin-top: 1em;
+}
+
+.toc-3 {
+  line-height: 1.2em;
+  & + .toc-3 { margin-top: .5em; }
+}
+
+.toc-wrapper {
+  display: flex;
+}
+
+@include media-query($on-palm) {
+  .toc-wrapper {
+    display: block;
+  }
+  .toc {
+    padding-right: 0;
+    margin-bottom: 2em;
+    .section-nav { padding:0; }
+    ul { margin-left: 0; }
+    ul ul { font-size: 80%; }
+    li li { display: inline; }
+    .toc-h3 + .toc-h3::before {
+      // content: "\00B7";
+      content: "|";
+      // margin-left: .25em;
+      margin-right: .25em;
+    }
+    li + .toc-h2 {
+      margin-top: 1em;
+    }
+  }
+}
