@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ''
+title: Aplana la Curva
 lang: es
 permalink: "/"
 translate_content: false

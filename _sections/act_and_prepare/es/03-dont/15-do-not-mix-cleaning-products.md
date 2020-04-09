@@ -1,8 +1,8 @@
 {:.only_toc}
-### No mezcle productos de limpieza
+### No mezcles productos de limpieza
 
 {:.dont.no_toc}
-### No mezcle los siguientes productos de limpieza
+### No mezcles los siguientes productos de limpieza
 
 Estos productos de limpieza se vuelven peligrosos cuando se mezclan:
 
