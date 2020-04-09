@@ -2,22 +2,9 @@
 ### Abastécete
 
 {:.do.no_toc}
-### Hay que abastecerse de comida y elementos esenciales -- Temprano, gradual, y responsablemente
+### Hay que abastecerse de comida y elementos esenciales - Temprano, gradual, y responsablemente
 
-Hilo en Twitter:
-
->"Si el virus está en todas partes, ¿para qué sirve prepararnos?"
->
->Razones por las que ni "continuar con tu día como si nada" ni "comprar 
->todas las cosas en el súper" son respuestas útiles al
->[\#COVID19](https://twitter.com/hashtag/COVID19?src=hash&ref_src=twsrc%5Etfw)
-> [\#SARSCoV2](https://twitter.com/hashtag/SARSCoV2?src=hash&ref_src=twsrc%5Etfw)
-> [\#Coronavirus](https://twitter.com/hashtag/Coronavirus?src=hash&ref_src=twsrc%5Etfw)
-> [\#SARSCoV19](https://twitter.com/hashtag/SARSCoV19?src=hash&ref_src=twsrc%5Etfw)
-> :\
-> (1/n)
->
-> --- Mensaje de la Dra. Emma Hodcroft (\@firefoxx66). 29 de febrero de 2020. [Este hilo fue traducido al Español por la Dra. Mónica Muñoz-Torres](https://twitter.com/monimunozto/status/1234430566709129216)
+{% twitter https://twitter.com/monimunozto/status/1234430481703133184 align=center %}
 
 “Los expertos no están diciendo que compres cosas esenciales porque piensan que habrá escasez de comida y la sociedad va a colapsar. Si no porque [unos pocos días de compras en pánico y grandes demandas pueden causar más pánico y estrés innecesarios](https://twitter.com/monimunozto/status/1234430481703133184).” Además formarse en una línea con cientos de personas no es muy aconsejable. Compren un poco más de lo que necesitan. “Prepararse no significa no hacer nada; tampoco significa exagerar. Es hacer de nuestra parte para [*aliviar la tensión en el sistema*](https://twitter.com/monimunozto/status/1234430481703133184), que las pequeñas interrupciones sean tan cortas como sea posible, y que haya recursos disponibles para quienes más los necesiten.”
 

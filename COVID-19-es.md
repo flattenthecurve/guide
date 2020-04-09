@@ -1,7 +1,7 @@
 ---
 layout: page
 toc: true
-title: ''
+title: COVID-19
 permalink: "/covid-19/"
 lang: es
 order: 2
