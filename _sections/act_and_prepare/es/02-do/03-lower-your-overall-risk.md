@@ -1,17 +1,17 @@
-{:.only_toc}
-### Disminuye tu riesgo
+{:.do}
+### Quédate en Casa
 
-{:.do.no_toc}
-### Disminuye tu riesgo mediante las cosas que eliges hacer a diario.
+[Del sitio de internet de los Centros par el Control y la Prevención de las Enfermedades (CDC)](https://espanol.cdc.gov/enes/coronavirus/2019-ncov/cases-updates/summary.html):
 
-La acumulación de todas las cosas que elijamos hacer para llevar una vida más sana y segura todos los días, no solamente esta semana sino en los siguientes meses, pueden aplanar la curva. Continúen apoyando la economía local, pero eviten ir en horas pico; distribuir el acceso unos 15 minutos (antes/después de las horas pico) puede ayudar a reducir las multitudes. Lugares como restaurantes museos de arte y transporte público van a ser mucho menos riesgosos (y más agradables) si se visitan por fuera de las horas pico. 
+*Diferentes partes del país están experimentando diferentes niveles de actividad del COVID-19. Los Estados Unidos se encuentran en la fase de aceleración de la pandemia.  La duración y la gravedad de cada fase de la pandemia pueden variar en función de las características del virus y la respuesta de salud pública.*
 
-- Jugar deportes que no son de contacto es mejor que jugar deportes de contacto. Por ejemplo, jugar tenis es mejor que (\>) jugar rugby
-- Cocinar tus propias comidas \> pedir a domicilio \> pedir y llevar \> comer en el patio del restaurante \> comer en el restaurante
-- Opciones para ver películas y TV en línea \> cines
-- Nada de eventos con grupos de personas \> Eventos al aire libre \> eventos en salones (y los eventos pequeños son más recomendables que los grandes)
-- Domicilios o pasar a buscar la comida afuera de la tienda \> ir en persona
-- Cumplir desde lejos \> atender servicios religiosos
-- Pastelitos / ponquecitos de cumpleaños \> pasteles (si alguien sopla las velitas)
-- Toma tu café / cerveza / para llevar en lugar de tomarlos en el lugar de venta.
-- A los artistas que actúan en vivo les va a afectar ésto económicamente. Consideren apoyarlos usando Patreon, o PayPal. Promuévanlos en medios sociales. Compren sus productos artísticos directamente.
+EEUU es un país muy grande, con 50 estados, cada uno de los cuales está manejando esta situación de una forma diferente. Por tanto, la forma como se disperse el virus por la comunidad va a ocurrir a diferentes velocidades en diferentes lugares. Lo mejor que podemos hacer es que, si no eres personal esencial en tu lugar de trabajo, te quedes en casa hasta que hayamos aplanado la curva lo suficiente.  
+
+- No salgas a comer.
+- No vayas al cine. Escucha la radio, ve televisión, escucha programas grabados en audio, arma un rompecabezas, entretente con juegos de mesa, crea una discoteca en cas. 
+- No vayas a la iglesia - lleva tus ritos en casa, o ve los servicios en línea. 
+- No vayas al trabajo a menos que tu empleador así lo requiera porque eres personal indispensable. Y cuando regreses, mantén una rutina de limpieza y desinfección para que no traigas el virus a casa. 
+- No vayas de compras por cosas que no son esenciales. 
+- Si ordenas comida de restaurante a domicilio, usa un servicio en el que puedas pagar por adelantado y pídele a la persona que traiga tu comida que la deje en la puerta. Haz la orden con anticipación para que puedas dejar la comida aislada en algún lugar, y luego caliéntala cuando vayas a comerla. 
+- Cuando vayas al supermercado, usa guantes y aísla tus compras (¡y tus guantes!) en un lugar seguro durante unas horas antes de desempacar. 
+ - ¡Sal a la calle! Pero continúa caminando. Saluda a las personas, interactúa con los demás, pero hazlo solamente de pasada. Mantente a distancia física de los demás. No te detengas y no armes grupos. Asegúrate de saludar a todas las mascotas que veas paseando.
