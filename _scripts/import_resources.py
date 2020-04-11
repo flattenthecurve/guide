@@ -51,7 +51,7 @@ def format_row_contents(row):
     for attr in EXTRACT_ATTRIBUTES:
         if row.get(attr, None):
             attributes[attr] = row[attr].strip()
-    all_attributes = yaml.dump(attributes)
+    all_attributes = yaml.dump(attributes, default_flow_style=False)
     return (f"---\n{all_attributes}\n---\n\n{row['description'].strip()}")
 
 
@@ -62,6 +62,23 @@ def get_resource_dir():
             return res
     sys.exit("Can't find _resources/ directory.")
     return None
+
+
+USA_COUNTRY_NAMES = ['us', 'united states', 'united states of america']
+def normalize_country_name(input_country):
+    """Returns canonical country name."""
+    if input_country.strip().lower() in USA_COUNTRY_NAMES:
+        return 'USA'
+    return input_country
+
+
+COLUMN_FILTERS = {
+    'country': normalize_country_name,
+    'description': lambda x: x.replace("Covid-19", "COVID-19"),
+    }
+def apply_filters(row):
+    """Applies filters to the input data and returns transformed row."""
+    return {k: COLUMN_FILTERS.get(k, lambda x: x)(v) for k,v in row.items()}
 
 
 def main():
@@ -84,6 +101,7 @@ def main():
         if not has_required:
             continue
 
+        row = apply_filters(row)
         filename = os.path.join(resource_dir, make_row_filename(row))
         if os.path.isfile(filename) and not args.clobber:
             print(f"Resource file {filename} already exists, skipping.")
