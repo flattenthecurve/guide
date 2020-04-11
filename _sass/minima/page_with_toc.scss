@@ -12,19 +12,22 @@
 
 .toc-h2 {
   list-style: none;
+  line-height: 1;
+  display:inline-block;
 }
 
 .toc-h2 > a {
   font-weight: bold;
   line-height: 1;
+  display: inline-block;
 }
 
 .toc-h2 + .toc-h2 {
   margin-top: 1em;
 }
 
-.toc-3 {
-  line-height: 1.2em;
+.toc-h3 {
+  margin-top: .35em;
   & + .toc-3 { margin-top: .5em; }
 }
 
