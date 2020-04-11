@@ -1,5 +1,7 @@
 ---
-{category: Educational content, name: Illustrated primer or coronavirus, target: 'https://lifeapps.io/lifeology/covid-19'}
+category: Educational content
+name: Illustrated primer or coronavirus
+target: https://lifeapps.io/lifeology/covid-19
 
 ---
 
