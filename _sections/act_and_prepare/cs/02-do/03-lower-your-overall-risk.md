@@ -1,17 +1,17 @@
-{:.only_toc}
-### Snižte své riziko nákazy
+{:.do}
+### Zůstaňte doma
 
-{:.do.no_toc}
-### Jednejte rozumně a snižte své riziko nákazy
+[Aktuální informace od ministerstva zdravotnictví najdete zde](https://koronavirus.mzcr.cz/)
 
-Pakliže budete každý den jednat rozumně - ne jen tento týden ale v průběhu několika měsíců - můžete tak přispět k narovnání křivky a zpomalení epidemie. Můžete stále podporovat lokální ekonomii, ale vyhněte se špičce; pouhých 15 minut může snížit davy na veřejných místech. Veřejná doprava, muzea a restaurace budou daleko méně rizikové (a daleko příjemnější) mimo špičku.
+V současné chvíli (2 duben 2020) platí na území Česka nouzový stav, který [omezuje volný pohyb osob](https://koronavirus.mzcr.cz/manual-pro-obcany-prava-a-povinnosti-za-nouzoveho-stavu/).
 
--   Preferujte bezkontaktní sporty (Tenis je lepší než \> ragby.)
--   Jídlo s sebou \> oběd na zahrádce restaurace \> oběd v restauraci
--   Sledování filmů online \> kino
--   Venkovní akce \> akce uvnitř (čím menší, tím lepší)
--   Donáška do domu \> nákupy v obchodech
--   Virtuální/vzdálené náboženské rituály \> jít do kostela
--   Narozeninové "cupcakes" \> narozeninový dort (pakliže sfoukáváte svíčky)
--   Káva/pivo/koktejl doma \> káva/pivo/koktejl v baru
--   Hudebníci a další výtvarníci budou nadcházející krizí těžce zasaženi. Pokud je to ve vašich silách, podpořte své oblíbené výtvarníky přes Patreon, PayPal, nebo se zůčastněte pouze velice malých představení. Propagujte své výtvarníky na sociálních médiích, kupte si jejich tvorbu nebo alba přímo.
+Abychom šíření nemoci dostatečně zpomalili, je třeba minimalizovat mezilidské kontakty a pohyb na veřejnosti. Konkrétní opatření se budou měnit podle toho, v jaké fázi epidemie se budeme nacházet, ale následující doporučení pomohou zpomalit šíření viru:
+
+-   Nechoďte do restaurací.
+-   Nechoďte do kina - poslechněte si místo toho něco v rádiu, sledujte televizi, najděte si zajímavý film online nebo třeba nějaký poutavý podcast. Hrejte deskové hry, čtěte knihy, zkuste si udělat diskotéku v obýváku :)
+-   Nechoďte do kostela. Modlete se sami doma nebo se zůčastněte virtuální mše přes internet.
+-   Nechoďte do práce, pakliže to není nezbytně nutné. V případě, že musíte chodit do práce, dodržujte dekontaminační protokol po návratu, abyste si virus nezanesli do bytu.
+-   Nechoďte nakupovat, pakliže to není nezbytně nutné (kupř. se vyhněte nákupu věcí, které nejsou nezbytné)
+-   Pokud si objednáváte jídlo, použijte služeb, které vám umožní zaplatit dopředu. Jídlo si objednejte s předstihem, nechte si jej doručit před dveře a ideálně počkejte pár hodin, než si donášku vyzvednete. Jídlo si pak můžete ohřát. 
+-   Pokud jdete nakupovat, noste rukavice a nákup nechte několik hodin vyvětrat na bezpečném místě před tím (rukavice taky), než jej přinesete domů.
+-   Pohyb venku je zdravý a potřebný, tak si jej dopřejte. Popovídejte si s ostatními, ale držte se v bezpečné vzdálenosti. Nezastavujte se a neshlukujte se.
