@@ -1,7 +1,7 @@
 ---
 layout: page_with_toc
 toc: true
-title: Jednej a připrav se
+title: Co dělat
 permalink: "/act-and-prepare/"
 lang: cs
 order: 1

@@ -1,8 +1,5 @@
-{:.only_toc}
-# Zdravotnický systém
-
 {:.no_toc}
-# Žádný zdravotnický systém není na nastávající situaci připraven
+## Žádný zdravotnický systém není na nastávající situaci připraven
 
 Ve spojených státech je kapacita zdravotnických zařízení méně než 1 milion lůžek, což je drasticky nedostačující, [očekáváme-li 4-8 milion hospitalizací.](https://www.bloomberg.com/opinion/articles/2020-03-05/how-bad-is-the-coronavirus-let-s-compare-with-sars-ebola-flu). Johns Hopkins University prováděla tříletý výzkum toho, jak dobře jsou země připraveny na případné pandemie. Ačkoliv spojené státy se umístily mezi lépe připravenými zeměmi, dosáhly [pouze na 42 místo ze 100.](https://jhu.pure.elsevier.com/en/publications/pandemic-influenza-and-major-disease-outbreak-preparedness-in-us--7) Dostatečné prostředky, trénink a schopnost zavést preventivní odpovědí neexistují. Nikdo na světě bohužel tyto prostředky nemá a proto je natolik důležité, jak se k tomu každý z nás postaví.
 

@@ -1,4 +1,4 @@
-# Virus je zde
+## Virus je zde
 
 Můžete si být skoro jisti, že virus se šíří vaším městem/vesnicí/pracovním kolektivem a komunitou okolo vašeho kostela. Pokud nemáte oficiální diagnózu, je to pravděpodobně nikoliv kvůli absenci nákazy, ale kvůli [nedostatku testování](https://twitter.com/balajis/status/1234879748083503105). Ve spojených státech je [6 státu, které zatím nemají jedinou laboratoř, která by byla schopna lidi testovat](https://www.npr.org/sections/health-shots/2020/03/06/812833596/coronavirus-14-deaths-now-in-u-s-new-cases-in-maryland-colorado), i kdyby se u někoho nákaza objevila. Odhady z Itálie ukazují, že v prvotních fázích nákazy byl skutečný počet případu [čtyřikrát větší, než počet případů, které bylo možné detekovat.](https://twitter.com/AdamJKucharski/status/1236004937529798659).
 
