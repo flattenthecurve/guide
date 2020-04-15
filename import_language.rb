@@ -5,6 +5,7 @@ require 'ruby-lokalise-api'
 require 'open-uri'
 require 'zip'
 require 'metadown'
+require 'set'
 require 'yaml'
 require_relative '_plugins/common'
 
@@ -31,7 +32,7 @@ CONFIG_YML = File.open("_config.yml", 'r:UTF-8') { |f| f.read }
 SUPPORTED_LANGS = YAML.load(CONFIG_YML)['languages']
 NEW_LANGS = []
 
-def generate_content(translations_lang, translations_file)
+def generate_content(translations_lang, translations_file, no_review_keys=[])
   translations = JSON.parse(File.open(translations_file, 'r:UTF-8') { |f| f.read })
 
   FileUtils.rm_r(Dir[language_dir(translations_lang)], force: true)
@@ -41,6 +42,11 @@ def generate_content(translations_lang, translations_file)
     translated_dir = File.dirname(translated_file)
     FileUtils.mkdir_p(translated_dir)
     File.open(translated_file, "w:UTF-8") { |file|
+      if no_review_keys.include? section:
+        # Dump the no-review notice in here.
+        file.puts("{:.disclaimer}")
+        file.puts("Not translated, booh.")
+      end
       file.puts translations[section]
     }
   end
@@ -69,26 +75,74 @@ end
 LOKALISE_TOKEN = ARGV[0]
 SINGLE_LANG = ARGV[1]
 PROJECT_ID = "423383895e6b8c4b081a89.98184174"
-client = Lokalise.client LOKALISE_TOKEN
 
 puts "Building files from Lokalise"
-response = client.download_files(PROJECT_ID, {format: "json", filter_filenames: ["pasted.json"], replace_breaks: false, placeholder_format: :icu})
+# TODO: we can optimize and only fetch given language 
 
-puts "Downloading #{response["bundle_url"]} ..."
-content = open(response["bundle_url"])
-Zip::File.open_buffer(content) do |zip|
-  zip.each do |entry|
-    next unless entry.name.end_with?("pasted.json")
-    next if entry.name.end_with?("#{SOURCE_LANG}/pasted.json")
-    lang = entry.name.split("/")[0]
-    next if SINGLE_LANG != nil && lang != SINGLE_LANG
-    dest = "_translations/#{lang}.json"
-    puts "Saving #{dest}"
-    entry.extract(dest) { true }
+def fetch_json_from_lokalise(lang, filter_data: ['translated'])
+    client = Lokalise.client LOKALISE_TOKEN
+    resp = client.download_files(PROJECT_ID, {
+        format: "json",
+        filter_filename: ["pasted.json"],
+        replace_breaks: false,
+        placeholder_format: :icu,
+        filter_langs: [lang],
+        filter_data: filter_data}
+    )
+    # TODO: can this be replaced with plain Zip::File.open(resp["bundle_url"])
+    Zip::File.open_buffer(open(resp["bundle_url"])) do |zip|
+        zip.each do |entry|
+            next unless entry.name.end_with?("pasted.json")
+            next if entry.name.split("/")[0] != lang
+            return JSON.parse(entry.get_input_stream.read)
+        end
+    end
+end
 
-    puts "Expanding .md"
-    generate_content(lang, dest)
-  end
+def update_all_translations()
+    client = Lokalise.client LOKALISE_TOKEN
+    response = client.download_files(PROJECT_ID, {format: "json", filter_filenames: ["pasted.json"], replace_breaks: false, placeholder_format: :icu})
+
+    puts "Downloading #{response["bundle_url"]} ..."
+    content = open(response["bundle_url"])
+    Zip::File.open_buffer(content) do |zip|
+      zip.each do |entry|
+        next unless entry.name.end_with?("pasted.json")
+        next if entry.name.end_with?("#{SOURCE_LANG}/pasted.json")
+        lang = entry.name.split("/")[0]
+        next if SINGLE_LANG != nil && lang != SINGLE_LANG
+        dest = "_translations/#{lang}.json"
+        puts "Saving #{dest}"
+        entry.extract(dest) { true }
+
+        puts "Expanding .md"
+        generate_content(lang, dest)
+
+      end
+    end
+end
+
+def keys_without_review(lang)
+    ts = fetch_json_from_lokalise(SINGLE_LANG)
+    reviews = fetch_json_from_lokalise(SINGLE_LANG, filter_data: ['reviewed'])
+    ts.keys.to_set - reviews.keys.to_set
+end
+
+if SINGLE_LANG != nil
+    # TODO: Lokalise fetches are suboptimal, 3 fetches are happening now.
+    j = fetch_json_from_lokalise(SINGLE_LANG)
+    no_reviews = keys_without_review(SINGLE_LANG)
+
+    # Dump translation strings to json, because that's where we read them from.
+    dest = "_translations/#{SINGLE_LANG}.json"
+    File.open(dest, "w") do |f|
+        f.write(j.to_json)
+    end
+    generate_content(SINGLE_LANG, dest, no_reviews)
+else
+    update_all_translations
+    # TODO: Iterate over all lang, dest pairs 
+    # generate_content(lang, dest)
 end
 
 unless NEW_LANGS.empty?
