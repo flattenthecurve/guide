@@ -88,27 +88,36 @@ SINGLE_LANG = ARGV[1]
 PROJECT_ID = "423383895e6b8c4b081a89.98184174"
 
 puts "Building files from Lokalise"
-# TODO: we can optimize and only fetch given language 
 
-def fetch_json_from_lokalise(lang, filter_data: ['translated'])
+
+def fetch_json_from_lokalise(lang: nil, filter_data: ['translated'])
+    result = {}
     client = Lokalise.client LOKALISE_TOKEN
     resp = client.download_files(PROJECT_ID, {
         format: "json",
         filter_filename: ["pasted.json"],
         replace_breaks: false,
         placeholder_format: :icu,
-        filter_langs: [lang],
         filter_data: filter_data}
     )
+    if lang != nil:
+        resp['filter_langs'] = [lang]
     # TODO: can this be replaced with plain Zip::File.open(resp["bundle_url"])
     Zip::File.open_buffer(open(resp["bundle_url"])) do |zip|
         zip.each do |entry|
             next unless entry.name.end_with?("pasted.json")
-            next if entry.name.split("/")[0] != lang
-            return JSON.parse(entry.get_input_stream.read)
+            file_lang = entry.name.split("/")[0]
+            result[file_lang] = JSON.parse(entry.get_input_stream.read)
         end
     end
 end
+
+def keys_without_reviews(everything, reviewed):
+    everything.keys.to_set - reviewed.keys.to_set
+end
+
+translations = fetch_json_from_lokalise(lang: SINGLE_LANG)
+reviews = fetch_json_from_lokalise(lang: SINGLE_LANG, filter_data: 
 
 def update_all_translations()
     client = Lokalise.client LOKALISE_TOKEN
@@ -131,12 +140,6 @@ def update_all_translations()
 
       end
     end
-end
-
-def keys_without_review(lang)
-    ts = fetch_json_from_lokalise(SINGLE_LANG)
-    reviews = fetch_json_from_lokalise(SINGLE_LANG, filter_data: ['reviewed'])
-    ts.keys.to_set - reviews.keys.to_set
 end
 
 if SINGLE_LANG != nil
