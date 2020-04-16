@@ -42,12 +42,23 @@ def generate_content(translations_lang, translations_file, no_review_keys=[])
     translated_dir = File.dirname(translated_file)
     FileUtils.mkdir_p(translated_dir)
     File.open(translated_file, "w:UTF-8") { |file|
-      if no_review_keys.include? section:
-        # Dump the no-review notice in here.
-        file.puts("{:.disclaimer}")
-        file.puts("Not translated, booh.")
+      content = translations[section]
+      # At the moment, only add disclaimers to act_and_prepare
+      if translated_dir =~ /act_and_prepare/ and no_review_keys.include? section
+        # Insert disclaimer after the last h2 line.
+        lines = content.lines
+        last_hdr = lines.rindex{|e| e =~ /^##/}
+        if last_hdr == nil
+            last_hdr = 0
+        else
+            last_hdr = last_hdr + 1
+        end
+        lines.insert(last_hdr,
+          "\n{:.disclaimer}\n",
+          "{% include disclaimer/en/disclaimer.md %}\n\n")
+        content = lines.join("")
       end
-      file.puts translations[section]
+      file.puts content
     }
   end
 
@@ -139,8 +150,8 @@ if SINGLE_LANG != nil
         f.write(j.to_json)
     end
     generate_content(SINGLE_LANG, dest, no_reviews)
-else
-    update_all_translations
+# else
+    # update_all_translations
     # TODO: Iterate over all lang, dest pairs 
     # generate_content(lang, dest)
 end
