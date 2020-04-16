@@ -1,6 +1,10 @@
 {:.dont}
 ### Do not be careless
 
+{:.disclaimer}
+{% include disclaimer/en/disclaimer.md %}
+
+
 Don't be that person. It might not be about you but it is everyone's problem. Don't be careless in the hopes you get sick when you can "avoid
 the rush." There is zero benefit to individuals or the population to getting sick early in the pandemic. You would be putting the lives of others at risk. It is not just that people are dying, but how they are dying. To say nothing of the physical trauma, emotionally speaking this is the opposite of a "good death". People are dying alone, quarantined from those they love.
 

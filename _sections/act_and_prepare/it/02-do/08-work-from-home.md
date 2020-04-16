@@ -4,6 +4,10 @@
 {:.do.no_toc}
 ### Se puoi lavorare da casa, fallo
 
+{:.disclaimer}
+{% include disclaimer/en/disclaimer.md %}
+
+
 Non tutti possono lavorare da casa (telelavoro) il 100% del tempo; va bene. Il telelavoro part-time è meglio di niente. Non aspettare che il tuo datore di lavoro lo imponga.
 Telelavoro per tutti. Chiedi al tuo superiore se è ammissibile per te, personalmente. Sprona i tuoi colleghi a fare altrettanto.
 
@@ -16,4 +20,4 @@ Al giorno d'oggi, ottimi software rendono la collaborazione a distanza più faci
 -   Slack/Gitter (messaggistica istantanea gratuita);
 -   anche Skype è gratuito e funziona molto bene per videoconferenze con 2 persone alla volta.
 
-Fai una prova generale. Guarda cosa manca in modo da farti trovare pronto per quando non sarà facoltativo. Alcune risorse [qui](https://twitter.com/BadassBowden/status/1235793674174435328) per persone con ADHD che lavorano da casa per la prima volta.
+Fai una prova generale. Guarda cosa manca in modo da farti trovare pronto per quando non sarà facoltativo. Alcune risorse [qui](https://twitter.com/BadassBowden/status/1235793674174435328) per persone affette da ADHD che lavorano da casa per la prima volta.

@@ -1,6 +1,10 @@
 {:.do}
 ### Wear a facemask when in public
 
+{:.disclaimer}
+{% include disclaimer/en/disclaimer.md %}
+
+
 Context: facemask here means any "face coverings", including scarves and bandanas.
 
 If you absolutely have to venture into public where other people may be, buy a cloth mask or make your own as even US hospital chains are beginning to do. 

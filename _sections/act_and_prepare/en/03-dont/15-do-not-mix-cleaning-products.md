@@ -4,6 +4,10 @@
 {:.dont.no_toc}
 ### Do not mix the following cleaning products
 
+{:.disclaimer}
+{% include disclaimer/en/disclaimer.md %}
+
+
 These cleaning products become dangerous when mixed:
 
 Products | Negative outcome

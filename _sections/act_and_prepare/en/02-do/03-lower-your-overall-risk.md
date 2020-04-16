@@ -1,6 +1,10 @@
 {:.do}
 ### Stay home
 
+{:.disclaimer}
+{% include disclaimer/en/disclaimer.md %}
+
+
 [From the CDC site:](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/summary.html)
 
 *The United States nationally is currently in the initiation phases, but states where community spread is occurring

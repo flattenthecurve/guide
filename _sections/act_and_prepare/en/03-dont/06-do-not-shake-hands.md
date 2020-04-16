@@ -4,6 +4,10 @@
 {:.dont.no_toc}
 ### Do not shake hands; get creative with zero-contact greetings
 
+{:.disclaimer}
+{% include disclaimer/en/disclaimer.md %}
+
+
 [Some fun alternatives
 are:](https://twitter.com/figgyjam/status/1234659499169857536)
 

@@ -4,6 +4,10 @@
 {:.do.no_toc}
 ### Cancel all non-essential face-to-face medical appointments
 
+{:.disclaimer}
+{% include disclaimer/en/disclaimer.md %}
+
+
 Hospitals are hot spots for transmission; get your vaccinations at a pharmacy rather than at the doctor. Find ways to do your physical therapy at home if possible.
 
 Telemedicine professionals, this is your time to save the day, for everyone's benefit but especially those in rural areas who are hard hit and without easy access to medical care. https://doxy.me and https://vsee.com/clinic/ provide free HIPAA compliant video platforms for telehealth.

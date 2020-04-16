@@ -4,6 +4,10 @@
 {:.do.no_toc}
 ### Stock up on food and essentials - Early, gradually, and responsibly
 
+{:.disclaimer}
+{% include disclaimer/en/disclaimer.md %}
+
+
 {% twitter https://twitter.com/firefoxx66/status/1233666678841597952 align=center %}
 
 Experts recommend (responsibly and carefully) stocking up on essentials because

@@ -4,6 +4,10 @@
 {:.do.no_toc}
 ### Keep your home clean and develop routines for coming back
 
+{:.disclaimer}
+{% include disclaimer/en/disclaimer.md %}
+
+
 [You can find CDC Recommendations
 here.](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html)
 

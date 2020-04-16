@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: "/contact/"
 lang: en
 order: 5
 ---
-
 You can follow <a href="https://www.twitter.com/flattencurve">@FlattenCurve</a> on Twitter for announcements of updates to the site.
 
 If you’re an expert and would like to contribute to the site (ANY relevant content is welcome), please check the [how to contribute](https://github.com/flattenthecurve/guide/blob/master/CONTRIBUTING.md#how-to-contribute) guide.
