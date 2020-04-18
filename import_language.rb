@@ -7,11 +7,24 @@ require 'zip'
 require 'metadown'
 require 'set'
 require 'yaml'
+require 'optparse'
 require_relative '_plugins/common'
+
+
+$options = {}
+OptionParser.new do |opts|
+  $options[:sci_review_notice] = true
+
+  opts.on("-r", "--[no-]sci-review-notice", "Include notices about pending scientific reviews.") do |r|
+    $options[:sci_review_notice] = r
+  end
+end.parse!
+
 
 def language_dir(lang)
   "_sections/*/#{lang}"
 end
+
 
 LOKALISE_TOKEN = ARGV[0]
 SINGLE_LANG = ARGV[1]
@@ -45,16 +58,16 @@ def generate_content(translations_lang, translations, no_review_keys: [])
     FileUtils.mkdir_p(translated_dir)
     File.open(translated_file, "w:UTF-8") { |file|
       content = translations[section]
-      # Right now, disclaimers are only added to act_and_prepare
-      if translated_dir =~ /act_and_prepare/ and no_review_keys.include? section
+      if $options[:sci_review_notice] and translated_dir =~ /act_and_prepare/ and no_review_keys.include? section
         puts "Adding scientific-review disclaimer to #{translations_lang} #{section}"
-        # Insert disclaimer after the last h2 line.
+        # Find the last header line and insert after it.
         lines = content.lines
-        last_hdr = lines.rindex{|e| e =~ /^##/}
+        last_hdr = lines.rindex{|e| e =~ /^#/}
         if last_hdr == nil
-            last_hdr = 0
+          puts "Missing header lines in #{translated_file}"
+          last_hdr = 0
         else
-            last_hdr = last_hdr + 1
+          last_hdr = last_hdr + 1
         end
         lines.insert(last_hdr, "\n{% pending-sci-review.html %}\n")
         content = lines.join("")
@@ -97,7 +110,6 @@ def fetch_json_from_lokalise(lang: nil, filter_data: ['translated'])
     end
     resp = client.download_files(LOKALISE_PROJECT_ID, params)
     result = {}
-    # TODO: can this be replaced with plain Zip::File.open(resp["bundle_url"])
     Zip::File.open_buffer(open(resp["bundle_url"])) { |zip|
       zip.each do |entry|
         next unless entry.name.end_with?("pasted.json")
