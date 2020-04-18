@@ -13,7 +13,7 @@ require_relative '_plugins/common'
 
 $options = {}
 OptionParser.new do |opts|
-  $options[:sci_review_notice] = true
+  $options[:sci_review_notice] = false
 
   opts.on("-r", "--[no-]sci-review-notice", "Include notices about pending scientific reviews.") do |r|
     $options[:sci_review_notice] = r
