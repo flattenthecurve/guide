@@ -133,7 +133,7 @@ puts "Translations fetched: #{all_translations.keys}"
 
 puts "Writing translation files"
 all_translations.each {|lang, json| 
-    File.open("_translations/#{lang}.json", "w:UTF-8") { |f| f.write(json) }
+    File.open("_translations/#{lang}.json", "w:UTF-8") { |f| f.write(JSON.pretty_generate(json)) }
 }
 
 all_translations.each {|lang, translations|
