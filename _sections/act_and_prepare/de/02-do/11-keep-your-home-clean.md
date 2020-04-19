@@ -1,8 +1,14 @@
 {:.only_toc}
-## Zuhause
+### Zuhause
 
 {:.do.no_toc}
-## Halte Dein Zuhause sauber
+### Halte Dein Zuhause sauber
+
+[Hier befinden sich Empfehlungen des Robert-Koch-Instituts](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Reinigung_Desinfektion.html)
+
+Häufig berührte Oberflächen täglich reinigen UND desinfizieren. Dazu gehören Tische, Türgriffe, Lichtschalter, Arbeitsplatten, Schreibtische, Telefone, Tastaturen, Toiletten, Wasserhähne, und Waschbecken. Wenn die Oberflächen schmutzig sind, vor der Desinfektion mit Seife und Wasser reinigen.
+
+Um eine Bleichlösung zu machen, 20 Milliliter Bleichmittel mit 1 Liter Wasser mischen. 
 
 Halte Dein Zuhause frei von Infektionsquellen.
 Am besten, Du gewöhnst Dir ein routinemäßiges  Verhalten beim Nachhausekommen an: Schuhe aus, Oberbekleidung aus - Händewaschen!

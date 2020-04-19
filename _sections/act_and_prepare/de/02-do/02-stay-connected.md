@@ -1,8 +1,8 @@
 {:.only_toc}
-## In Kontakt bleiben
+### In Kontakt bleiben
 
 {:.do.no_toc}
-## Gruppen meiden, aber in Kontakt bleiben
+### Gruppen meiden, aber in Kontakt bleiben
 
 Generell solltest Du so viel Abstand zu Deinen Mitmenschen halten wie möglich. Zwei Meter sind ein gutes Maß, um das Risiko einer Tröpfcheninfektion klein zu halten.
 

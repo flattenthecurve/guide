@@ -1,8 +1,8 @@
 {:.only_toc}
-## Sicherheitszone zu Hause
+### Sicherheitszone zu Hause
 
 {:.do.no_toc}
-## Bereite eine Sicherheitszone zu Hause vor, falls jemand krank wird
+### Bereite eine Sicherheitszone zu Hause vor, falls jemand krank wird
 
 Bereite dein zu Hause darauf vor, notfalls eine erkrankte Person zwar einerseits
 isolieren zu können (Heimquarantäne), aber andererseits auch versorgen zu können.

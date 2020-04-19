@@ -1,8 +1,8 @@
 {:.only_toc} 
-## Es gibt Hoffnung. 
+# Es gibt Hoffnung. 
 
 {:.no_toc} 
-## Es gibt Hoffnung. Zusammen sind wir die Hoffnung.
+# Es gibt Hoffnung. Zusammen sind wir die Hoffnung.
 
 Gib die Hoffnung nicht auf! Du kannst etwas tun! Du kannst helfen, indem Du die Schutzmaßnahmen so gut wie möglich befolgst. Rede mit deinen Freunden und deiner Familie. Mach ihnen klar wie ernst die Lage ist und dass es auf sie ankommt. Je früher wir unser Verhalten ändern, umso größer ist der Effekt. Und je mehr Menschen die Maßnahmen befolgen, umso mehr Leben können wir retten. 
 

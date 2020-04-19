@@ -1,8 +1,8 @@
 {:.only_toc}
-## Nichts anfassen
+### Nichts anfassen
 
 {:.dont.no_toc}
-## Nichts anfassen 
+### Nichts anfassen 
 **Berühre in der Öffentlichkeit möglichst nichts mit den Fingern: sei kreativ**
 
 Benutze z.B. für Aufzugsknöpfe, Lichtschalter usw. nach Möglichkeit eher deine Knöchel als die Fingerspitzen.

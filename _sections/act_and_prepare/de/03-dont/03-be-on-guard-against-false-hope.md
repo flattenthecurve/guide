@@ -1,8 +1,8 @@
 {:.only_toc}
-## Sei auf der Hut 
+### Sei auf der Hut 
 
 {:.dont.no_toc}
-## Sei auf der Hut vor falschen Heilversprechen und Fehlinformationen
+### Sei auf der Hut vor falschen Heilversprechen und Fehlinformationen
 
 Sei gut zu deinem Körper. Leider müssen wir damit rechnen, dass einige versuchen werden, mit der Krankheit und der Angst davor Geld zu machen.
 Zurzeit frei erhältliche Medikamente wie Ibuprofen oder Paracetamol können zwar Symptome mildern, aber dass sie spezifisch gegen CoViD-19 helfen, ist nicht erwiesen.

@@ -1,0 +1,3 @@
+Bitte hamstern Sie keine Vorräte! 
+Hamsterkäufe können leicht einen Mangel an einzelnen Artikeln verursachen. Produkte des allgemeinen Bedarfs, an denen es mangelt, sind Toilettenpapier, Mineralwasser und Medizinartikel. 
+Vermeiden Sie den Erwerb großer Mengen von Produkten, insbesondere von Mangelware. Besorgen Sie soviel, wie Sie für 2 bis 4 Wochen benötigen. Lassen Sie die restlichen Waren denen, die sie brauchen. Falls Sie eine größere Menge chirurgische Schutzmasken / N95-Atemschutzmasken oder ähnliche Vorräte besitzen, denken Sie bitte darüber nach, diese an Gruppen zu spenden, welche sie brauchen, da sie beispielsweise im Gesundheitswesen oder für Tafeln vor Ort arbeiten. 

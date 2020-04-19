@@ -1,8 +1,8 @@
 {:.only_toc}
-## Vorräte anlegen
+### Vorräte anlegen
 
 {:.do.no_toc}
-## Vorräte anlegen: nach und nach und vor allem verantwortungsvoll den Mitmenschen gegenüber
+### Vorräte anlegen: nach und nach und vor allem verantwortungsvoll den Mitmenschen gegenüber
 
 Warum „weder so weiter machen, wie bisher“ noch „jede Konservendose im Laden kaufen“ sinnvoll ist, erklärt Dr. Emma Hodcroft [hier](https://twitter.com/firefoxx66/status/1233666678841597952?s=20) auf Twitter sehr einleuchtend.
 

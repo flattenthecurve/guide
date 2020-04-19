@@ -1,5 +1,5 @@
 {:.do}
-## Händewaschen
+### Händewaschen
 
 Es gibt nichts, was die Ausbreitung von COVID19 so effektiv verhindert wie [Händewaschen](https://twitter.com/PalliThordarson/status/1236549305189597189).
 

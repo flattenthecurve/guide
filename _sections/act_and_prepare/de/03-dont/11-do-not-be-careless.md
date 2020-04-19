@@ -1,5 +1,5 @@
 {:.dont}
-## Sei nicht unvorsichtig
+### Sei nicht unvorsichtig
 
 Es geht nicht nur um Dich, sondern um uns alle. Es nützt niemandem, wenn Leute in einem Frühstadium der Pandemie krank werden. Du würdest das Leben der Anderen gefährden. Es geht nicht nur darum, **dass** Menschen leider sterben. Es geht auch darum **wie** sie sterben. Abgesehen vom körperlichen Leiden ist das emotional gesehen das Gegenteil eines „guten Todes“. Die Menschen sterben alleine, unter Quarantäne, abgetrennt von denen, die sie lieben.
 

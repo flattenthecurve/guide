@@ -1,8 +1,8 @@
 {:.only_toc}
-## Hände nicht schütteln
+### Hände nicht schütteln
 
 {:.dont.no_toc}
-## Hände nicht schütteln; werde kreativ mit Begrüßungen ohne Körperkontakt
+### Hände nicht schütteln; werde kreativ mit Begrüßungen ohne Körperkontakt
 
 [Ein paar lustige Alternativen sind zum Beispiel:](https://twitter.com/figgyjam/status/1234659499169857536)
 

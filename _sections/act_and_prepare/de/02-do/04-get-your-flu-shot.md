@@ -1,8 +1,8 @@
 {:.only_toc}
-## Grippe- und Pneumokokken-Impfung nachholen
+### Grippe- und Pneumokokken-Impfung nachholen
 
 {:.do.no_toc}
-## Grippe- und Pneumokokken-Impfung nachholen
+### Grippe- und Pneumokokken-Impfung nachholen
 
 Insbesondere ältere Menschen über 60 Jahren und solche mit Vorerkrankungen sollten unbedingt in Absprache mit ihrem Hausarzt die Grippe-Impfung nachholen. Vielleicht auch zusätzlich eine Impfung gegen Pneumokokken, die Lungenentzündung auslösen. Besser spät, als gar nicht. 
 

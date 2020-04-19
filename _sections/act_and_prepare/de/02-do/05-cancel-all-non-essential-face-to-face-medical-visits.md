@@ -1,8 +1,8 @@
 {:.only_toc}
-## Arztbesuche
+### Arztbesuche
 
 {:.do.no_toc}
-## Jeden unnötigen Arztbesuch vermeiden
+### Jeden unnötigen Arztbesuch vermeiden
 
 Krankenhäuser und Arztpraxen sind Infektionsherde. Die Wahrscheinlichkeit dass Du Dich dort mit COVID-19 oder einer anderen Krankheit ansteckst ist sehr groß!
 

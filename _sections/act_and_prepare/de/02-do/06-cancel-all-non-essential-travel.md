@@ -1,9 +1,9 @@
 {:.only_toc}
-## Reisen absagen
+### Reisen absagen
 
 {:.do.no_toc}
 
-## Sage jede nicht zwingend notwendige Reise ab
+### Sage jede nicht zwingend notwendige Reise ab
 
 In Flugzeugen, Bahnen, usw. sind viele Menschen auf engem Raum zusammen. Hier ist die Gefahr einer Ansteckung besonders hoch. Umgekehrt genauso: hier kannst auch Du das Virus besonders gut auf Andere übertragen. Denk dran: Wenn man sich mit dem Virus angesteckt hat, merkt man das in der Regel nicht. Erst nach bis zu drei Wochen zeigen sich die ersten Beschwerden. Während dieser Zeit gibst Du das Virus aber schon weiter. Auch wenn Du dich gut fühlst, kannst Du andere gefährden. 
 

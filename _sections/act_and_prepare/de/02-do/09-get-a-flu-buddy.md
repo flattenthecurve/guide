@@ -1,8 +1,8 @@
 {:.only_toc}
-## Einen “Plan B” entwickeln
+### Einen “Plan B” entwickeln
 
 {:.do.no_toc}
-## Einen “Plan B” für die Betreuung von Kindern, Menschen mit besonderen Bedürfnissen und Haustieren erarbeiten. Das gilt besonders für Menschen die allein leben. 
+### Einen “Plan B” für die Betreuung von Kindern, Menschen mit besonderen Bedürfnissen und Haustieren erarbeiten. Das gilt besonders für Menschen die allein leben. 
 
 Telefoniert einmal am Tag miteinander um sicher zu gehen, dass alles in Ordnung ist. Vielleicht auch nur, um euch auszutauschen und euch die Angst zu nehmen: Da ist jemand, der sich um mich kümmert! Falls einer* krank wird, telefoniert öfters. 
 

@@ -1,8 +1,8 @@
 {:.only_toc}
-von zu Hause arbeiten
+###von zu Hause arbeiten
 {:.do.no_toc}
 
-## von zu Hause aus arbeiten
+### von zu Hause aus arbeiten
 **Falls möglich, so viel wie möglich** 
 
 Wer die Möglichkeit dazu hat, sollte von zu Hause aus arbeiten. Das geht natürlich nicht für Jeden* und ist in manchen Berufen unmöglich. Gerade deshalb sollten die, die es können, es auch tun. Scheu Dich nicht Deine Chef um Unterstützung dabei zu bitten. Vielleicht kannst Du auch mit Deinen Kollegen sprechen und sie ermuntern das Gleiche zu tun!

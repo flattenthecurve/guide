@@ -1,5 +1,5 @@
 {:.do}
-## Überprüfe deine Infos
+### Hinterfrage deine Infos kritisch
 
 Bitte überprüfe, was Du liest. Stell Dir ein paar einfache Frage: Wer hat das gesagt? Welches Interesse verfolgt die Person mit ihrer Aussage? Ist die Person überhaupt fachlich qualifiziert? 
 

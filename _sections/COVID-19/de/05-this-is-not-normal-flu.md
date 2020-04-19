@@ -1,4 +1,4 @@
-## Nein, COVID-19 ist nicht "bloß eine Grippe"
+# Nein, COVID-19 ist nicht "bloß eine Grippe"
 
 Die Welt-Gesundheits-Organisation (WHO) schätzt die Sterblichkeit von COVID-19 auf durchschnittlich 35 von 1000 Betroffenen (3,5%). Die gewöhnliche Grippe ("Influenza") hingegen hat eine Sterblichkeitsrate von etwa 1 bis 2 von 1000 Betroffenen (0,1% bis 0,2%). COVID-19 verläuft also mindestens 15-mal so oft tödlich. 
 

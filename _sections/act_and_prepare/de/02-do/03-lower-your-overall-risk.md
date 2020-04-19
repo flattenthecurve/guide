@@ -1,8 +1,8 @@
 {:.only_toc}
-## Senke dein Gesamtrisiko
+### Senke dein Gesamtrisiko
 
 {:.do.no_toc}
-## Handle bewusst und senke dadurch dein Risiko
+### Handle bewusst und senke dadurch dein Risiko
 
 Du kannst die Kurve abflachen, indem Du im Alltag wohlüberlegte Entscheidungen triffst. Das gilt nicht nur für die nächste Woche, sondern für die nächsten Monate. Bitte beachte unbedingt die Anweisungen der Behörden vor Ort. Sie geben Auskunft, welchen Aktivitäten Du noch nachgehen kannst! 
 
