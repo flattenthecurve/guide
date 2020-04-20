@@ -1,14 +1,15 @@
 #!/usr/bin/python3
+import argparse
+import difflib
 import io
+import logging
+import markdown
 import os
 import re
-import markdown
-# from bs4 import BeautifulSoup
-from lxml import etree
+import sys
+
 from collections import Counter
-import difflib
-import logging
-import argparse
+from lxml import etree
 
 logger = logging.getLogger(__name__)
 
@@ -105,10 +106,20 @@ for base, html_trees in base_lang_trees.items():
             diff = difflib.unified_diff(
                 source_tags, dest_tags,
                 fromfile=md_filenames[base]['en'],
-                tofile=md_filenames[base][lang])
+                tofile=md_filenames[base][lang],
+                lineterm='')
             print("\n".join(diff))
+
+found_diffs = False
 for lang in sorted(total_files):
+    if total_files[lang] == equal_files[lang]:
+        logger.info('[lang]: all {total_files[lang]} equal.')
+        continue
+    found_diffs = True
     print(
         f'[{lang}]: {equal_files[lang]}/{total_files[lang]} of analyzed pairs equal. '
         f'{total_files[lang] - equal_files[lang]} files differ. '
         f'({100.0 * equal_files[lang] / total_files[lang]:.2f}% equal)')
+
+if found_diffs:
+    sys.exit(1)
