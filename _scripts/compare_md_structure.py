@@ -47,7 +47,7 @@ for f in md_files:
             base_lang_trees.setdefault(base, {})[lang] = tree
             md_filenames.setdefault(base, {})[lang] = f
         except etree.XMLSyntaxError:
-            logger.warn(f'Failed to parse {f}')
+            logger.warning(f'Failed to parse {f}')
 
 
 def tag_sequences(tree):
@@ -86,7 +86,7 @@ equal_files = Counter()
 
 for base, html_trees in base_lang_trees.items():
     if 'en' not in html_trees:
-        logger.warn(f"Do not have source file for {base}")
+        logger.warning(f"Do not have source file for {base}")
         continue
 
     source_tags = tag_sequences(html_trees['en'])
