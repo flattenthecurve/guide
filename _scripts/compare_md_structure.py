@@ -25,6 +25,15 @@ parser.add_argument(
     '--exclude-regex',
     dest='exclude_regex', 
     help='If specificed, tag strings representations that do not match will be skipped.')
+parser.add_argument(
+    '--show-tag-summaries',
+    action='store_true',
+    dest='show_tag_summaries',
+    help='If given, print summaries of tag names where differences were found.')
+
+# TODO: different modes of operation should allow:
+# 1. printing diffs from each file
+# 2. summarizing which tags are divergent (for each language)
 args = parser.parse_args()
 
 md_files = []
@@ -71,7 +80,7 @@ def tag_sequences(tree):
         fp = [x.tag for x in el.iterancestors()] + [el.tag]
         fp = [tag for tag in fp if tag not in ['html', 'body']]
         path = '/'.join(fp)
-        attrs = '#'.join(f'{k}={v}' for k, v in sorted(el.items()))
+        attrs = '#'.join(f'{k}={v}' for k, v in sorted(el.items()) if k not in ['alt'])
         rep = f'/{path}#{attrs}'
         if not path:
             continue
@@ -86,6 +95,7 @@ def tag_sequences(tree):
 # Per language counters
 total_files = Counter()
 equal_files = Counter()
+tag_summaries = Counter()
 
 for base, html_trees in base_lang_trees.items():
     if 'en' not in html_trees:
@@ -103,6 +113,10 @@ for base, html_trees in base_lang_trees.items():
         if source_tags == dest_tags:
             equal_files.update([lang])
         else:
+            sym_diff = set(source_tags).symmetric_difference(set(dest_tags))
+            diff_tags = [x.split('#')[0].split('/')[-1] for x in sym_diff]
+            tag_summaries.update(diff_tags)
+
             diff = difflib.unified_diff(
                 source_tags, dest_tags,
                 fromfile=md_filenames[base]['en'],
@@ -120,6 +134,11 @@ for lang in sorted(total_files):
         f'[{lang}]: {equal_files[lang]}/{total_files[lang]} of analyzed pairs equal. '
         f'{total_files[lang] - equal_files[lang]} files differ. '
         f'({100.0 * equal_files[lang] / total_files[lang]:.2f}% equal)')
+
+if args.show_tag_summaries:
+    print('Frequency of tag discrepancies between english and translations.')
+    for tag, cnt in tag_summaries.most_common():
+        print(f'{cnt}\t{tag}')
 
 if found_diffs:
     sys.exit(1)
