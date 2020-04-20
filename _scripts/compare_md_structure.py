@@ -35,6 +35,8 @@ base_lang_trees = {}
 md_filenames = {} # [basename][language] --> filenames
 for f in md_files:
     path, base = os.path.split(f)
+    if '/build/' in path:
+        continue
     lang_dirs = [x for x in path.split("/") if len(x) == 2]
     if not lang_dirs:
         continue
