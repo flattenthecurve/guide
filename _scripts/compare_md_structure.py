@@ -30,10 +30,11 @@ parser.add_argument(
     action='store_true',
     dest='show_tag_summaries',
     help='If given, print summaries of tag names where differences were found.')
-
-# TODO: different modes of operation should allow:
-# 1. printing diffs from each file
-# 2. summarizing which tags are divergent (for each language)
+parser.add_argument(
+    '--hide-diffs',
+    action='store_true',
+    dest='hide_diffs',
+    help='If specified, do not show diffs for each file.')
 args = parser.parse_args()
 
 md_files = []
@@ -122,7 +123,8 @@ for base, html_trees in base_lang_trees.items():
                 fromfile=md_filenames[base]['en'],
                 tofile=md_filenames[base][lang],
                 lineterm='')
-            print("\n".join(diff))
+            if not args.hide_diffs:
+                print("\n".join(diff))
 
 found_diffs = False
 for lang in sorted(total_files):
