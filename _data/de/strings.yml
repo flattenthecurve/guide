@@ -1,0 +1,17 @@
+---
+title: Verflache die Kurve
+description: Diese Richtlinien sollen dazu beitragen, die Kurve beim COVID19-Ausbruch
+  abzuflachen, die Ausbreitung zu begrenzen und die Belastung von Krankenhäusern und
+  anderen Gesundheitseinrichtungen zu verringern.
+health-care: Kapazitätsgrenze des Gesundheitssystems
+time-since: Zeit seit dem ersten Krankheitsfall
+quantity-of: Zahl der Fälle
+without-prot: ohne Schutzmaßnahmen
+with-prot: mit Schutzmaßnahmen
+mort-rate-age: COVID-19 Sterblichkeit nach Altersgruppe
+age: Alter
+top-range: COVID-19 obere Schätzgrenze
+so-far: COVID-19 aktuell
+estimate: COVID-19 Schätzung
+bottom-estimate: COVID-19 untere Schätzgrenze
+seasonal-flu: Gewöhnliche Grippe
