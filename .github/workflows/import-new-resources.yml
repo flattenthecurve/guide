@@ -3,8 +3,8 @@ on:
     repository_dispatch:
         types: import_resources
     schedule:
-        # Run once per day for starters.
-        - cron: '0 10 * * *'
+        # Runs once every 6 hours.
+        - cron: '0 */6 * * *'
 jobs:
   import_resources:
     runs-on: ubuntu-latest
