@@ -1,0 +1,10 @@
+repos:
+- repo: local
+  hooks:
+  - id: pre-commit-resources
+    name: Disallow manual modifications to resource files
+    stages: [commit]
+    entry: ./_scripts/pre-commit-warn-on-resources.sh
+    language: script
+    files: _resources/
+    types: [markdown]
