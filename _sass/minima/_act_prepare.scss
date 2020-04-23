@@ -1,41 +1,23 @@
-#myths,
-#do,
-#do-not {
-  font-weight: bold;
+.what-to-do {
+  .main {
+    h2 {
+      font-size: 2em;
+      font-style: italic;
+    }
+    h3 {
+      font-weight: bold;
+      font-style: normal;
+      color: $blue-color;
+    }
+
+    h2 + h3 {
+      margin-top: .25em;
+    }
+  }
 }
 
-#do { color: $brightblue-color; }
-.do {
-  background-color: $brightblue-color;
-  color: white;
-  padding: 0.3em;
-}
-
-#do-not { color: $red-color; }
-.dont {
-  background-color: $red-color;
-  color: white;
-  padding: 0.3em;
-}
-
-.do,
-.dont,
-.myth {
-  font-style: italic;
-  margin-top: 1em;
-}
-
-#do + .do, // first h2 of the page section
-#do + .only_toc + .do,
-#do-not + .dont,
-#do-not + .only_toc + .dont, // first h2 of the section (after invisible anchor link)
-#myths + .myth,
-#myths + .only_toc + .myth
-{
-  margin-top: 0;
-}
-
-.myth {
+#myths ~ h3 {
+  display: flex; // this hides whitespace between quote and the title
   &::before {
     content: open-quote;
   }
