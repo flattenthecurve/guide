@@ -1,7 +1,7 @@
 ---
 layout: page_with_toc
 toc: true
-title: Δράση & προετοιμασία
+title: Τι να κάνεις
 permalink: "/act-and-prepare/"
 lang: el
 order: 1

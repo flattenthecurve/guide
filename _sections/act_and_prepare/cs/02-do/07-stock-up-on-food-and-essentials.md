@@ -4,26 +4,12 @@
 {:.do.no_toc}
 ### Vytvořte si zásoby potravin a základních potřeb - Brzy, pozvolna a zodpovědně.
 
-Diskuze:
+{% twitter https://twitter.com/firefoxx66/status/1233666678841597952 align=center %}
 
-> "Pokud se virus rozšíří všude, jaký má smysl se připravovat?"
->
-> Aneb proč skupování všech konzerv v obchodě A NEBO ignorování
-> současné situace jsou nevhodná řešení současné krize.
-> [\#COVID19](https://twitter.com/hashtag/COVID19?src=hash&ref_src=twsrc%5Etfw)
-> [\#SARSCoV2](https://twitter.com/hashtag/SARSCoV2?src=hash&ref_src=twsrc%5Etfw)
-> [\#Coronavirus](https://twitter.com/hashtag/Coronavirus?src=hash&ref_src=twsrc%5Etfw)
-> [\#SARSCoV19](https://twitter.com/hashtag/SARSCoV19?src=hash&ref_src=twsrc%5Etfw)
-> :\
-> (1/n)
->
-> --- Dr Emma Hodcroft (@firefoxx66) [February 29,
-> 2020](https://twitter.com/firefoxx66/status/1233666678841597952?ref_src=twsrc%5Etfw)
-
-"Experti neradí vytvořit si zásoby proto, že předpokládají, že by se společnost zhroutila a vy nebudete mít jak si koupit jídlo. Je to kvůli tomu, že [i jen pár dní nákupní paniky a z toho plynoucího tlaku na naše zásobovací systémy paniku jenom prohloubí a systémy budu pod větším tlakem než je nutné](https://twitter.com/firefoxx66/status/1233666678841597952). Trávit čas ve velikých frontách se spoustou dalších lidí je v současné chvíli nerozumné. Nakupujte mimo špičku. Kupte si zásob víc než zrovna potřebujete, abyste minimalizovali počet návštěv obchodu. Připravenost není založená na nicnedělání, ale vyvarujte se přehnaných reakcí. Buďte něžní a nezhoršujte už tak napjatou situaci v našech [zásobovacích systémech.](https://twitter.com/firefoxx66/status/1233666678841597952). Cílem je zvolnit poptávku, dát systémům čas a příležitost se adaptovat a zajistit, že nezbytné prostředky budou nadále k dispozici, zejména pro ty, co budou v nouzi. 
+Experti nepředpokládají, že by hrozil hladomor v důsledku společenského rozpadu a narušení dodavatelských řetězců. Nicméně [pár dní nákupní paniky a zvýšený tlak na naše zásobovací systémy povedou k prohloubení paniky a k zvýšenému tlaku](https://twitter.com/firefoxx66/status/1233666678841597952. Navíc trávit čas ve velikých frontách se spoustou dalších lidí je v současné chvíli nerozumné. Nakupujte mimo špičku. Kupte si zásob víc než zrovna potřebujete, abyste minimalizovali počet návštěv obchodu. Příprava nespočívá v nicnedělání, ale vyvarujte se přehnaných reakcí. Buďte něžní a snažte se minimalizovat váš vliv. Cílem je zvolnit poptávku, dát systémům čas a příležitost se adaptovat a zajistit, že nezbytné prostředky budou nadále k dispozic, zejména pro ty, co jsou v nouzi.
 
 Nakupujte jídlo a další prostředky zodpovědně. Doporučujeme:
-Kdekoliv to je možné, zajistěte, že prostředky buou k dispozici lidem i bez toho, aby museli do obchodu. To je zejména důležité pro lidi v rizikových skupinách, zejména v oblastech, kde se infekce začínají šířit dramatickou rychlostí. 
+- Pokud to je možné, upřednostněte nákupy přes internet a dodávku do domu, zejména jste-li v rizikové skupině a také v oblastech, ve kterých právě probíhá exponenciální růst nákazy.
  - Nakupujte mimo špičku.
  - Napište si seznam, ideálně seřazený podle toho, kde se věci v obchodě nacházejí. To vám umožní nakupovat efektivně a minimalizovat čas, který v obchodě musíte strávit.
   - Udržujte vzdálenost 2 metrů mezi vámi a ostatními. Čím dál od druhých budete, tím lépe.
