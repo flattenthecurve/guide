@@ -1,0 +1,1 @@
+## Co dělat, když onemocníte
