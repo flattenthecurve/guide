@@ -13,7 +13,7 @@ require_relative '_plugins/common'
 
 $options = {}
 OptionParser.new do |opts|
-  $options[:sci_review_notice] = false
+  $options[:sci_review_notice] = true
 
   opts.on("-r", "--[no-]sci-review-notice", "Include notices about pending scientific reviews.") do |r|
     $options[:sci_review_notice] = r
@@ -97,47 +97,53 @@ def generate_content(translations_lang, translations, no_review_keys: [])
 end
 
 def fetch_json_from_lokalise(lang: nil, filter_data: ['translated'])
-    client = Lokalise.client LOKALISE_TOKEN
-    params = {
-      format: "json",
-      filter_filename: ["pasted.json"],
-      replace_breaks: false,
-      placeholder_format: :icu,
-      filter_data: filter_data
-    }
-    if lang != nil
-      params['filter_langs'] = [lang]
+  client = Lokalise.client LOKALISE_TOKEN
+  params = {
+    format: "json",
+    filter_filename: ["pasted.json"],
+    replace_breaks: false,
+    placeholder_format: :icu,
+    filter_data: filter_data
+  }
+  if lang != nil
+    params['filter_langs'] = [lang]
+  end
+  resp = client.download_files(LOKALISE_PROJECT_ID, params)
+  result = {}
+  Zip::File.open_buffer(open(resp["bundle_url"])) { |zip|
+    zip.each do |entry|
+      next unless entry.name.end_with?("pasted.json")
+      file_lang = entry.name.split("/")[0]
+      result[file_lang] = JSON.parse(entry.get_input_stream.read)
     end
-    resp = client.download_files(LOKALISE_PROJECT_ID, params)
-    result = {}
-    Zip::File.open_buffer(open(resp["bundle_url"])) { |zip|
-      zip.each do |entry|
-        next unless entry.name.end_with?("pasted.json")
-        file_lang = entry.name.split("/")[0]
-        result[file_lang] = JSON.parse(entry.get_input_stream.read)
-      end
-    }
-    result
+  }
+  result
 end
 
 def keys_without_reviews(everything, reviewed)
-    everything.keys.to_set - reviewed.keys.to_set
+  everything.keys.to_set - reviewed.keys.to_set
 end
 
 
 puts "Fetching translations from Lokalise"
 all_translations = fetch_json_from_lokalise(lang: SINGLE_LANG)
-all_reviews = fetch_json_from_lokalise(lang: SINGLE_LANG, filter_data: ['reviewed']) 
+all_reviews = Hash.new
+begin 
+  all_reviews = fetch_json_from_lokalise(lang: SINGLE_LANG, filter_data: ['reviewed']) 
+rescue Lokalise::Error::NotAcceptable => e
+  puts "No reviewed keys found for given language"
+end
 
 puts "Translations fetched: #{all_translations.keys}"
 
 puts "Writing translation files"
 all_translations.each {|lang, json| 
-    File.open("_translations/#{lang}.json", "w:UTF-8") { |f| f.write(JSON.pretty_generate(json)) }
+  File.open("_translations/#{lang}.json", "w:UTF-8") { |f| f.write(JSON.pretty_generate(json)) }
 }
 
 all_translations.each {|lang, translations|
   reviews = all_reviews[lang]
+  reviews = Hash.new if reviews.nil?
   not_reviewed = keys_without_reviews(translations, reviews)
   puts "Generating content files for language #{lang}"
   generate_content(lang, translations, no_review_keys: not_reviewed)
