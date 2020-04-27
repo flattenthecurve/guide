@@ -7,18 +7,7 @@ require 'zip'
 require 'metadown'
 require 'set'
 require 'yaml'
-require 'optparse'
 require_relative '_plugins/common'
-
-
-$options = {}
-OptionParser.new do |opts|
-  $options[:sci_review_notice] = false
-
-  opts.on("-r", "--[no-]sci-review-notice", "Include notices about pending scientific reviews.") do |r|
-    $options[:sci_review_notice] = r
-  end
-end.parse!
 
 
 def language_dir(lang)
@@ -47,9 +36,22 @@ STRINGS = YAML.load(File.open("_data/#{SOURCE_LANG}/strings.yml", 'r:UTF-8') { |
 
 CONFIG_YML = File.open("_config.yml", 'r:UTF-8') { |f| f.read }
 SUPPORTED_LANGS = YAML.load(CONFIG_YML)['languages']
+SCI_REVIEW_CFG = YAML.load(CONFIG_YML)['sci_review_notice_config']
 NEW_LANGS = []
 
-def generate_content(translations_lang, translations, no_review_keys: [])
+def should_have_sci_review_notice(lang, section, translated_file, no_review_keys: [])
+  # Check if review notices are enabled for this language
+  return false if SCI_REVIEW_CFG['explicitly_disabled_for_languages'].include? lang
+  return false if !SCI_REVIEW_CFG['enabled_by_default'] and !SCI_REVIEW_CFG['explicitly_enabled_for_languages'].include? lang
+
+  return false if translated_file !~ /act_and_prepare/
+  return false if !no_review_keys.include? section
+  # Exclude  /00-blah.md headers
+  return false if File.basename(translated_file) =~ /^00-/
+  return true
+end
+
+def generate_content(lang, translations, no_review_keys: [])
   FileUtils.rm_r(Dir[language_dir(translations_lang)], force: true)
 
   SECTIONS_TO_FILES.each do |section, source_file|
@@ -58,8 +60,8 @@ def generate_content(translations_lang, translations, no_review_keys: [])
     FileUtils.mkdir_p(translated_dir)
     File.open(translated_file, "w:UTF-8") { |file|
       content = translations[section]
-      if $options[:sci_review_notice] and translated_dir =~ /act_and_prepare/ and no_review_keys.include? section
-        puts "Adding scientific-review disclaimer to #{translations_lang} #{section}"
+      if should_have_sci_review_notice(lang, section, translated_file, no_review_keys: no_review_keys)
+        puts "Adding scientific-review disclaimer to #{lang} #{section}"
         # Find the last header line and insert after it.
         lines = content.lines
         last_hdr = lines.rindex{|e| e =~ /^#/}
@@ -69,7 +71,7 @@ def generate_content(translations_lang, translations, no_review_keys: [])
         else
           last_hdr = last_hdr + 1
         end
-        lines.insert(last_hdr, "\n{% pending-sci-review.html %}\n")
+        lines.insert(last_hdr, "\n{% include pending-sci-review.html %}\n")
         content = lines.join("")
       end
       file.puts content
@@ -97,47 +99,53 @@ def generate_content(translations_lang, translations, no_review_keys: [])
 end
 
 def fetch_json_from_lokalise(lang: nil, filter_data: ['translated'])
-    client = Lokalise.client LOKALISE_TOKEN
-    params = {
-      format: "json",
-      filter_filename: ["pasted.json"],
-      replace_breaks: false,
-      placeholder_format: :icu,
-      filter_data: filter_data
-    }
-    if lang != nil
-      params['filter_langs'] = [lang]
+  client = Lokalise.client LOKALISE_TOKEN
+  params = {
+    format: "json",
+    filter_filename: ["pasted.json"],
+    replace_breaks: false,
+    placeholder_format: :icu,
+    filter_data: filter_data
+  }
+  if lang != nil
+    params['filter_langs'] = [lang]
+  end
+  resp = client.download_files(LOKALISE_PROJECT_ID, params)
+  result = {}
+  Zip::File.open_buffer(open(resp["bundle_url"])) { |zip|
+    zip.each do |entry|
+      next unless entry.name.end_with?("pasted.json")
+      file_lang = entry.name.split("/")[0]
+      result[file_lang] = JSON.parse(entry.get_input_stream.read)
     end
-    resp = client.download_files(LOKALISE_PROJECT_ID, params)
-    result = {}
-    Zip::File.open_buffer(open(resp["bundle_url"])) { |zip|
-      zip.each do |entry|
-        next unless entry.name.end_with?("pasted.json")
-        file_lang = entry.name.split("/")[0]
-        result[file_lang] = JSON.parse(entry.get_input_stream.read)
-      end
-    }
-    result
+  }
+  result
 end
 
 def keys_without_reviews(everything, reviewed)
-    everything.keys.to_set - reviewed.keys.to_set
+  everything.keys.to_set - reviewed.keys.to_set
 end
 
 
 puts "Fetching translations from Lokalise"
 all_translations = fetch_json_from_lokalise(lang: SINGLE_LANG)
-all_reviews = fetch_json_from_lokalise(lang: SINGLE_LANG, filter_data: ['reviewed']) 
+all_reviews = Hash.new
+begin 
+  all_reviews = fetch_json_from_lokalise(lang: SINGLE_LANG, filter_data: ['reviewed']) 
+rescue Lokalise::Error::NotAcceptable => e
+  puts "No reviewed keys found for given language"
+end
 
 puts "Translations fetched: #{all_translations.keys}"
 
 puts "Writing translation files"
 all_translations.each {|lang, json| 
-    File.open("_translations/#{lang}.json", "w:UTF-8") { |f| f.write(JSON.pretty_generate(json)) }
+  File.open("_translations/#{lang}.json", "w:UTF-8") { |f| f.write(JSON.pretty_generate(json)) }
 }
 
 all_translations.each {|lang, translations|
   reviews = all_reviews[lang]
+  reviews = Hash.new if reviews.nil?
   not_reviewed = keys_without_reviews(translations, reviews)
   puts "Generating content files for language #{lang}"
   generate_content(lang, translations, no_review_keys: not_reviewed)
