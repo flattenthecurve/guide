@@ -12,20 +12,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/cache@v1
-        with:
-          path: ~/cache/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
       - name: Pull Lokalise translations
         env:
           LOCALIZE_TOKEN: ${{ secrets.LOCALIZE_TOKEN }}
           IMPORT_LANG: cs
         run: |
-          mv docker-compose.ci.yml docker-compose.override.yml
           ./import-translations.sh $LOCALIZE_TOKEN $IMPORT_LANG
-          mv docker-compose.override.yml docker-compose.ci.yml
       - name: Commit changes to branch
         env:
           IMPORT_LANG: cs
