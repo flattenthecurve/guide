@@ -49,6 +49,15 @@ CONFIG_YML = File.open("_config.yml", 'r:UTF-8') { |f| f.read }
 SUPPORTED_LANGS = YAML.load(CONFIG_YML)['languages']
 NEW_LANGS = []
 
+def should_have_sci_review_notice(section, translated_file, no_review_keys: [])
+  return false if !$options[:sci_review_notice]
+  return false if translated_file !~ /act_and_prepare/
+  return false if !no_review_keys.include? section
+  # Exclude  /00-blah.md headers
+  return false if File.basename(translated_file) =~ /^00-/
+  return true
+end
+
 def generate_content(translations_lang, translations, no_review_keys: [])
   FileUtils.rm_r(Dir[language_dir(translations_lang)], force: true)
 
@@ -58,7 +67,7 @@ def generate_content(translations_lang, translations, no_review_keys: [])
     FileUtils.mkdir_p(translated_dir)
     File.open(translated_file, "w:UTF-8") { |file|
       content = translations[section]
-      if $options[:sci_review_notice] and translated_dir =~ /act_and_prepare/ and no_review_keys.include? section
+      if should_have_sci_review_notice(section, translated_file, no_review_keys: no_review_keys)
         puts "Adding scientific-review disclaimer to #{translations_lang} #{section}"
         # Find the last header line and insert after it.
         lines = content.lines
@@ -69,7 +78,7 @@ def generate_content(translations_lang, translations, no_review_keys: [])
         else
           last_hdr = last_hdr + 1
         end
-        lines.insert(last_hdr, "\n{% pending-sci-review.html %}\n")
+        lines.insert(last_hdr, "\n{% include pending-sci-review.html %}\n")
         content = lines.join("")
       end
       file.puts content
