@@ -7,18 +7,7 @@ require 'zip'
 require 'metadown'
 require 'set'
 require 'yaml'
-require 'optparse'
 require_relative '_plugins/common'
-
-
-$options = {}
-OptionParser.new do |opts|
-  $options[:sci_review_notice] = true
-
-  opts.on("-r", "--[no-]sci-review-notice", "Include notices about pending scientific reviews.") do |r|
-    $options[:sci_review_notice] = r
-  end
-end.parse!
 
 
 def language_dir(lang)
@@ -47,10 +36,14 @@ STRINGS = YAML.load(File.open("_data/#{SOURCE_LANG}/strings.yml", 'r:UTF-8') { |
 
 CONFIG_YML = File.open("_config.yml", 'r:UTF-8') { |f| f.read }
 SUPPORTED_LANGS = YAML.load(CONFIG_YML)['languages']
+SCI_REVIEW_CFG = YAML.load(CONFIG_YML)['sci_review_notice_config']
 NEW_LANGS = []
 
-def should_have_sci_review_notice(section, translated_file, no_review_keys: [])
-  return false if !$options[:sci_review_notice]
+def should_have_sci_review_notice(lang, section, translated_file, no_review_keys: [])
+  # Check if review notices are enabled for this language
+  return false if SCI_REVIEW_CFG['explicitly_disabled_for_languages'].include? lang
+  return false if !SCI_REVIEW_CFG['enabled_by_default'] and !SCI_REVIEW_CFG['explicitly_enabled_for_languages'].include? lang
+
   return false if translated_file !~ /act_and_prepare/
   return false if !no_review_keys.include? section
   # Exclude  /00-blah.md headers
@@ -58,7 +51,7 @@ def should_have_sci_review_notice(section, translated_file, no_review_keys: [])
   return true
 end
 
-def generate_content(translations_lang, translations, no_review_keys: [])
+def generate_content(lang, translations, no_review_keys: [])
   FileUtils.rm_r(Dir[language_dir(translations_lang)], force: true)
 
   SECTIONS_TO_FILES.each do |section, source_file|
@@ -67,8 +60,8 @@ def generate_content(translations_lang, translations, no_review_keys: [])
     FileUtils.mkdir_p(translated_dir)
     File.open(translated_file, "w:UTF-8") { |file|
       content = translations[section]
-      if should_have_sci_review_notice(section, translated_file, no_review_keys: no_review_keys)
-        puts "Adding scientific-review disclaimer to #{translations_lang} #{section}"
+      if should_have_sci_review_notice(lang, section, translated_file, no_review_keys: no_review_keys)
+        puts "Adding scientific-review disclaimer to #{lang} #{section}"
         # Find the last header line and insert after it.
         lines = content.lines
         last_hdr = lines.rindex{|e| e =~ /^#/}
