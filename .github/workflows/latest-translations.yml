@@ -1,0 +1,38 @@
+# Prototype of latest-translation/$lang workflow
+# TODO: generalize to run on all live languages
+# TODO: automatically add all-translated, all-reviewed tags when the conditions are met
+# TODO: Consider running stable deployments for these branches (one that can be easily accessed)
+name: Sync latest-translation/$lang branch
+on:
+  schedule:
+    # Run once per hours to start with.
+    - cron: '12 * * * *' 
+jobs:
+  pull_from_lokalise:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/cache@v1
+        with:
+          path: ~/cache/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - name: Pull Lokalise translations
+        env:
+          LOCALIZE_TOKEN: ${{ secrets.LOCALIZE_TOKEN }}
+          IMPORT_LANG: cs
+        run: |
+          mv docker-compose.ci.yml docker-compose.override.yml
+          ./import-translations.sh $LOCALIZE_TOKEN $IMPORT_LANG
+          mv docker-compose.override.yml docker-compose.ci.yml
+      - name: Commit changes to branch
+        env:
+          IMPORT_LANG: cs
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+          GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
+        run: ./_scripts/git-push.sh latest-translation/cs "Fetch new cs translations from Lokalise"
+        
+
+
