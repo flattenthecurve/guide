@@ -51,6 +51,16 @@ exclude:
   - build
 
 languages: ["en", "es", "de", "fr", "it", "el", "ru", "cs", "mr", "sv"]
+
+# Configuration for pending-sci-review notices. This is used by the 
+# import_languages.rb script when pulling translations from lokalise.
+
+# This controls whether sci notices are enabled or disabled by default.
+sci_review_notice_config:
+  enabled_by_default: false
+  explicitly_enabled_for_languages: []
+  explicitly_disabled_for_languages: []
+
 default_lang: 'en'
 exclude_from_localization: ['assets', 'css', 'build']
 parallel_localization: false
