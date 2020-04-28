@@ -95,7 +95,7 @@ def generate_content(lang, translations, no_review_keys: [])
   translated_strings = Hash[STRINGS.map { |key, value| [key, translations[key]] }]
   FileUtils.mkdir_p(translated_strings_dir)
   File.open("#{translated_strings_dir}/strings.yml", 'w:UTF-8') {|f| f.puts translated_strings.to_yaml }
-  NEW_LANGS << lang unless SUPPORTED_LANGS.include? translations_lang
+  NEW_LANGS << lang unless SUPPORTED_LANGS.include? lang
 end
 
 def fetch_json_from_lokalise(lang: nil, filter_data: ['translated'])
