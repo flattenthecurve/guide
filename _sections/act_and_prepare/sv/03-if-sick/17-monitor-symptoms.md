@@ -1,16 +1,14 @@
 ### Förstå när du behöver vård
 
-{% include pending-sci-review.html %}
-
 Sammanställt från [denna WHO-rapport](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
 Vanliga symtom 
 
 <div class="table-wrap" markdown="1">
- | symptom | procent | symptom | procent | symptom | procent | 
- | ---------- | ---------- | ---------------- | ---------- | -------------------- | ---------- | 
- | Feber | 88% | Trötthet | 38% | Andnöd | 18% | 
- | Torr hosta | 68% | Slemproduktion | 33,4% | Halsont | 14% | 
- | Huvudvärk | 14% | Muskelvärk | 14% | Frossa | 11% | 
+| symptom | procent | symptom | procent | symptom | procent | 
+| ----------| ---------- | ----------------| ---------- | --------------------  | ---------- |
+| Feber | 88% | Trötthet | 38% | Andnöd | 18% | 
+| Torr hosta | 68% | Slemproduktion | 33,4% | Halsont | 14% | 
+| Huvudvärk | 14% | Muskelvärk | 14% | Frossa | 11% | 
 </div>
 
 **Sök endast vård när du har svårt att andas, eller om du har andnöd (sittande, på toaletten, under promenader, osv.)** 

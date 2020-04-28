@@ -1,7 +1,5 @@
 ### Skaka inte hand 
 
-{% include pending-sci-review.html %}
-
 [Några roliga alternativ:](https://twitter.com/figgyjam/status/1234659499169857536)
 
  - Handen över hjärtat

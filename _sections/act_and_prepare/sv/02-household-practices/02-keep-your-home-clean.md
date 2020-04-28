@@ -1,7 +1,5 @@
 ### Håll ditt hem rent och desinficera
 
-{% include pending-sci-review.html %}
-
 [Du kan hitta CDC-rekommendationer här.](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html) 
 
 Rengör OCH desinficera ofta berörda ytor dagligen. Detta inkluderar bord, dörrhandtag, ljusströmbrytare, bänkskivor, handtag, skrivbord, telefoner, tangentbord, toaletter, kranar och handfat. Om ytorna är smutsiga, rengör dem med tvättmedel eller tvål och vatten före desinfektion. 

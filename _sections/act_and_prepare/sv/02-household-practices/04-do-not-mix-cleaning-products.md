@@ -1,7 +1,5 @@
 ### Blanda inte rengöringsmedel
 
-{% include pending-sci-review.html %}
-
 Dessa rengöringsprodukter blir farliga när de blandas: 
 
 Produkter | Negativt resultat

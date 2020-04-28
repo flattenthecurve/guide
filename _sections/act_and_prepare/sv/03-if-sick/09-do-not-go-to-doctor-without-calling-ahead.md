@@ -4,8 +4,6 @@
 {:.dont.no_toc} 
 ### Gå inte till läkaren utan att ringa först 
 
-{% include pending-sci-review.html %}
-
 Åk INTE direkt till sjukhuset. Mer vägledning från CDC [här](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html). I Sverige, [använd dig av 1177](https://www.1177.se/sjukdomar--besvar/infektioner/ovanliga-infektioner/covid-19-coronavirus/). Vid andnöd, ring 112.
 
 Telefonisterna är såklart överväldigade just nu med alla "oroliga friska", så försök att lämna dessa operatörer öppna för de människor som verkligen behöver dem. 

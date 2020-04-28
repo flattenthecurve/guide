@@ -1,7 +1,5 @@
 ### Bär ansiktsmask när du vistas offentligt 
 
-{% include pending-sci-review.html %}
-
 Kontext: "ansiktsmask" innebär alla sätt att täcka ansiktet, inklusive halsdukar, schaletter, och snusnäsduk.
 
 Om du absolut måste vistas offentligt där andra människor finns, köp en tygmask eller gör din egen, precis som sjukhus i USA börjar göra.
