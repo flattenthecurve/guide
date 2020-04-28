@@ -52,10 +52,10 @@ def should_have_sci_review_notice(lang, section, translated_file, no_review_keys
 end
 
 def generate_content(lang, translations, no_review_keys: [])
-  FileUtils.rm_r(Dir[language_dir(translations_lang)], force: true)
+  FileUtils.rm_r(Dir[language_dir(lang)], force: true)
 
   SECTIONS_TO_FILES.each do |section, source_file|
-    translated_file = source_file.sub("/en/", "/#{translations_lang}/")
+    translated_file = source_file.sub("/en/", "/#{lang}/")
     translated_dir = File.dirname(translated_file)
     FileUtils.mkdir_p(translated_dir)
     File.open(translated_file, "w:UTF-8") { |file|
@@ -81,9 +81,9 @@ def generate_content(lang, translations, no_review_keys: [])
   TOP_LEVEL_PAGES.each do |page, source_file|
     source_content = File.open(source_file, 'r:UTF-8') { |f| f.read }
     metadata = Metadown.render(source_content).metadata
-    metadata["lang"] = translations_lang
+    metadata["lang"] = lang
     metadata["title"] = translations["#{page}-title"] if translations["#{page}-title"]
-    translated_file = source_file.sub(/-en.md$/, "-#{translations_lang}.md")
+    translated_file = source_file.sub(/-en.md$/, "-#{lang}.md")
     File.open(translated_file, "w:UTF-8") { |file|
       file.puts metadata.to_yaml
       file.puts "---\n"
@@ -91,11 +91,11 @@ def generate_content(lang, translations, no_review_keys: [])
     }
   end
 
-  translated_strings_dir = "_data/#{translations_lang}"
+  translated_strings_dir = "_data/#{lang}"
   translated_strings = Hash[STRINGS.map { |key, value| [key, translations[key]] }]
   FileUtils.mkdir_p(translated_strings_dir)
   File.open("#{translated_strings_dir}/strings.yml", 'w:UTF-8') {|f| f.puts translated_strings.to_yaml }
-  NEW_LANGS << translations_lang unless SUPPORTED_LANGS.include? translations_lang
+  NEW_LANGS << lang unless SUPPORTED_LANGS.include? lang
 end
 
 def fetch_json_from_lokalise(lang: nil, filter_data: ['translated'])
