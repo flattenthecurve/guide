@@ -50,7 +50,7 @@ exclude:
   - import_language.rb
   - build
 
-languages: ["en", "es", "de", "fr", "it", "el", "ru", "cs", "mr"]
+languages: ["en", "es", "de", "fr", "it", "el", "ru", "cs", "mr", "nl"]
 
 # Configuration for pending-sci-review notices. This is used by the 
 # import_languages.rb script when pulling translations from lokalise.
