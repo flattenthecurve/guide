@@ -4,11 +4,13 @@ Sammanställt från [denna WHO-rapport](https://www.who.int/docs/default-source/
 Vanliga symtom 
 
 <div class="table-wrap" markdown="1">
+
 | symptom | procent | symptom | procent | symptom | procent | 
 | ----------| ---------- | ----------------| ---------- | --------------------  | ---------- |
 | Feber | 88% | Trötthet | 38% | Andnöd | 18% | 
 | Torr hosta | 68% | Slemproduktion | 33,4% | Halsont | 14% | 
 | Huvudvärk | 14% | Muskelvärk | 14% | Frossa | 11% | 
+
 </div>
 
 **Sök endast vård när du har svårt att andas, eller om du har andnöd (sittande, på toaletten, under promenader, osv.)** 
