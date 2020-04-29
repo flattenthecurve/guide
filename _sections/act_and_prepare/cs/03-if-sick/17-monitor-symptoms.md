@@ -32,7 +32,7 @@ Rekonvalescence (v případě zápalu plic):
 -  Kritický průběh (s [ARDS](https://cs.wikipedia.org/wiki/Syndrom_akutn%C3%AD_dechov%C3%A9_t%C3%ADsn%C4%9B)): 30-40% smrtnost. Rekonvalescence může trvat několik měsíců.
 
 Aplikace pro sledování příznaků:  
--  Spojené státy: [covidaware.me](https://covidaware.me)
--  Británie: [covid.joinzoe.com]
+-  Spojené státy: [covidaware.me](https://covidaware.me/)
+-  Británie: [covid.joinzoe.com](https://covid.joinzoe.com)
 -  Kalifornie: [flatten.ca](https://flatten.ca/)
 -  Japonsko: [coronatracker.com](https://www.coronatracker.com/)

@@ -2,7 +2,9 @@
 
 {% include pending-sci-review.html %}
 
-[Zde najdete doporučení jak dezinfikovat v domácnosti](https://www.seznamzpravy.cz/clanek/koronavirus-u-vas-doma-jak-spravne-dezinfikovat-v-domacnosti-95594)
+[Doporučení od CDC (v Angličtině) najdete zde.](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html)
+
+[Zde najdete doporučení jak dezinfikovat v domácnosti (v Češtině)](https://www.seznamzpravy.cz/clanek/koronavirus-u-vas-doma-jak-spravne-dezinfikovat-v-domacnosti-95594)
 
 Čistěte a dezinfikujte často používané povrchy a předměty, jako kupř. stoly, kliky, vypínače, pracovní plochy, klávesnice, telefony, kohoutky, dřezy a podobně. Špinavé povrchy nejprve omyjte mýdlovou vodou nebo podobnými čisticími prostředky před tím, než je budete dezinfikovat.
 
