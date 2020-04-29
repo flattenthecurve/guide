@@ -1,6 +1,6 @@
+### Was je handen 
 
 {% include pending-sci-review.html %}
- ### Was je handen 
 
 \> 20 seconden met zeep en warm water. [Dit zijn geweldige opties](https://www.seattletimes.com/life/wellness/coronavirus-prevention-10-awesome-tunes-to-sing-while-you-wash-your-hands/?utm_medium=social&utm_campaign=owned_echobox_tw_m&utm_source=Twitter#Echobox=1583369786) voor liedjes om te zingen om je te helpen de tijd te doden. In tegenstelling tot sommige echt hardnekkige virussen (zoals polio), overleven virussen in de coronavirusfamilie doorgaans [niet langer dan een paar uur op de meeste harde oppervlakken; hoewel dat tot enkele dagen kan duren. Bleekmiddel of ethanol zijn effectiever in het ontsmetten van oppervlakken dan het desinfecteren van mensenhuid](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext). Hamster dus geen alcohol gel, dat mag alleen worden gebruikt als je geen toegang hebt tot een gootsteen om je handen met water en zeep te wassen. In een restaurant? Was je handen. Op school? Was je handen. Krachtig handen wassen met zeep is echt nodig om de overdracht te verminderen; de geweldige wetenschap van hoe dat nu juist werkt, vind je [hier](https://twitter.com/PalliThordarson/status/1236549305189597189). 
  **Als je niets anders doet, was dan tenminste je handen.** 

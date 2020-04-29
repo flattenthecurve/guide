@@ -1,6 +1,6 @@
+### Ga niet naar de dokter zonder vooraf te bellen 
 
 {% include pending-sci-review.html %}
- ### Ga niet naar de dokter zonder vooraf te bellen 
 
  Ga NIET rechtstreeks naar het ziekenhuis. Meer richtlijnen van de CDC [hier](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html). 
 

@@ -1,8 +1,6 @@
+### Meng de volgende reinigingsmiddelen niet 
 
 {% include pending-sci-review.html %}
- ### Meng geen schoonmaakmiddelen 
-
- ### Meng de volgende reinigingsmiddelen niet 
 
  Deze reinigingsproducten worden gevaarlijk wanneer ze worden gemengd: 
 

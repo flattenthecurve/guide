@@ -1,6 +1,6 @@
+### Weet wanneer je naar het ziekenhuis moet gaan
 
 {% include pending-sci-review.html %}
- ### Weet wanneer je naar het ziekenhuis moet gaan
 
 Samengesteld uit [dit WHO-rapport](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf) 
  Veel voorkomende symptomen 

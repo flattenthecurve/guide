@@ -1,6 +1,6 @@
+### Annuleer alle niet-essentiële medische afspraken 
 
 {% include pending-sci-review.html %}
- ### Annuleer alle niet-essentiële medische afspraken 
 
 Ziekenhuizen zijn hotspots voor overdracht; laat je vaccineren bij een apotheek in plaats van bij de dokter. Zoek indien mogelijk manieren om je fysiotherapie thuis te doen. 
 
