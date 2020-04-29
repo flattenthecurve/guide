@@ -7,7 +7,7 @@
  - Buga
  - Nig 
  - "Live long and prosper"
- - [Vinka med fingret](https://www.facebook.com/rashiphop/videos/224963291966743/UzpfSTU1ODc3NTY4NToxMDE1NzE2NTYzODMyNTY4Ng/?q=coronavirus&epa=FILTERS&filters=eyJycF9hdXRob3IiOiJ7XCJuYW1lXCI6XCJhdXRob3JfZnJpZW5kc19mZWVkXCIsXCJhcmdzXCI6XCJcIn0ifQ %3D% 3D) 
+ - [Vinka med fingret](https://www.facebook.com/rashiphop/videos/224963291966743/UzpfSTU1ODc3NTY4NToxMDE1NzE2NTYzODMyNTY4Ng/?q=coronavirus&epa=FILTERS&filters=eyJycF9hdXRob3IiOiJ7XCJuYW1lXCI6XCJhdXRob3JfZnJpZW5kc19mZWVkXCIsXCJhcmdzXCI6XCJcIn0ifQ%3D%3D) 
  - Vinka som en kunglighet
  - [Jazz hands](https://www.thebroadwaybeat.com/post/cdc-urges-citizens-to-avoid-spreading-coronavirus-by-greeting-exclusively-with-jazz-hands) 
 
