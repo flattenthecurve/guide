@@ -1,4 +1,15 @@
-{% if site.data[site.active_lang].strings['pending-sci-review'] %}
+{% assign show_notice = site.sci_review_notice_config.enabled_by_default %}
+{% if site.sci_review_notice_config.explicitly_enabled_for_languages contains site.active_lang %}
+  {% assign show_notice = true %}
+{% endif %}
+{% if site.sci_review_notice_config.explicitly_disabled_for_languages contains site.active_lang %}
+  {% assign show_notice = false %}
+{% endif %} 
+{% unless site.data[site.active_lang].strings['pending-sci-review'] %}
+  {% assign show_notice = false %}
+{% endunless %}
+
+{% if show_notice %}
 <p class="disclaimer" markdown="1">
   {{ site.data[site.active_lang].strings['pending-sci-review'] }}
 </p>
