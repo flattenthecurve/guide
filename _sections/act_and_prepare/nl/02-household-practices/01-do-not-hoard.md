@@ -1,7 +1,5 @@
 
 {% include pending-sci-review.html %}
-{:.dont} 
- 
  ### Hamster geen voorraden
 
 Door hamsteren kunnen artikelen gemakkelijk schaars worden. Veelvoorkomende producten met tekorten zijn onder meer toiletpapier, flessenwater en medische benodigdheden. 

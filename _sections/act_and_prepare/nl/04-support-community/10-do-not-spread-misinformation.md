@@ -1,4 +1,3 @@
-{:.dont}
 ### Verspreid geen verkeerde informatie
 
 {% include pending-sci-review.html %}

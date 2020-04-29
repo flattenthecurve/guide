@@ -1,7 +1,3 @@
-{:.only_toc}
-### De media overdrijft dit.
-
-{:.mythe.no_toc}
 ### De media overdrijft dit. Mensen zijn gewoon in paniek.
 
 {% include pending-sci-review.html %}

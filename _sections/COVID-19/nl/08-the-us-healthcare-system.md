@@ -1,9 +1,10 @@
-{:.only_toc} 
- # Gezondheidszorgsysteem VS
+{:.no_toc} 
+ ## Geen enkel land is volledig voorbereid, ook de Verenigde Staten niet 
 
- {:.no_toc} 
- # Het Amerikaanse gezondheidszorgsysteem is niet goed voorbereid. Niemand is goed voorbereid.
+Hoewel het [WHO's JEE rapport van 2016](https://apps.who.int/iris/bitstream/handle/10665/254701/WHO-WHE-CPI-2017.13-eng.pdf) de Verenigde Staten zeer goed beoordeelt voor een noodsituatie voor de volksgezondheid, heeft een [onderzoek van de Johns Hopkins University](https://jhu.pure.elsevier.com/en/publications/pandemic-influenza-and-major-disease-outbreak-preparedness-in-us--7) opgemerkt dat "er grote gaten lijken te bestaan in de planning van pandemische influenza en andere plannen voor het uitbreken van besmettelijke ziekten bij de ziekenhuizen". 
+Volgens de prognoses van [IHME van 1 april](http://www.healthdata.org/sites/default/files/files/Projects/COVID/Estimation_update_040120.pdf) "wordt voorspeld dat de VS in totaal 262.092 ziekenhuisbedden nodig heeft (39.727 voor ICU) en 31.782 ventilatoren om COVD-19-patiënten te ondersteunen. Deze vraag naar ziekenhuismiddelen zou kunnen leiden tot een landelijk tekort van in totaal 87.674 ziekenhuisbedden en 19.863 ICU-bedden gezien de huidige COVID-19-trajecten." 
+We hebben simpelweg niet de apparatuur, training of berichtgeving en we moeten snel groeien. 
+Niemand is genoeg voorbereidt. 
+Daarom zijn jouw keuzes vandaag zo belangrijk. 
 
-In de VS bedraagt onze capaciteit voor gezondheidszorg minder dan 1 miljoen bemande bedden; dit is niet toereikend om het aantal [ziekenhuisopnames die  worden verwacht (4-8 miljoen)] (https://www.bloomberg.com/opinion/articles/2020-03-05/how-bad-is-the-coronavirus-let-s-compare-with- sars-ebola-griep). Johns Hopkins University deed een driejarig wereldwijd onderzoek naar de voorbereiding op een pandemie. Hoewel de VS aan de top van de landen stonden, scoorden zelfs de VS slechts [een score van 42 op 100.] (https://jhu.pure.elsevier.com/en/publications/pandemic-influenza-and-major-disease-outbreak-preparedness-in-us--7) We hebben gewoon niet de apparatuur, training of berichtgeving en we moeten snel de productie verhogen. Niemand heeft alle voorzieningen. Daarom zijn uw keuzes vandaag zo belangrijk. 
-
-En degenen onder ons met Italiaanse collega's in het noorden (het hardst getroffen) weten dat ze uitzonderlijke artsen, dokters voor infectieziekten hebben en  immunologen. En effectief universele zorg. [Dit is geen verhaal over de ontwikkelingswereld dat niet relevant is voor de Amerikaanse situatie.] (Https://twitter.com/drkomanduri/status/1236720751073546240) 
+Degenen onder ons met collega's in Noord-Italië (de zwaarst getroffen regio) weten dat ze uitzonderlijke artsen, dokters voor infectieziekten en immunologen hebben. Ze hebben ook effectief universele zorg, dus [dit is geen verhaal over de ontwikkelingswereld dat niet relevant is voor de Amerikaanse situatie.](https://twitter.com/drkomanduri/status/1236720751073546240) 

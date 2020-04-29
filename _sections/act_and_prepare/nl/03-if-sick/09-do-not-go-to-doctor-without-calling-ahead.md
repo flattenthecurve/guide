@@ -1,12 +1,8 @@
 
 {% include pending-sci-review.html %}
-{:.only_toc} 
- ### Bel van te voren
-
- {:.dont.no_toc} 
  ### Ga niet naar de dokter zonder vooraf te bellen 
 
- Ga NIET rechtstreeks naar het ziekenhuis. Meer richtlijnen van de CDC [hier] (https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html). 
+ Ga NIET rechtstreeks naar het ziekenhuis. Meer richtlijnen van de CDC [hier](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html). 
 
 Callcenters zijn op dit moment begrijpelijkerwijs overweldigd door gezonde bellers die zich zorgen maken, dus probeer die lijnen open te laten voor de mensen die ze echt nodig hebben. 
 

@@ -1,4 +1,4 @@
-### Wees bewust, kijk niet de hele dag naar het nieuws
+### kijk niet de hele dag naar het nieuws of sociale media
 
 {% include pending-sci-review.html %}
 

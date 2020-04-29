@@ -1,39 +1,51 @@
-<div markdown="1" class="hero"> 
- 
- {: .no_toc.text-center} 
- # De curve afvlakken 
+<div markdown="1" class="row col-3 do-these">
+<div markdown="1">
+### Vermijd contact
+Blijf thuis. Als je naar buiten moet, vermijd dan nauw contact.
+</div>
+<div markdown="1">
+### Was je handen
+grondig en regelmatig en raak je gezicht niet aan.
+</div>
+<div markdown="1">
+### Blijf kalm
+Voorkom paniek en help een handje als het veilig is.
+</div>
+</div>
 
- {: .no_toc.text-center.get-informed.narrow} 
- ## COVID-19 is officieel een wereldwijde pandemie, laten we ons informeren en samen optreden. 
 
- {: .no_toc.text-center} 
- #### Bijgewerkt {{site.data.last_updated [site.active_lang]}} 
+{:.no_toc.text-center.headline}
+# Flatten the Curve. Red Levens.
 
- <div class="missions"> 
- <div markdown="1" class="mission"> 
- {: .no_toc.highlight-box} 
- ## Voorbereid niet in paniek 
-Proactief en met wederzijdse ondersteuning reageren op een exponentiële groei van COVID-19. 
- </div> 
- <div markdown="1" class="mission"> 
- {: .no_toc.highlight-box} 
- ## Geverifieerde collectieve informatie 
-Medisch geverifieerde informatie via eenvoudig te begrijpen samenvattingen die zijn geschreven door mensen zoals u en artsen. 
- </div> 
- <div markdown="1" class="mission"> 
- {: .no_toc.highlight-box} 
- ## Wereldwijd, inclusief, realtime 
- Bijgewerkt met opkomende informatie en open source in zoveel mogelijk talen. 
- </div> 
- </div> 
- 
- </div> 
- 
- {: .text-center.narrow} 
- Individueel is het moeilijk om het nieuws bij te houden en het is moeilijk om te weten wat waar is. Lees, draag bij en deel hier feitelijk verzamelde informatie om ons allemaal te helpen. 
+{:.no_toc.text-center.get-informed.narrow}
+## Actuele informatie over COVID-19, geverifieerd door deskundigen, zodat we de verspreiding kunnen vertragen en voorkomen dat ziekenhuizen worden overspoeld.
 
- {: .text-center} 
- [** \ > \ > Meld je aan om updates te ontvangen van het team van wetenschappers van FlattenTheCurve.com \ < \ < **] (http://eepurl.com/gXKkvn) 
+<div class="row col-3 ctas push-up-2">
+<div markdown="1" class="mission">
+{:.no_toc.highlight-box}
+## Wat te doen
+Wat je zou moeten doen](/act-and-prepare/#do) en [niet doen](/act-and-prepare/#do-niet) en [mythen](/act-and-prepare/#mythen) om te negeren.
+</div>
+<div markdown="1" class="mission">
+{:.no_toc.highlight-box}
+## Blijf op de hoogte
+Lees hier, of [meld je aan](https://flattenthecurve.us19.list-manage.com/subscribe?u=53111597c23260bb37be0d83bd=d761f8277e) voor gratis updates van wetenschappers en gezondheidsdeskundigen.
+</div>
+<div markdown="1" class="mission">
+{:.no_toc.highlight-box}
+## Verspreid het woord
+Deel deze informatie nu met al je vrienden en geliefden
+</div>
+</div>
 
- {: .text-center.narrow} 
- _Gratis aanmelden, geen SPAM of marketing_ 
+<div class="row col-2 push-up-1">
+<div markdown="1">
+## Wetenschap & Teamwerk
+Op 12 maart 2020 werkten medische deskundigen uit de hele wereld samen om de meest actuele informatie te verstrekken over hoe COVID-19 te verslaan. In die eerste week hebben we 1,2 miljoen mensen bereikt. We stoppen niet! 
+</div>
+<div markdown="1">
+## Wil je meewerken?
+Deze site wordt onderhouden door een team van medische experts, vertalers, ingenieurs en ontwerpers die hun tijd vrijmaken. Wil je [helpen](/bijdragen)?
+</div>
+
+</div>

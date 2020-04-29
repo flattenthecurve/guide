@@ -1,7 +1,7 @@
 ---
 layout: page_with_toc
 toc: true
-title: Doen en voorbereiden
+title: Wat te doen
 permalink: "/act-and-prepare/"
 lang: nl
 order: 1
