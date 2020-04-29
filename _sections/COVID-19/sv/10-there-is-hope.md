@@ -4,4 +4,4 @@ Du kan hjälpa till genom att följa så mycket som möjligt av följande vägle
 
 Från en kär vän i Beijing: "Styr så långt bort du kan från den rädsla och hysteri som kan nå dina städer. Använd er visdom, men låt den inte bli en tom ursäkt för att inte älska dina medmänniskor. Välj generositet framför att hamstra. Och under de riktigt svåra dagarna (eller kanske efter att ha sett för mycket på nyheterna) vrid upp musiken och dansa! Fira godheten! Den finns där, den kommer att finnas kvar, och du kan vara en spridare av den!" 
 
-[Detta är hur.] (/act-and-prepare/)
+[Detta är hur.](/act-and-prepare/)

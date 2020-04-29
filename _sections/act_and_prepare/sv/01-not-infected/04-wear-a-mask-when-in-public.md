@@ -10,7 +10,7 @@ En viruspartikel som orsakar COVID-19 är ungefär lika stor som Influensa-parti
 
 Den 3 april gick "US Center for Disease Control" (CDC) ut med rekommendationen, "att bära tygmasker i offentliga miljöer där andra sociala distansåtgärder är svåra att underhålla (t.ex. livsmedelsbutiker och apotek) **särskilt** i områden med betydande samhällsspridning". Se [artikeln på deras webbplats](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html) 
 
-Den 3 april sade Världshälsoorganisationens främsta expert på nödsituationer, Mike Ryan, under deras dagliga nyhetskonferens: "(...) idén att använda andningsskydd eller munskydd för att förhindra att hosta och nysningar sprider smitta i närmiljön och mot andra (...) är inte en dålig idé (...) ". Det finns ingen sida som återspeglar denna policyändring än. Se [videon på youtube] (https://www.youtube.com/watch?v=eh5hTTRd2Zs). Specifikt börjar det vid 59 minuter och 20 sekunder.
+Den 3 april sade Världshälsoorganisationens främsta expert på nödsituationer, Mike Ryan, under deras dagliga nyhetskonferens: "(...) idén att använda andningsskydd eller munskydd för att förhindra att hosta och nysningar sprider smitta i närmiljön och mot andra (...) är inte en dålig idé (...) ". Det finns ingen sida som återspeglar denna policyändring än. Se [videon på youtube](https://www.youtube.com/watch?v=eh5hTTRd2Zs). Specifikt börjar det vid 59 minuter och 20 sekunder.
 
 ======== 
 

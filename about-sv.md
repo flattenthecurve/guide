@@ -20,7 +20,7 @@ Vi kan alla bromsa spridningen av COVID-19 och platta ut kurvan tillsammans. Den
 
 "Flatten the Curve" är en kollektiv insats av människor, inklusive forskare och hälsoexperter. Vi talar inte på andra organisationers vägnar, eller försöker ersätta officiella kommunikationskanaler. 
 
- ## Författare 
+## Författare 
 
 Innehållet sammanställdes ursprungligen av Julie McMurry, magisterexamen i folkhälsa från [University of London School of Hygiene and Tropical Medicine](http://lshtm.ac.uk/) samt en bakgrund inom infektionssjukdomar och vaccinutveckling. Hon är för närvarande biträdande professor (senior forskning) vid Oregon State University inom College of Public Health; för att lära dig mer om hennes grupps arbete inom datormodeller för sällsynta genetiska sjukdomar, se gärna [tislab.org](http://tislab.org/). 
 
@@ -34,7 +34,7 @@ Andra bidragsgivare, kuratorer, granskare och översättare inkluderar:
  - **Sean Markey, Utgivare**, ([www.seanmarkey.com](https://www.seanmarkey.com)) 
 
 
- ## Vi stöds av 
+## Vi stöds av 
 
  <a href="https://ctsa.ncats.nih.gov/cd2h/" target="_blank"> <img src="/images/logos/CD2H.png" width="200px"/> </a> 
  <a href="https://instedd.org" target="_blank"> <img src="/images/logos/instedd_site_logo.png" width="200px"/> </a> 
