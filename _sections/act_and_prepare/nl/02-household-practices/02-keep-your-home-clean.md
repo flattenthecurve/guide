@@ -2,7 +2,7 @@
 
 {% include pending-sci-review.html %}
 
-[Het CDC heeft richtlijnen die je hier kunt bekijken.](https://www.cdc.govel/cop ronavirus/2019-ncov/prepare/cleaning-disinfection.html)
+[Het CDC heeft richtlijnen die je hier kunt bekijken.](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html)
 
 Reinig EN desinfecteer veelvuldig aangeraakte oppervlakken dagelijks. Daaronder vallen tafels, deurknoppen, lichtschakelaars, werkbladen, handgrepen, bureaus, telefoons, toetsenborden, toiletten, kranen en wastafels.
 Als oppervlakken vuil zijn, reinig ze dan eerst met water en zeep voordat je ze ontsmet.
