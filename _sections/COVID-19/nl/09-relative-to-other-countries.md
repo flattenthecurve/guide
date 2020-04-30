@@ -1,7 +1,7 @@
 ## Bepaalde beleidsmaatregelen zijn effectiever voor pandemische controle 
 
  - Universele gezondheidszorgdekking. 
- - Universeel gegarandeerd [betaald ziekteverlof] (https://www.worldpolicycenter.org/policies/for-how-long-are-workers-guaranteed-paid-sick-leave). 
+ - Universeel gegarandeerd [betaald ziekteverlof](https://www.worldpolicycenter.org/policies/for-how-long-are-workers-guaranteed-paid-sick-leave). 
  - Betaalde ziekteverlof duur van 4-6 weken. 
  - Gegarandeerd betaald verlof om te zorgen voor zieke gezinsleden. 
  - Gecoördineerde financiële of operationele ondersteuning voor mensen die zelf in quarantaine moeten gaan. 
