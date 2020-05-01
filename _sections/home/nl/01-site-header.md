@@ -24,7 +24,7 @@ Voorkom paniek en help een handje als het veilig is.
 <div markdown="1" class="mission">
 {:.no_toc.highlight-box}
 ## Wat te doen
-Wat je zou moeten doen](/act-and-prepare/#do) en [niet doen](/act-and-prepare/#do-niet) en [mythen](/act-and-prepare/#mythen) om te negeren.
+Leer [wat te doen](/act-and-prepare/#do) om jezelf en je gemeenschap te beschermen en [mythen](/act-and-prepare/#mythen) om te negeren.
 </div>
 <div markdown="1" class="mission">
 {:.no_toc.highlight-box}
@@ -45,7 +45,7 @@ Op 12 maart 2020 werkten medische deskundigen uit de hele wereld samen om de mee
 </div>
 <div markdown="1">
 ## Wil je meewerken?
-Deze site wordt onderhouden door een team van medische experts, vertalers, ingenieurs en ontwerpers die hun tijd vrijmaken. Wil je [helpen](/bijdragen)?
+Deze site wordt onderhouden door een team van medische experts, vertalers, ingenieurs en ontwerpers die hun tijd vrijmaken. Wil je [helpen](/contribute)?
 </div>
 
 </div>
