@@ -11,6 +11,6 @@
  - Ga niet naar de kerk - gebruik huisrituelen of streamingdiensten. 
  - Ga niet naar je werk tenzij het moet, en als je terugkomt, heb je een routine om terug te komen zodat je het virus niet bij je thuis binnen brengt. 
  - Ga niet winkelen voor niet-essentiële zaken. 
- - Als je eten in het restaurant laat bezorgen, gebruik dan een service die je vooraf kunt betalen en laat de bezorger het eten voor de deur achterlaten. Bestel ruim voordat je wil eten, zodat je het voedsel een paar uur kunt isoleren en indien nodig kunt opwarmen. 
+ - Als je eten van restaurants laat bezorgen, gebruik dan een service die je vooraf kunt betalen en laat de bezorger het eten voor de deur achterlaten. Bestel ruim voordat je wil eten, zodat je het voedsel een paar uur kunt isoleren en indien nodig kunt opwarmen. 
  - Draag bij het boodschappen doen handschoenen en isoleer je aankopen (en je handschoenen!) een paar uur op een veilige plek voordat je ze uitpakt. 
- - Ga naar buiten! Maar blijf lopen. Zeg hallo tegen mensen, krijg wat sociale interactie, maar krijg het terloops. Blijf fysiek op afstand van anderen. Stop niet bij een groep. Zorg daarvoor en zwaai naar alle huisdieren die worden uitgelaten. 
+ - Ga naar buiten! Maar blijf lopen. Zeg hallo tegen mensen, krijg wat sociale interactie, maar krijg het terloops. Blijf fysiek op afstand van anderen. Stop niet bij een groep. Zorg daarvoor dat je zwaait naar alle huisdieren die worden uitgelaten. 
