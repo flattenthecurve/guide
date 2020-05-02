@@ -57,7 +57,7 @@ languages: ["en", "es", "de", "fr", "it", "el", "ru", "cs", "mr"]
 
 # This controls whether sci notices are enabled or disabled by default.
 sci_review_notice_config:
-  enabled_by_default: false
+  enabled_by_default: true
   explicitly_enabled_for_languages: []
   explicitly_disabled_for_languages: []
 
