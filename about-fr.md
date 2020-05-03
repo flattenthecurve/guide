@@ -5,7 +5,7 @@ permalink: "/about/"
 lang: fr
 order: 4
 ---
-Au fur et à mesure que plus d'informations sont disponibles au sujet de COVID-19, un graphique très simple est devenu viral : "Aplatir la courbe". Il a reçu de très bonnes critiques car il a permis d'attirer l'attention à l'échelle et à la vitesse de diffusion du virus, et a permis d'illustrer le nombre de cas de COVID-19 auquel on pourrait s'attendre. 
+Au fur et à mesure que de nouvelles informations devenaient disponibles au sujet de COVID-19, un graphique très simple est devenu viral : "Aplatir la courbe". Il a reçu de très bonnes critiques car il a permis d'attirer l'attention à l'échelle et à la vitesse de diffusion du virus, et a permis d'illustrer le nombre de cas de COVID-19 auquel on pourrait s'attendre. 
 
 - Une courbe avec pointe très haute signifie que le virus se répand rapidement ; certaines personnes ne pourront alors pas bénéficier de soins nécessaires et le nombre de morts risque d'augmenter. 
 - Une courbe aplatie signifie que COVID-19 se répand lentement, que les nouvelles infections apparaissent de façon plus étalée dans le temps, ce qui permet aux professionnels médicaux le temps d'utiliser de manière optimale les ressources limitées dont ils disposent, pour soigner les gens et sauver des vies. 
