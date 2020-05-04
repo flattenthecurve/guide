@@ -36,14 +36,9 @@ STRINGS = YAML.load(File.open("_data/#{SOURCE_LANG}/strings.yml", 'r:UTF-8') { |
 
 CONFIG_YML = File.open("_config.yml", 'r:UTF-8') { |f| f.read }
 SUPPORTED_LANGS = YAML.load(CONFIG_YML)['languages']
-SCI_REVIEW_CFG = YAML.load(CONFIG_YML)['sci_review_notice_config']
 NEW_LANGS = []
 
 def should_have_sci_review_notice(lang, section, translated_file, no_review_keys: [])
-  # Check if review notices are enabled for this language
-  return false if SCI_REVIEW_CFG['explicitly_disabled_for_languages'].include? lang
-  return false if !SCI_REVIEW_CFG['enabled_by_default'] and !SCI_REVIEW_CFG['explicitly_enabled_for_languages'].include? lang
-
   return false if translated_file !~ /act_and_prepare/
   return false if !no_review_keys.include? section
   # Exclude  /00-blah.md headers
