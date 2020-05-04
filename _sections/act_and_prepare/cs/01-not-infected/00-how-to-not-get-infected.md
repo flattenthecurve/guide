@@ -1,0 +1,1 @@
+## Jak se vyhnout nákaze
