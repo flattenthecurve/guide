@@ -31,6 +31,12 @@ parser.add_argument(
     dest='show_tag_summaries',
     help='If given, print summaries of tag names where differences were found.')
 parser.add_argument(
+    '--ignore-order',
+    action='store_true',
+    dest='ignore_order',
+    help='If enabled, only compare the presence/absence of tags but ignore their relative order.')
+
+parser.add_argument(
     '--hide-diffs',
     action='store_true',
     dest='hide_diffs',
@@ -117,14 +123,23 @@ for base, html_trees in base_lang_trees.items():
             sym_diff = set(source_tags).symmetric_difference(set(dest_tags))
             diff_tags = [x.split('#')[0].split('/')[-1] for x in sym_diff]
             tag_summaries.update(diff_tags)
+            if args.hide_diffs:
+                continue
+            if args.ignore_order:
+                source_tags = sorted(source_tags)
+                dest_tags = sorted(dest_tags)
 
             diff = difflib.unified_diff(
                 source_tags, dest_tags,
                 fromfile=md_filenames[base]['en'],
                 tofile=md_filenames[base][lang],
                 lineterm='')
-            if not args.hide_diffs:
-                print("\n".join(diff))
+            diff = list(diff)[2:]  # Remove header
+            diff = [x for x in diff if x[0] in '+-']   # Retain only differing lines
+            diff.insert(0, f'=== {md_filenames[base][lang]} ===')  # Add custom header
+
+            print("")
+            print("\n".join(diff))
 
 found_diffs = False
 for lang in sorted(total_files):
