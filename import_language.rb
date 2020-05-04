@@ -39,7 +39,7 @@ SUPPORTED_LANGS = YAML.load(CONFIG_YML)['languages']
 NEW_LANGS = []
 
 def should_have_sci_review_notice(lang, section, translated_file, no_review_keys: [])
-  return false if translated_file !~ /act_and_prepare/
+  return false if translated_file !~ /\/(act_and_prepare|COVID-19)\//
   return false if !no_review_keys.include? section
   # Exclude  /00-blah.md headers
   return false if File.basename(translated_file) =~ /^00-/
