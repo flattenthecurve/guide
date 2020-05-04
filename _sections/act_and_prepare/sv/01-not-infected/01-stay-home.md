@@ -1,5 +1,7 @@
 ### Stanna hemma 
 
+{% include pending-sci-review.html %}
+
 Samhällsspridning av viruset kommer att ske i olika takt på olika platser i världen. Det bästa du kan göra, om inte din arbetsgivare redan kräver det, är att stanna hemma tills denna kurva har blivit tillräckligt platt. 
 
 - Ät inte ute. 
