@@ -34,7 +34,7 @@ Su questo sito troverai informazioni aggiornate, ottenute da fonti aperte e forn
 Leggi, contribuisci, e condividi fatti ed informazioni scientifiche che sono state raccolte su questo sito per aiutare tutti noi.
 
 {:.text-center}
-[**\>\> Iscriviti per ricevere aggiornamenti dal gruppo di scienziati di  FlattenTheCurve.com \<\<**](http://eepurl.com/gXKkvn)
+[**\>\> Iscriviti per ricevere aggiornamenti dal gruppo di scienziati di  FlattenTheCurve.com \<\<**](https://flattenthecurve.substack.com/)
 
 {:.text-center.narrow}
 _Gratuito, niente spam o pubblicità_
