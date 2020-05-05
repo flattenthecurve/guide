@@ -1,5 +1,7 @@
 ### Förstå när du behöver vård
 
+{% include pending-sci-review.html %}
+
 Sammanställt från [denna WHO-rapport](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
 Vanliga symtom 
 
