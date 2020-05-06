@@ -1,4 +1,6 @@
-## Det finns hopp. Det är du. Det är ansträngningen.
+## Det finns hopp. Det är du. Det är att anstränga sig.
+
+{% include pending-sci-review.html %}
 
 Du kan hjälpa till genom att följa så mycket som möjligt av följande vägledning. Ju tidigare försiktighetsåtgärder vidtas, och desto fler försiktighetsåtgärder som vidtas, desto fler liv räddar vi. Så enkelt är det. Förvänta dig att de som igår genomförde svaga åtgärder idag genomför starka åtgärder. Motstå frestelsen att ge upp hoppet. Nyckeln är att hålla sig lugn, och göra den stadiga ansträngningen med att kontrollera infektionen och att uppmana andra att följa efter.
 

@@ -1,4 +1,6 @@
 ## Detta är inte en normal influensa 
+
+{% include pending-sci-review.html %}
 **Inte ens i bästa fall** 
 
 Världshälsoorganisationen (WHO) uppskattar en dödlighet på 3,5% i genomsnitt över samtliga åldersgrupper, och de har tillhandahållit stora mängder övervakningsdata som bevis mot att det skulle finnas ett stort antal asymptomatiska fall. Det finns en mycket stark samsyn om att de som är 60 år och de med underliggande sjukdomar är hårdast drabbade. 
