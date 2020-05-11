@@ -32,3 +32,7 @@ order: 4
 - **Бенджамин Ф. Е. Ланге, кандидат наук**, [LinkedIn] (https://www.linkedin.com/in/dr-benjamin-f-e-lange-a609b838)
 - **Николь Васильевский, кандидат наук** ([ORCID](https://orcid.org/0000-0001-5208-3432))
 - **Шон Марки, издатель**, ([www.seanmarkey.com](https://www.seanmarkey.com))
+
+Проект поддержан:
+<a href="https://ctsa.ncats.nih.gov/cd2h/" target="_blank"><img src="/images/logos/CD2H.png" width="200px"/></a>
+<a href="https://instedd.org" target="_blank"><img src="/images/logos/instedd_site_logo.png" width="200px"/></a>
