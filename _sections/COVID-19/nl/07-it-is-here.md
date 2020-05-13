@@ -1,5 +1,7 @@
 ## Het is hier al
 
+{% include pending-sci-review.html %}
+
 Ga ervanuit dat het virus al in je stad / gemeente / werkplaats / kerk / etc. aanwezig is. Het is [vrijwel zeker "hier" en het is gewoon nog niet gedetecteerd](https://twitter.com/balajis/status/1234879748083503105) vanwege het tekort aan tests. Bovendien zijn er [6 staten in de VS die nog steeds geen één laboratorium klaar hebben om de test uit te voeren](https://www.npr.org/sections/health-shots/2020/03/06/812833596/coronavirus-14-deaths-now-in-u-s-new-cases-in-maryland-colorado), zelfs als ze al testen in handen hadden. Schattingen uit Italië zijn dat bij de eerste uitbraak het aantal daadwerkelijke infecties [vier keer hoger lag dan het aantal gevallen dat men toen kon aantonen](https://twitter.com/AdamJKucharski/status/1236004937529798659). 
 Cryptische overdracht in de gemeenschap gebeurde [al weken voordat het virus gedetecteerd in Seattle](https://twitter.com/trvrb/status/1236096904678633472). Seattle en Stanford doen geweldig werk om aan de slag te gaan met hun eigen testkits; [ongeveer 5-7% van de tests in Seattle is positief](https://twitter.com/UWVirology/status/1236017803162873856) en 
  iedereen (met indicatie van een arts) kan worden getest. 
