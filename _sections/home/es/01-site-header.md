@@ -23,14 +23,14 @@ Evita el pánico y ayuda a los demás mientras sea seguro hacerlo.
 ### Traducido al Español por [Mónica Muñoz Torres, PhD](https://www.linkedin.com/in/monimunozto/)
 
 {:.no_toc.text-center}
-#### Actualizado el {{site.data.last_updated[site.active_lang]}}
+#### Actualizado {{site.data.last_updated[site.active_lang]}}
 
 <div class="row col-3 ctas push-up-2">
 
 <div markdown="1" class="mission">
 {:.no_toc.highlight-box}
 ## Lo que debemos hacer
-[Lo que debes](/act-and-prepare/#do) y [no debes](/act-and-prepare/#do-not) hacer, así como [mitos](/act-and-prepare/#myths) que debes ignorar.
+Aprende [lo que puedes hacer](/act-and-prepare/#do) para protegerte a ti mismo y a tu comunidad, así como [mitos](/act-and-prepare/#myths) que debes ignorar.
 </div>
 <div markdown="1" class="mission">
 {:.no_toc.highlight-box}
