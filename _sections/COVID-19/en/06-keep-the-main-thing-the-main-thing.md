@@ -7,4 +7,4 @@ adequate evidence to warrant decisive, immediate, large-scale preventive action*
 curve of the epidemic](https://www.economist.com/briefing/2020/02/29/covid-19-is-now-in-50-countries-and-things-will-get-worse)
 so that our health systems can cope and to give time for the scientists to research vaccines and treatments.
 
-![](/en/images/health-system-capacity.svg)
+![](/images/health-system-capacity.svg)
