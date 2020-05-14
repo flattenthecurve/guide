@@ -7,7 +7,7 @@ COVID-19 is likely three times more infectious than flu](https://www.npr.org/sec
 Data from Iceland [suggests as many as 50% of cases may be asymptomatic](https://www.cnn.com/2020/04/01/europe/iceland-testing-coronavirus-intl/index.html). 
 There is very strong consensus that those aged 60+ and those with underlying conditions are the most severely impacted.
 
-![Chart showing COVID-19's mortality rate tops at 14.8% on adults over 80 years old, and is less than 1% on people under 50](/images/mortality-rate-by-age.svg)
+![Chart showing COVID-19's mortality rate tops at 14.8% on adults over 80 years old, and is less than 1% on people under 50](/en/images/mortality-rate-by-age.svg)
 
 Earlier in the pandemic, there was hope that the 3.5 percent figure was grossly overestimated.
 However as evidence continues to emerge, there is [dwindling support for that hope](https://www.statnews.com/2020/02/25/new-data-from-china-buttress-fears-about-high-coronavirus-fatality-rate-who-expert-says/). 
@@ -16,7 +16,7 @@ If this strain of coronavirus is like other viruses, aggressive measures that re
 
 Moreover, even IF the true COVID-19 mortality rate is as low as 1% ([as it is so far with the Diamond Princess](https://wwwnc.cdc.gov/eid/article/26/6/20-0452_article)), that would already be [ten times higher than the mortality rate of a typical seasonal flu](https://www.bloomberg.com/opinion/articles/2020-03-05/how-bad-is-the-coronavirus-let-s-compare-with-sars-ebola-flu).
 
-![Bar chart showing COVID-19 mortality rate estimated between 0.5% and 4.0%, versus Seasonal Flu at 0.1%](/images/mortality-rate.svg)
+![Bar chart showing COVID-19 mortality rate estimated between 0.5% and 4.0%, versus Seasonal Flu at 0.1%](/en/images/mortality-rate.svg)
 
 > The 61,099 flu-related deaths in the U.S. during the severe flu season of 2017-2018 amounted to 0.14% of the estimated 44.8 million cases of influenza-like illness. 
 There were also an estimated 808,129 flu-related hospitalizations, for a rate of 1.8%. 

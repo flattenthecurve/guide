@@ -5,4 +5,4 @@
  निर्णायक, त्वरित, मोठ्या प्रमाणात प्रतिबंधात्मक कारवाईची हमी देण्यास पुरेसा पुरावा देणारी**. दूर आणि दूर, सर्वात महत्वाची गोष्ट म्हणजे [साथीचा वक्र सपाट करा] (https://www.economist.com/briefing/2020/02/29/covid-19-is-now-in-50-countries-and-things-will-get-worse) 
  जेणेकरुन आपल्या आरोग्य यंत्रणेला सामना करता येईल आणि वैज्ञानिकांना लसी आणि उपचारांवर संशोधन करण्यास वेळ मिळेल. 
 
-![](/images/health-system-capacity.svg)
+![](/mr/images/health-system-capacity.svg)

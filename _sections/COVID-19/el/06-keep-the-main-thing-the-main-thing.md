@@ -7,4 +7,4 @@
  καμπύλη της επιδημίας](https://www.economist.com/briefing/2020/02/29/covid-19-is-now-in-50-countries-and-things-will-get-worse) 
  έτσι ώστε τα συστήματα υγείας μας να μπορέσουν να αντεπεξέλθουν και να δώσουν χρόνο στους επιστήμονες που ερευνούν εμβόλια και θεραπείες. 
 
-![](/images/health-system-capacity.svg)
+![](/el/images/health-system-capacity.svg)
