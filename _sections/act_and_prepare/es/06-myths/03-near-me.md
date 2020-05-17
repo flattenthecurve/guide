@@ -1,0 +1,3 @@
+### No hay infecciones cerca de mí. 
+
+¡Casi definitivamente hay infecciones cerca de ti! Pero no puedes verlas aún porque hay un retraso de dos semanas entre el momento de la infección y cuando la persona infectada muestra síntomas. Durante ese tiempo, la persona es contagiosa y propaga la infección. Por cada caso diagnosticado de COVID-19, es probable que haya cientos de casos no diagnosticados. Por esta razón, nuestra única oportunidad de evitar un desastre masivo de salud pública es si tomamos medidas preventivas antes de verlo por todas partes. [(Fuente)](https://www.cnn.com/2020/03/14/health/coronavirus-asymptomatic-spread/index.html)
