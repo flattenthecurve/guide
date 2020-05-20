@@ -1,0 +1,16 @@
+---
+title: なだらかな山にしよう
+description: これらのガイドラインは、COVID19の大流行に関して感染者数の推移を示すカーブをなだらかにし、感染拡大を制限し、そして病院やその他の医療体制への負荷を軽減することを目的としています。
+health-care: 医療システム能力
+time-since: 最初の感染事例からの時間
+quantity-of: 感染者数
+without-prot: 保護対策なし
+with-prot: 保護対策あり
+mort-rate-age: COVID-19 死亡率（年齢別）
+age: 年齢
+top-range: COVID-19（推定範囲の最上部）
+so-far: COVID-19（これまで）
+estimate: COVID-19（推定）
+bottom-estimate: COVID-19（推定範囲の下部）
+seasonal-flu: 季節性インフルエンザ
+pending-sci-review: "*新しいコンテンツ:この翻訳はまだ科学者によって検証されていません。もし検証にご協力いただけるようでしたら、[こちら](https://forms.gle/aPtMHFstGb5Dpod99)からご登録下さい。"
