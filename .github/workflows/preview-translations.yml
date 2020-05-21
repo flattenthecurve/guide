@@ -33,11 +33,11 @@ jobs:
         run: |
           mv docker-compose.ci.yml docker-compose.override.yml
           docker-compose run --rm web /bin/bash -c "(bundle check || bundle install --jobs=3) && bundle exec jekyll build"
-      - uses: amondnet/now-deployment@v2
+      - uses: amondnet/vercel-action@v19
         with:
-          zeit-token: ${{ secrets.ZEIT_TOKEN }}
+          vercel-token: ${{ secrets.ZEIT_TOKEN }}
           zeit-team-id: ${{ secrets.ZEIT_TEAM_ID }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          now-org-id: ${{ secrets.NOW_ORG_ID }}
-          now-project-id: ${{ secrets.NOW_PROJECT_ID }}
+          vercel-org-id: ${{ secrets.NOW_ORG_ID }}
+          vercel-project-id: ${{ secrets.NOW_PROJECT_ID }}
           working-directory: ./build
