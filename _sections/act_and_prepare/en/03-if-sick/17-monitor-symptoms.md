@@ -2,6 +2,8 @@
 ### Know when to go to hospital
 
 Compiled from [this WHO report](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)   
+Updated (May 22nd 2020) based on [CDC guidelines for adults](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html) and [children](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children/mis-c.html)
+
 Common symtoms
 
 <div class="table-wrap" markdown="1">
@@ -18,6 +20,23 @@ Common symtoms
 
 Gastrointestinal Symptoms (rare): 
 Diarrhea, nausea, vomiting, or abdominal discomfort are all possible early symptoms. They may appear a couple of days BEFORE the respiratory symptoms. 
+
+Emergency symptoms: (For both adults and children, seek emergency medical care immediately)
+- Trouble breathing
+- Persistent pain or pressure in the chest
+- New confusion
+- Inability to wake or stay awake
+- Bluish lips or face
+
+Multi-system inflammatory symptoms in Children ([CDC source])(https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children/mis-c.html)
+- Fever
+- Abdominal pain
+- Vomiting
+- Diarrhea
+- Neck pain
+- Rash
+- Bloodshot eyes
+- Feeling extra tired
 
 Timeline  
 -  Mild cases usually clear up in 7 days (no hospitalization). 
