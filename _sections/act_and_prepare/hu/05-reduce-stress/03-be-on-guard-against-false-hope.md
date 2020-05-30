@@ -1,0 +1,5 @@
+###  Ne dőljön be "eltitkolt gyógymódoknak" és házipatika-ötleteknek!
+
+{% include pending-sci-review.html %}
+
+ Legyen jó a testéhez. Számítson rá, hogy egyesek hasznot akarnak húzni a félelmeiből! Jelenleg nem érdemes olyan termékeket vásárolni, amiről azt állítják az eladók, hogy megvédenek a vírustól vagy gyógyítják az általa okozott betegséget! Az olyan, jelenleg is elérhető, gyógyszerek, mint a paracetamol vagy az ibuprofen, a tünetek enyhítésében lehetnek hasznosak; ugyanakkor egyelőre egyetlen szer sem bizonyult hatásosnak a vírus ellen. Ne higgyen azoknak, akik azt állítják, hogy ők kristályoktól vagy esszenciális olajoktól gyógyultak meg; ők a legjobb esetben jóindulatból, rosszabb esetben haszonszerzési céllal terjesztenek ilyesmit. A valóság ezzel szemben az, hogy sokan spontán meggyógyulnak, sok az enyhe lefolyású, gyógyszeres kezelés nélkül gyógyuló betegség. Ahelyett, hogy hamis gyógymódokkal foglalkozik, egyen egészséges ételeket. Tornázzon, meditáljon, pihenjen. Ne hanyagolja el a mentális egészségét, és ne használja a vírus miatti idegességet kifogásnak arra, hogy másokkal rosszul bánjon.
