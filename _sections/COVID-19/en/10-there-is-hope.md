@@ -4,4 +4,4 @@ You can help by following as much as possible of the following guidance. The ear
 
 From a dear friend in Beijing "Use wisdom but don't allow the pandemic to become an empty excuse for not loving your fellow humans. Choose generosity instead of hoarding. And on those really hard days (or maybe after watching too many news reports) turn up the music and dance! Celebrate the goodness! It's there, it will remain and you can be a catalyst for it!"
 
-[Here's how.](/act-and-prepare/)
+## [Here's how.](/act-and-prepare/)
