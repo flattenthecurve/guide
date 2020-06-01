@@ -6,5 +6,3 @@ According to the [IHME's projections from April 1st](http://www.healthdata.org/s
 We simply don't have the equipment, training, or messaging in place and we need to ramp up fast.
 No one does.
 That is why your choices today matter so much.
-
-Those of us with colleagues in Northern Italy (the region hardest hit) know they have exceptional physicians, infectious disease docs, and immunologists. They also have effectively universal care, so [this is not a developing-world tale that is irrelevant for the US situation.](https://twitter.com/drkomanduri/status/1236720751073546240)
