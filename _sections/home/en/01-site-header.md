@@ -1,15 +1,15 @@
 <div markdown="1" class="row col-3 do-these">
 <div markdown="1">
-### Avoid Contact
-Stay home. If you have to go out, avoid close contact.
+### Avoid Crowds
+The more people that are nearby, the higher your risk of infection.
 </div>
 <div markdown="1">
-### Wash Your Hands
-thoroughly and frequently and do not touch your face.
+### Avoid Closed spaces
+Opt for outdoor encounters wherever possible, else opt for maximum ventilation.
 </div>
 <div markdown="1">
-### Stay Calm
-Avoid panic and lend a helping hand when it's safe.
+### Avoid Close encounters
+Even in small gatherings, keep a safe distance from others and wear a face covering.
 </div>
 </div>
 
