@@ -1,0 +1,73 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="12 0 353 200">
+	<defs>
+		<style>
+			.red {
+				fill: #ee4338;
+			}
+
+			.title, .number, .label {
+				font-size: 8px;
+				fill: #000000;
+				font-family: Roboto-Regular, Roboto, sans-serif;
+			}
+
+			.label {
+				text-anchor: end;
+			}
+
+			.light{
+				opacity: 0.5;
+			}
+
+			.line,.grid{
+				fill:none;
+				stroke:#000000;
+			}
+
+			.grid {
+				opacity:0.1;
+			}
+		</style>
+	</defs>
+
+	<!-- translate text from here-->
+	<text class="title" transform="translate(14.82 14.01)">Tasa de mortalidad por COVID-19 por edad</text>
+	<text class="label" transform="translate(364 194.01)">Edad</text>
+	<!-- to here -->
+
+	<rect class="red" x="317" y="34" width="20" height="148"/>
+	<rect class="red" x="277" y="102" width="20" height="80"/>
+	<rect class="red" x="237" y="146" width="20" height="36"/>
+	<rect class="red" x="197" y="169" width="20" height="13"/>
+	<rect class="red" x="157" y="178" width="20" height="4"/>
+	<rect class="red" x="117" y="180" width="20" height="2"/>
+	<rect class="red" x="77" y="180" width="20" height="2"/>
+	<rect class="red" x="37" y="180" width="20" height="2"/>
+	<text class="number light" x="320" y="194">80+</text>
+	<text class="number light" x="277" y="194">70-79</text>
+	<text class="number light" x="237" y="194">60-69</text>
+	<text class="number light" x="197" y="194">50-59</text>
+	<text class="number light" x="157" y="194">40-49</text>
+	<text class="number light" x="117" y="194">30-39</text>
+	<text class="number light" x="77" y="194">20-29</text>
+	<text class="number light" x="37" y="194">10-19</text>
+	<text class="number" x="316" y="28">14.8%</text>
+	<text class="number" x="282" y="96">8%</text>
+	<text class="number" x="239" y="140">3.6%</text>
+	<text class="number" x="199" y="163">1.3%</text>
+	<text class="number" x="159" y="172">0.4%</text>
+	<text class="number" x="119" y="174">0.2%</text>
+	<text class="number" x="79" y="174">0.2%</text>
+	<text class="number" x="39" y="174">0.2%</text>
+	<text class="number light" x="12" y="44">15%</text>
+	<text class="number light" x="12" y="74">12%</text>
+	<text class="number light" x="12" y="104">9%</text>
+	<text class="number light" x="12" y="134">6%</text>
+	<text class="number light" x="12" y="164">3%</text>
+	<line class="line" x1="364" y1="182" x2="12" y2="182"/>
+	<line class="grid" x1="12" y1="32" x2="363" y2="32"/>
+	<line class="grid" x1="12" y1="92" x2="363" y2="92"/>
+	<line class="grid" x1="12" y1="122" x2="363" y2="122"/>
+	<line class="grid" x1="12" y1="152" x2="363" y2="152"/>
+	<line class="grid" x1="12" y1="62" x2="363" y2="62"/>
+</svg>
