@@ -1,3 +1,3 @@
-## Yes; this is bad
+## Stay vigilant; a vaccine is on the way
 
-We have entered the [pandemic phase which will likely be followed by seasonal recurrence of the disease](https://twitter.com/NAChristakis/status/1235983934187544578) unless and until we have a vaccine (which may [not be available until 2022](https://www.politico.com/news/2020/03/05/coronavirus-trump-vaccine-rhetoric-121796?nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=0000014e-f0fe-dd93-ad7f-f8ff7e290000&nlid=630318)).
+Although a significant fraction of the world has already been infected with Coronavirus, vigilance is still warranted. This is especially true now that safe and highly effective vaccines are on the horizon. In the US, rollout to healthcare workers will begin as soon as December, 2020 and to vulnerable populations thereafter. It is estimated that the vaccine would be widely available by summer 2020.
