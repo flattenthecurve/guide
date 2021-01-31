@@ -1,5 +1,7 @@
 ## Regulace pracovních podmínek a přístupu ke zdravotnické péči mohou napomoci efektivnímu boji s epidemií
 
+{% include pending-sci-review.html %}
+
 - Univerzální přístup ke zdravotní péči.
 - Garantovaná [nemocenská dovolená](https://www.worldpolicycenter.org/policies/for-how-long-are-workers-guaranteed-paid-sick-leave).
 - 4-6 týdnů placené nemocenské.
