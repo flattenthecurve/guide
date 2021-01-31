@@ -1,5 +1,7 @@
 ## Viss politik är mer effektiv för pandemikontroll 
 
+{% include pending-sci-review.html %}
+
 - Fri sjukvård
 - Garanterad [betald sjukfrånvaro](https://www.worldpolicycenter.org/policies/for-how-long-are-workers-guaranteed-paid-sick-leave). 
 - Betald sjukperiod på 4-6 veckor. 

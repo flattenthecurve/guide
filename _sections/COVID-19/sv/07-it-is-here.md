@@ -1,5 +1,7 @@
 ## Viruset är här
 
+{% include pending-sci-review.html %}
+
 Anta att viruset redan finns i din stad / by / arbetsplats / organisation / etc. Viruset [är nästan helt säkert "här" och är helt enkelt ännu inte upptäckt](https://twitter.com/balajis/status/1234879748083503105) på grund av brist på tester. Det finns [6 stater i USA som fortfarande inte har ett enda laboratorium redo att utföra tester](https://www.npr.org/sections/health-shots/2020/03/06/812833596/coronavirus-14-deaths-now-in-u-s-new-case-in-maryland-colorado) även om de ett fall i sina händer. Uppskattningar från Italien indikerar att i det tidiga utbrottet var antalet faktiska infektioner [fyra gånger så många fall än det var möjligt att bekräfta vid den tidpunkten](https://twitter.com/AdamJKucharski/status/1236004937529798659). Ej kartlagd smitta i samhället skedde [i veckor innan den upptäcktes i Seattle](https://twitter.com/trvrb/status/1236096904678633472). Seattle och Stanford gör ett fantastiskt jobb med att ta igen sin brist på tester; [cirka 5-7% av testerna i Seattle är positiva](https://twitter.com/UWVirology/status/1236017803162873856) och vem som helst (med läkarintyg) kan testas. 
 
  > Frustrerade av bristen på tester till följd av problemet med CDC-utvecklade tester började "Seattle Flu Study" med ett internt utvecklat test för att leta efter COVID-19 i prover från personer som testat negativt för influensa. Detta arbete - tillåtet eftersom det var forskning - avslöjade den smittade tonåringen i Snohomish County. 

@@ -25,7 +25,7 @@ Undvik panik och hjälp till när det är säkert.
 <div markdown="1" class="mission">
 {:.no_toc.highlight-box}
 ## Vad du bör göra
-[Vad du bör göra](/act-and-prepare/#do) och [inte göra](/act-and-prepare/#do-not) samt [myter](/act-and-prepare/#myths) att ignorera.
+Förstå [vad du bör göra](/act-and-prepare/) för att skydda dig själv och samhället, och läs på om [myter](/act-and-prepare/#myths) du bör ignorera.
 </div>
 <div markdown="1" class="mission">
 {:.no_toc.highlight-box}
