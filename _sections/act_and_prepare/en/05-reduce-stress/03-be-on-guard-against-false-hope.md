@@ -1,3 +1,0 @@
-### Ignore “secret treatments” and home remedies
-
-Be good to your body. Expect companies to capitalize on your fear. Don't put your trust in products or pharmaceuticals that are not backed by rigorous clinical testing. Expect to hear individuals who claim that crystals, essential oils, etc. have helped them; the folks sharing these products may have the best intentions, or they may be predatory. But the idea is the same: many patients spontaneously do get better on their own because most cases are mild and resolve without pharmaceutical intervention. Instead of worrying about remedies, eat good food. Exercise. Meditate. Rest. Don't neglect your mental health and don't use your anxiety as an excuse for poor behavior towards others.

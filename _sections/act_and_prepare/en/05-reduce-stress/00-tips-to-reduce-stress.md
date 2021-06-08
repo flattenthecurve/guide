@@ -1,1 +1,0 @@
-## Tips to reduce stress

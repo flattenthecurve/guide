@@ -1,1 +1,0 @@
-## Háztartási praktikák és felkészülés

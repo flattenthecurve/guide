@@ -1,1 +1,0 @@
-## Domácí praktiky a příprava

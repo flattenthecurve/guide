@@ -1,1 +1,0 @@
-## Tippek a stressz csökkentésére

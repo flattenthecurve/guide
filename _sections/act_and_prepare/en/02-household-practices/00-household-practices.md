@@ -1,1 +1,0 @@
-## Household practices and preparation

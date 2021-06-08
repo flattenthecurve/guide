@@ -1,1 +1,0 @@
-## Jak podpořit vaší komunitu

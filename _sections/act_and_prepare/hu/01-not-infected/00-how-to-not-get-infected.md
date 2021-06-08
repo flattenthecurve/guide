@@ -1,1 +1,0 @@
-## Hogyan ne fertőződjünk meg?
