@@ -1,5 +1,0 @@
-## It is (still) here
-
-Assume that the virus is still in your city / town / workplace / church / etc. Your local testing capacity may vary, so it may not be possible to detect an outbreak in time to curtail it. However, not all venues are equally risky. During the strictest parts of the lockdown, infections tend to be localized to high-risk environments such as [care homes, prisons, and meat-packing facilities](https://www.vox.com/future-perfect/2020/5/1/21239396/covid-19-meatpacking-prison-jail-moral). As things open up, expect more infections to be in places where there are larger numers of people congregating indoors at one time, especially when there is also generational mixing, and an emphasis on close contact. 
-
-Of those who get infected, some people (aka 'superspreaders') readily transmit virus but others do not. The specific reasons for this are not yet well understood. If you happen to be in the presence of any such person, even an otherwise low-risk encounter might result in your getting infected.
